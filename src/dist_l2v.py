@@ -15,7 +15,6 @@ graphe_1 = open("Graphe_1.txt","a")
 graphe_1. truncate(0)
 graphe_1.write("Source,Target,Id,Length\n")
 for i in range(len(dist)):
-    #string = str(streets[i][0])+","+str(streets[i][1])+","+str(streets[i][2])+","+str(1/streets[i][3])
-    # graphe_1.write(string+"\n")
-    pass
+    string = str(i)+","+str(i)+","+str(i*len(dist)+j)+","+str(1/dist[i][j])
+    graphe_1.write(string+"\n")
 graphe_1.close()
