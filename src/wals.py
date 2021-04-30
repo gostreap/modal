@@ -301,18 +301,19 @@ for lang in languages:
 
 # %%
 # X = ["French", "German", "Spanish", "English", "Italian", "Portuguese", "Danish", "Hungarian", "Bulgarian", "Basque", "Japanese", "Korean", "Mandarin", "Zulu", "Wolof", "Lithuanian", "Latvian"]
-# X = get_lang_with_more_than_n_features(140)
-X = ["English", "Mandarin", "Hindi", "Spanish", "Arabic (Modern Standard)", "Bengali", "French", "Russian", "Portuguese", "Urdu", "Indonesian", "German", "Japanese", "Marathi", "Telugu", "Turkish", "Tamil", "Cantonese", "Wu", "Korean", "Vietnamese", "Hausa", "Persian", "Swahili", "Javanese", "Italian", "Thai"]
+X = get_lang_with_more_than_n_features(40)
+# X = ["English", "Mandarin", "Hindi", "Spanish", "Arabic (Modern Standard)", "Bengali", "French", "Russian", "Portuguese", "Urdu", "Indonesian", "German", "Japanese", "Marathi", "Telugu", "Turkish", "Tamil", "Cantonese", "Wu", "Korean", "Vietnamese", "Hausa", "Persian", "Swahili", "Javanese", "Italian", "Thai"]
+# X = [x for x in languages]
 M = dist_matrix(X)
 m =squareform(M)
 
 
 Z = linkage(m, 'ward', optimal_ordering=True)
-fig = plt.figure(figsize=(10, 25))
+fig = plt.figure(figsize=(10, 100))
 dn = dendrogram(Z, labels=X, orientation='right',)
 
 Z = linkage(m, 'average', optimal_ordering=True)
-fig = plt.figure(figsize=(10, 25))
+fig = plt.figure(figsize=(10, 100))
 dn = dendrogram(Z, labels=X, orientation='right',)
 plt.show()
 # %%
