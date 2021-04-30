@@ -1,5 +1,11 @@
 #%%
+import json
+import matplotlib.pyplot as plt
+
 from lingtypology.datasets import Wals
+
+from scipy.cluster.hierarchy import dendrogram, linkage
+from scipy.spatial.distance import squareform
 
 feature_list = [
     "1A",
@@ -217,6 +223,15 @@ for feature in feature_list:
         )
 
 # %%
+def save_to_json(data, path):
+    out_file = open(path, 'w+')
+    json.dump(data, out_file)
+
+
+def load_languages_features():
+    return json.load(open("../data/languages_features.json"))
+
+# %%
 def dist(lang1, lang2):
     total = 0
     same = 0
@@ -225,6 +240,79 @@ def dist(lang1, lang2):
             total += 1
             if languages[lang1][feature] == languages[lang2][feature]:
                 same += 1
+    if total == 0:
+        return 1
     return 1 - same / total
 
+# %%
+def dist_matrix(langs):
+    M = []
+    for l1 in langs:
+        M.append([])
+        for l2 in langs:
+            M[-1].append(dist(l1, l2))
+    return M
+
+def get_lang_with_more_than_n_features(n):
+    langs = []
+    for lang in languages:
+        if len(languages[lang]) > n:
+            langs.append(lang)
+    return langs
+# %%
+
+# %%
+test = [
+    "1A",
+    "2A",
+    "3A",
+    "4A",
+    "5A",
+    "6A",
+    "7A",
+    "8A",
+    "9A",
+    "10A",
+    "10B",
+    "11A",
+    "12A",
+    "13A",
+    "14A",
+    "15A",
+    "16A",
+    "17A",
+    "18A",
+    "19A",
+]
+
+for lang in languages:
+    count = 0
+    total = 0
+    for feature in test:
+        if feature in languages["French"] and feature in languages[lang]:
+            total += 1
+            if languages["French"][feature] == languages[lang][feature]:
+                continue
+        else:
+            continue
+        count += 1
+    if total > 5 and count / total > 0.8:
+        print(lang, count, total)
+
+# %%
+# X = ["French", "German", "Spanish", "English", "Italian", "Portuguese", "Danish", "Hungarian", "Bulgarian", "Basque", "Japanese", "Korean", "Mandarin", "Zulu", "Wolof", "Lithuanian", "Latvian"]
+# X = get_lang_with_more_than_n_features(140)
+X = ["English", "Mandarin", "Hindi", "Spanish", "Arabic (Modern Standard)", "Bengali", "French", "Russian", "Portuguese", "Urdu", "Indonesian", "German", "Japanese", "Marathi", "Telugu", "Turkish", "Tamil", "Cantonese", "Wu", "Korean", "Vietnamese", "Hausa", "Persian", "Swahili", "Javanese", "Italian", "Thai"]
+M = dist_matrix(X)
+m =squareform(M)
+
+
+Z = linkage(m, 'ward', optimal_ordering=True)
+fig = plt.figure(figsize=(10, 25))
+dn = dendrogram(Z, labels=X, orientation='right',)
+
+Z = linkage(m, 'average', optimal_ordering=True)
+fig = plt.figure(figsize=(10, 25))
+dn = dendrogram(Z, labels=X, orientation='right',)
+plt.show()
 # %%
