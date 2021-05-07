@@ -1,4 +1,5 @@
 import json
+
 feature_list = [
     "1A",
     "2A",
@@ -204,16 +205,16 @@ data = json.load(file)
 languages = [*data]
 # # # construction du .csv pour Neo4J
 
-graphe_neo4j = open("graphe_neo4j.csv","a")
-graphe_neo4j. truncate(0)
+graphe_neo4j = open("graphe_neo4j.csv","w")
 graphe_neo4j.write("Languages,"+firstRowCSV+"\n")
 
 for i in range(len(languages)):
     strLangue = languages[i]
+    graphe_neo4j.write("\n" + strLangue)
     for j in range(len(feature_list)):
-        if feature_list[j] in data[str(strLangue)]:
-            strLangue = strLangue + ","+ str(data[strLangue][feature_list[i]])
+        if feature_list[j] in data[strLangue]:
+            strAtt = ","+ str(data[strLangue][feature_list[j]])
         else:
-            strLangue = strLangue + "," + "0"
-        graphe_neo4j.write(strLangue+"\n")
+            strAtt = "," + "0"
+        graphe_neo4j.write(strAtt)
 graphe_neo4j.close()
