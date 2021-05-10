@@ -8,8 +8,42 @@ from scipy.cluster.hierarchy import dendrogram, fcluster, linkage
 from scipy.spatial.distance import squareform
 
 feature_list = [
-    feature.strip() for feature in open("../data/feature_list.txt", "r").readlines()
+    feature.strip().upper()
+    for feature in open("../data/feature_list.txt", "r").readlines()
 ]
+
+# %%
+def write_wals():
+    features = dict()
+    for feature in feature_list:
+        features[feature] = Wals(feature).get_df()
+
+    wals = dict()
+    for feature in feature_list:
+        for idx, row in features[feature].iterrows():
+            if row["wals_code"] not in wals:
+                wals[row["wals_code"]] = dict()
+                wals[row["wals_code"]]["language"] = row["language"]
+                wals[row["wals_code"]]["genus"] = row["genus"]
+                wals[row["wals_code"]]["family"] = row["language"]
+                coordinates = list(row["coordinates"])
+                wals[row["wals_code"]]["latitude"] = float(coordinates[0])
+                wals[row["wals_code"]]["longitude"] = float(coordinates[1])
+            wals[row["wals_code"]]["_" + feature + "_area"] = row[
+                "_" + feature + "_area"
+            ]
+            wals[row["wals_code"]]["_" + feature] = row[
+                "_" + feature
+            ]
+            wals[row["wals_code"]]["_" + feature + "_num"] = row[
+                "_" + feature + "_num"
+            ]
+            wals[row["wals_code"]]["_" + feature + "_desc"] = row[
+                "_" + feature + "_desc"
+            ]
+
+    wals_file = open("../data/wals.json", "w")
+    json.dump(wals, wals_file)
 
 
 # %%
@@ -56,6 +90,10 @@ def load_languages_geo():
     return json.load(open("../data/languages_geo.json"))
 
 
+def load_wals():
+    return json.load(open("../data/wals.json"))
+
+
 # %%
 languages = load_languages_features()
 languages_geo = load_languages_geo()
@@ -94,46 +132,6 @@ def get_lang_with_more_than_n_features(n):
 
 
 # %%
-
-# %%
-test = [
-    "1A",
-    "2A",
-    "3A",
-    "4A",
-    "5A",
-    "6A",
-    "7A",
-    "8A",
-    "9A",
-    "10A",
-    "10B",
-    "11A",
-    "12A",
-    "13A",
-    "14A",
-    "15A",
-    "16A",
-    "17A",
-    "18A",
-    "19A",
-]
-
-for lang in languages:
-    count = 0
-    total = 0
-    for feature in test:
-        if feature in languages["French"] and feature in languages[lang]:
-            total += 1
-            if languages["French"][feature] == languages[lang][feature]:
-                continue
-        else:
-            continue
-        count += 1
-    if total > 5 and count / total > 0.8:
-        print(lang, count, total)
-
-# %%
 # X = ["French", "German", "Spanish", "English", "Italian", "Portuguese",
 # "Danish", "Hungarian", "Bulgarian", "Basque", "Japanese", "Korean",
 # "Mandarin", "Zulu", "Wolof", "Lithuanian", "Latvian"]
@@ -152,12 +150,7 @@ def plot_dendrogram(langs, method="average", threshold=0.5):
     m = squareform(M)
     Z = linkage(m, method=method, optimal_ordering=True)
     fig = plt.figure(figsize=(10, 100))
-    dn = dendrogram(
-        Z,
-        labels=langs,
-        orientation="right",
-        color_threshold=threshold
-    )
+    dn = dendrogram(Z, labels=langs, orientation="right", color_threshold=threshold)
     plt.show()
 
 
