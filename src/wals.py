@@ -25,7 +25,7 @@ def write_wals():
                 wals[row["wals_code"]] = dict()
                 wals[row["wals_code"]]["language"] = row["language"]
                 wals[row["wals_code"]]["genus"] = row["genus"]
-                wals[row["wals_code"]]["family"] = row["language"]
+                wals[row["wals_code"]]["family"] = row["family"]
                 coordinates = list(row["coordinates"])
                 wals[row["wals_code"]]["latitude"] = float(coordinates[0])
                 wals[row["wals_code"]]["longitude"] = float(coordinates[1])
@@ -95,6 +95,8 @@ def load_wals():
 
 
 # %%
+NOT_FEATURES = ["language", "genus", "family", "latitude", "longitude"]
+
 languages = load_languages_features()
 wals = load_wals()
 # languages_geo = load_languages_geo()
@@ -104,10 +106,10 @@ wals = load_wals()
 def dist(lang1, lang2, threshold=20):
     total = 0
     same = 0
-    for feature in languages[lang1]:
-        if feature in languages[lang2]:
+    for feature in wals[lang1]:
+        if feature not in NOT_FEATURES and feature in wals[lang2]:
             total += 1
-            if languages[lang1][feature] == languages[lang2][feature]:
+            if wals[lang1][feature] == wals[lang2][feature]:
                 same += 1
     if total < threshold:
         return 1
@@ -126,23 +128,10 @@ def dist_matrix(langs, threshold=20):
 
 def get_lang_with_more_than_n_features(n):
     langs = []
-    for lang in languages:
-        if len(languages[lang]) > n:
+    for lang in wals:
+        if (len(wals[lang]) - 5)/4 > n:
             langs.append(lang)
     return langs
-
-
-# %%
-# X = ["French", "German", "Spanish", "English", "Italian", "Portuguese",
-# "Danish", "Hungarian", "Bulgarian", "Basque", "Japanese", "Korean",
-# "Mandarin", "Zulu", "Wolof", "Lithuanian", "Latvian"]
-# X = get_lang_with_more_than_n_features(40)
-# X = ["English", "Mandarin", "Hindi", "Spanish", "Arabic (Modern Standard)",
-# "Bengali", "French", "Russian", "Portuguese", "Urdu", "Indonesian",
-# "German", "Japanese", "Marathi", "Telugu", "Turkish", "Tamil",
-# "Cantonese", "Wu", "Korean", "Vietnamese", "Hausa", "Persian",
-# "Swahili", "Javanese", "Italian", "Thai"]
-# X = [x for x in languages]
 
 
 # %%
@@ -166,7 +155,8 @@ def clusterize(langs, method="average", threshold=0.5):
 
 # %%
 def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
-    cluster = clusterize(langs, threshold=cluster_threshold)
+    # cluster = clusterize(langs, threshold=cluster_threshold)
+    cluster = [wals[lang]["family"] for lang in langs]
     nodes = open("../data/Graph_lang_wals_nodes.csv", "w")
     nodes.write("Id,Label, lat, lng, cluster\n")
     for i, lang in enumerate(langs):
@@ -174,8 +164,8 @@ def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
             "{}, {}, {}, {}, {}\n".format(
                 lang,
                 lang,
-                languages_geo[lang]["latitude"],
-                languages_geo[lang]["longitude"],
+                wals[lang]["latitude"],
+                wals[lang]["longitude"],
                 cluster[i],
             )
         )
