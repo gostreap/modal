@@ -203,7 +203,7 @@ for elem in feature_list:
 
 # open Wals.json
 file_wals = open("../data/wals.json", )
-data_wals = json.load(file_wals)
+wals = json.load(file_wals)
 
 # open phoible.csv
 df_phoeble = pd.read_csv(r"../data/phoeble.csv", low_memory = False)
@@ -216,16 +216,31 @@ values_list = list(df_wals["ISO 639-3"])
 zip_iterator = zip(keys_list, values_list)
 dictCorrespondance = dict(zip_iterator)
 
-languages_walscodes = [*data_wals]
+languages_walscodes = [*wals]
 languages_walsISO = []
 for code in languages_walscodes:
     if code in dictCorrespondance:
         languages_walsISO.append(dictCorrespondance[code])
 
-languages_phoeble = df_phoeble["ISO6393"]
+iso_phoeble = df_phoeble["ISO6393"]
+name_phoeble = df_phoeble["LanguageName"]
 
-languages = list(set(languages_walsISO).intersection(languages_phoeble))
+languages = list(set(languages_walsISO).intersection(iso_phoeble))
 print(len(languages))
+
+new_languages_walscodes = []
+for code in languages_walscodes:
+    if code in dictCorrespondance:
+        if dictCorrespondance[code] not in languages:
+            new_languages_walscodes.append(code)
+
+wals_languages = []
+for lang in new_languages_walscodes:
+    wals_languages.append(wals[lang]["language"])
+
+languages = languages + list(set(wals_languages).intersection(name_phoeble))
+print(len(languages))
+
 # # # construction du .csv pour Neo4J
 
 # graphe_neo4j = open("../data/graphe_neo4j.csv","w")
