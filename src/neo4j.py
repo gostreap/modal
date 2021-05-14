@@ -1,5 +1,5 @@
 import json
-
+import pandas as pd
 feature_list = [
     "1A",
     "2A",
@@ -194,27 +194,51 @@ feature_list = [
     "144X",
     "144Y",
 ]
+
+# creating Neo4J graph through .csv
 firstRowCSV = ""
 for elem in feature_list:
     firstRowCSV = firstRowCSV + elem + ","
 
 
-# Opening JSON file
-file = open("../data/languages_features.json", )
-data = json.load(file)
-languages = [*data]
+# open Wals.json
+file_wals = open("../data/wals.json", )
+data_wals = json.load(file_wals)
+
+# open phoible.csv
+df_phoeble = pd.read_csv(r"../data/phoeble.csv", low_memory = False)
+
+# open languoid.tab for correspondance ISO to Wals code
+df_wals = pd.read_csv(r"../data/correspondanceWals.csv", encoding='latin-1',low_memory = False)
+
+keys_list = list(df_wals["WALS code"])
+values_list = list(df_wals["ISO 639-3"])
+zip_iterator = zip(keys_list, values_list)
+dictCorrespondance = dict(zip_iterator)
+
+languages_walscodes = [*data_wals]
+languages_walsISO = []
+for code in languages_walscodes:
+    if code in dictCorrespondance:
+        languages_walsISO.append(dictCorrespondance[code])
+
+languages_phoeble = df_phoeble["ISO6393"]
+
+languages = list(set(languages_walsISO).intersection(languages_phoeble))
+print(len(languages))
 # # # construction du .csv pour Neo4J
 
-graphe_neo4j = open("graphe_neo4j.csv","w")
-graphe_neo4j.write("Languages,"+firstRowCSV+"\n")
+# graphe_neo4j = open("../data/graphe_neo4j.csv","w")
+# graphe_neo4j.write("Languages,"+firstRowCSV+"\n")
+#
+# for i in range(len(languages)):
+#     strLangue = languages[i]
+#     graphe_neo4j.write("\n" + strLangue)
+#     for j in range(len(feature_list)):
+#         if feature_list[j] in data[strLangue]:
+#             strAtt = ","+ str(data[strLangue][feature_list[j]])
+#         else:
+#             strAtt = "," + "0"
+#         graphe_neo4j.write(strAtt)
+# graphe_neo4j.close()
 
-for i in range(len(languages)):
-    strLangue = languages[i]
-    graphe_neo4j.write("\n" + strLangue)
-    for j in range(len(feature_list)):
-        if feature_list[j] in data[strLangue]:
-            strAtt = ","+ str(data[strLangue][feature_list[j]])
-        else:
-            strAtt = "," + "0"
-        graphe_neo4j.write(strAtt)
-graphe_neo4j.close()
