@@ -96,7 +96,8 @@ def load_wals():
 
 # %%
 languages = load_languages_features()
-languages_geo = load_languages_geo()
+wals = load_wals()
+# languages_geo = load_languages_geo()
 
 
 # %%
