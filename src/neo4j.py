@@ -250,7 +250,8 @@ arr_iso = [langToIso[elem] for elem in arr]
 languages = languages + arr_iso
 
 languages.sort()
-print(languages)
+print(len(languages))
+
 # # construction du nodes_lang.csv pour Neo4J
 
-dataframe = pd.read_excel ("../data/correspondanceWals.csv")
+#dataframe = pd.read_csv("../data/correspondanceWals.csv")
