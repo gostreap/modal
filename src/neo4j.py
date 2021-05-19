@@ -1,5 +1,8 @@
 import json
 import pandas as pd
+import sys
+sys.getdefaultencoding()
+
 feature_list = [
     "1A",
     "2A",
@@ -246,15 +249,8 @@ arr = list(set(wals_languages).intersection(name_phoeble))
 arr_iso = [langToIso[elem] for elem in arr]
 languages = languages + arr_iso
 
-
+languages.sort()
+print(languages)
 # # construction du nodes_lang.csv pour Neo4J
 
-graphe_neo4j = open("../data/nodes_lang.csv","w")
-graphe_neo4j.write("Languages, ISO 639-3, Genus, Family, Latitude, Longitude\n")
-
-for i in range(len(languages)):
-    strLangue = isoToLang[languages[i]]
-    codeWals = ISOToWals[languages[i]]
-    graphe_neo4j.write("\n" + strLangue+", "+languages[i]+", "+ wals[codeWals]["genus"]+", "+ wals[codeWals]["family"]+", "+ str(wals[codeWals]["latitude"])+", "+ str(wals[codeWals]["longitude"]))
-graphe_neo4j.close()
-
+dataframe = pd.read_excel ("../data/correspondanceWals.csv")
