@@ -1,5 +1,8 @@
 import json
 import pandas as pd
+import sys
+sys.getdefaultencoding()
+
 feature_list = [
     "1A",
     "2A",
@@ -194,13 +197,6 @@ feature_list = [
     "144X",
     "144Y",
 ]
-
-# creating Neo4J graph through .csv
-firstRowCSV = ""
-for elem in feature_list:
-    firstRowCSV = firstRowCSV + elem + ","
-
-
 # open Wals.json
 file_wals = open("../data/wals.json", )
 wals = json.load(file_wals)
@@ -213,47 +209,48 @@ df_wals = pd.read_csv(r"../data/correspondanceWals.csv", encoding='latin-1',low_
 
 keys_list = list(df_wals["WALS code"])
 values_list = list(df_wals["ISO 639-3"])
-zip_iterator = zip(keys_list, values_list)
-dictCorrespondance = dict(zip_iterator)
+
+zip_iterator_walsToISO = zip(keys_list, values_list)
+walsToISO = dict(zip_iterator_walsToISO)
+
+zip_iterator_ISOToWals = zip(values_list, keys_list)
+ISOToWals = dict(zip_iterator_ISOToWals)
+
 
 languages_walscodes = [*wals]
 languages_walsISO = []
 for code in languages_walscodes:
-    if code in dictCorrespondance:
-        languages_walsISO.append(dictCorrespondance[code])
+    if code in walsToISO:
+        languages_walsISO.append(walsToISO[code])
 
 iso_phoeble = df_phoeble["ISO6393"]
 name_phoeble = df_phoeble["LanguageName"]
 
+# creating dict for lang -> ISO and ISO -> lang
+zip_iterator_langToIso = zip(name_phoeble, iso_phoeble)
+langToIso = dict(zip_iterator_langToIso)
+
+zip_iterator_isoToLang = zip(iso_phoeble, name_phoeble)
+isoToLang = dict(zip_iterator_isoToLang)
+
 languages = list(set(languages_walsISO).intersection(iso_phoeble))
-print(len(languages))
 
 new_languages_walscodes = []
 for code in languages_walscodes:
-    if code in dictCorrespondance:
-        if dictCorrespondance[code] not in languages:
+    if code in walsToISO:
+        if walsToISO[code] not in languages:
             new_languages_walscodes.append(code)
 
 wals_languages = []
 for lang in new_languages_walscodes:
     wals_languages.append(wals[lang]["language"])
 
-languages = languages + list(set(wals_languages).intersection(name_phoeble))
-print(len(languages))
+arr = list(set(wals_languages).intersection(name_phoeble))
+arr_iso = [langToIso[elem] for elem in arr]
+languages = languages + arr_iso
 
-# # # construction du .csv pour Neo4J
+languages.sort()
+print(languages)
+# # construction du nodes_lang.csv pour Neo4J
 
-# graphe_neo4j = open("../data/graphe_neo4j.csv","w")
-# graphe_neo4j.write("Languages,"+firstRowCSV+"\n")
-#
-# for i in range(len(languages)):
-#     strLangue = languages[i]
-#     graphe_neo4j.write("\n" + strLangue)
-#     for j in range(len(feature_list)):
-#         if feature_list[j] in data[strLangue]:
-#             strAtt = ","+ str(data[strLangue][feature_list[j]])
-#         else:
-#             strAtt = "," + "0"
-#         graphe_neo4j.write(strAtt)
-# graphe_neo4j.close()
-
+dataframe = pd.read_excel ("../data/correspondanceWals.csv")
