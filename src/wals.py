@@ -89,6 +89,12 @@ def load_languages_geo():
 def load_wals():
     return json.load(open("../data/wals.json"))
 
+def load_most_spoken():
+    most_spoken = dict()
+    for line in open("../data/most_spoken_wals", "r").readlines():
+        a, b = line.split()
+        most_spoken[a] = int(b)
+    return most_spoken
 
 # %%
 NOT_FEATURES = ["language", "genus", "family", "latitude", "longitude"]
@@ -135,50 +141,6 @@ euro = [
     "rus"
 ]
 
-most_spoken = [
-    "eng",
-    "mnd",
-    "hin",
-    "spa",
-    "ams",
-    "ben",
-    "fre",
-    "rus",
-    "por",
-    "urd",
-    "ger",
-    "ind",
-    "jpn",
-    "mhi",
-    "tel",
-    "tur",
-    "tml",
-    "cnt",
-    "wuc",
-    "kor",
-    "vie",
-    "hau",
-    "prs",
-    "aeg",
-    "swa",
-    "jav",
-    "ita",
-    "pan",
-    "guj",
-    "tha",
-    "knd",
-    "amh",
-    "bho",
-    "hok",
-    # "npi",
-    "jin",
-    "tag",
-    "hak",
-    "yor",
-    "brm",
-    "pol",
-    "oya"
-]
 # languages_geo = load_languages_geo()
 
 
