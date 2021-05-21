@@ -271,7 +271,7 @@ def plot_geo_lang_dist(langs):
                     d = dist(lang1, lang2, threshold=100)
                     if d != 1:
                         c += 1
-                        X.append(geo_dist(lang1, lang2).km)
+                        X.append(math.log(geo_dist(lang1, lang2).km))
                         Y.append(d)
     print(np.corrcoef(X,Y))
     print(c)
