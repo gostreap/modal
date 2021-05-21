@@ -32,8 +32,12 @@ def write_wals():
             wals[row["wals_code"]]["_" + feature + "_area"] = row[
                 "_" + feature + "_area"
             ]
-            wals[row["wals_code"]]["_" + feature] = row["_" + feature]
-            wals[row["wals_code"]]["_" + feature + "_num"] = row["_" + feature + "_num"]
+            wals[row["wals_code"]]["_" + feature] = row[
+                "_" + feature
+            ]
+            wals[row["wals_code"]]["_" + feature + "_num"] = row[
+                "_" + feature + "_num"
+            ]
             wals[row["wals_code"]]["_" + feature + "_desc"] = row[
                 "_" + feature + "_desc"
             ]
@@ -95,90 +99,6 @@ NOT_FEATURES = ["language", "genus", "family", "latitude", "longitude"]
 
 languages = load_languages_features()
 wals = load_wals()
-
-euro = [
-    "gae",
-    "iri",
-    "bre",
-    "wel",
-    "ice",
-    "nor",
-    "swe",
-    "dsh",
-    "eng",
-    "ger",
-    "dut",
-    "fre",
-    "ita",
-    "spa",
-    "ctl",
-    "rom",
-    "por",
-    "grk",
-    "alb",
-    "bsq",
-    "fin",
-    "lat",
-    "est",
-    "lit",
-    "hun",
-    "pol",
-    "ukr",
-    "svk",
-    "slo",
-    "scr",
-    # "mol",
-    "blr",
-    "mcd",
-    "bul",
-    # "bos",
-    "rus"
-]
-
-most_spoken = [
-    "eng",
-    "mnd",
-    "hin",
-    "spa",
-    "ams",
-    "ben",
-    "fre",
-    "rus",
-    "por",
-    "urd",
-    "ger",
-    "ind",
-    "jpn",
-    "mhi",
-    "tel",
-    "tur",
-    "tml",
-    "cnt",
-    "wuc",
-    "kor",
-    "vie",
-    "hau",
-    "prs",
-    "aeg",
-    "swa",
-    "jav",
-    "ita",
-    "pan",
-    "guj",
-    "tha",
-    "knd",
-    "amh",
-    "bho",
-    "hok",
-    # "npi",
-    "jin",
-    "tag",
-    "hak",
-    "yor",
-    "brm",
-    "pol",
-    "oya"
-]
 # languages_geo = load_languages_geo()
 
 
@@ -209,7 +129,7 @@ def dist_matrix(langs, threshold=20):
 def get_lang_with_more_than_n_features(n):
     langs = []
     for lang in wals:
-        if (len(wals[lang]) - 5) / 4 > n:
+        if (len(wals[lang]) - 5)/4 > n:
             langs.append(lang)
     return langs
 
@@ -235,15 +155,15 @@ def clusterize(langs, method="average", threshold=0.5):
 
 # %%
 def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
-    cluster = clusterize(langs, threshold=cluster_threshold)
-    # cluster = [wals[lang]["family"] for lang in langs]
+    # cluster = clusterize(langs, threshold=cluster_threshold)
+    cluster = [wals[lang]["family"] for lang in langs]
     nodes = open("../data/Graph_lang_wals_nodes.csv", "w")
     nodes.write("Id,Label, lat, lng, cluster\n")
     for i, lang in enumerate(langs):
         nodes.write(
             "{}, {}, {}, {}, {}\n".format(
                 lang,
-                wals[lang]["language"],
+                lang,
                 wals[lang]["latitude"],
                 wals[lang]["longitude"],
                 cluster[i],
@@ -253,14 +173,14 @@ def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
 
     M = dist_matrix(langs)
     edges = open("../data/Graph_lang_wals_edges.csv", "w")
-    edges.write("Source,Target,Id,Length,Type, Weight\n")
+    edges.write("Source,Target,Id,Length, Type\n")
     for i in range(len(langs)):
         for j in range(i + 1, len(langs)):
             if M[i][j] > threshold:
                 continue
             edges.write(
-                "{}, {}, {}, {}, {}, {}\n".format(
-                    langs[i], langs[j], i * len(langs) + j, M[i][j], "Undirected", 1 - M[i][j]
+                "{}, {}, {}, {}, {}\n".format(
+                    langs[i], langs[j], i * len(langs) + j, M[i][j], "Undirected"
                 )
             )
     edges.close()
