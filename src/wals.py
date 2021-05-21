@@ -1,101 +1,266 @@
+# %%
+import json
+import matplotlib.pyplot as plt
+
 from lingtypology.datasets import Wals
 
-import json
-import pandas as pd
-import sys
-
-from wals import load_languages_features
-sys.getdefaultencoding()
-
+from scipy.cluster.hierarchy import dendrogram, fcluster, linkage
+from scipy.spatial.distance import squareform
 
 feature_list = [
     feature.strip().upper()
     for feature in open("../data/feature_list.txt", "r").readlines()
 ]
 
-# open Wals.json
-file_wals = open("../data/wals.json", )
-wals = json.load(file_wals)
+# %%
+def write_wals():
+    features = dict()
+    for feature in feature_list:
+        features[feature] = Wals(feature).get_df()
 
-# open phoible.csv
-df_phoeble = pd.read_csv(r"../data/phoeble.csv", low_memory = False)
+    wals = dict()
+    for feature in feature_list:
+        for idx, row in features[feature].iterrows():
+            if row["wals_code"] not in wals:
+                wals[row["wals_code"]] = dict()
+                wals[row["wals_code"]]["language"] = row["language"]
+                wals[row["wals_code"]]["genus"] = row["genus"]
+                wals[row["wals_code"]]["family"] = row["family"]
+                coordinates = list(row["coordinates"])
+                wals[row["wals_code"]]["latitude"] = float(coordinates[0])
+                wals[row["wals_code"]]["longitude"] = float(coordinates[1])
+            wals[row["wals_code"]]["_" + feature + "_area"] = row[
+                "_" + feature + "_area"
+            ]
+            wals[row["wals_code"]]["_" + feature] = row["_" + feature]
+            wals[row["wals_code"]]["_" + feature + "_num"] = row["_" + feature + "_num"]
+            wals[row["wals_code"]]["_" + feature + "_desc"] = row[
+                "_" + feature + "_desc"
+            ]
 
-# open languoid.tab for correspondance ISO to Wals code
-df_wals = pd.read_csv(r"../data/correspondanceWals.csv", encoding='latin-1',low_memory = False)
-
-keys_list = list(df_wals["WALS code"])
-values_list = list(df_wals["ISO 639-3"])
-
-zip_iterator_walsToISO = zip(keys_list, values_list)
-walsToISO = dict(zip_iterator_walsToISO)
-
-zip_iterator_ISOToWals = zip(values_list, keys_list)
-ISOToWals = dict(zip_iterator_ISOToWals)
+    wals_file = open("../data/wals.json", "w")
+    json.dump(wals, wals_file)
 
 
-languages_walscodes = [*wals]
-languages_walsISO = []
-for code in languages_walscodes:
-    if code in walsToISO:
-        languages_walsISO.append(walsToISO[code])
+# %%
+def construct_languages():
+    features = dict()
+    for feature in feature_list:
+        features[feature] = Wals(feature).get_df()
 
-iso_phoeble = df_phoeble["ISO6393"]
-name_phoeble = df_phoeble["LanguageName"]
+    languages = dict()
+    languages_geo = dict()
+    for feature in feature_list:
+        print("Feature :", feature)
+        for lang in features[feature].language:
+            if lang not in languages_geo:
+                coordinates = features[feature].loc[
+                    features[feature]["language"] == lang
+                ]["coordinates"]
+                coordinates = list(coordinates)[0]
+                languages_geo[lang] = dict()
+                languages_geo[lang]["latitude"] = float(coordinates[0])
+                languages_geo[lang]["longitude"] = float(coordinates[1])
 
-# creating dict for lang -> ISO and ISO -> lang
-zip_iterator_langToIso = zip(name_phoeble, iso_phoeble)
-langToIso = dict(zip_iterator_langToIso)
+            if lang not in languages:
+                languages[lang] = dict()
+            languages[lang][feature] = int(
+                features[feature].loc[features[feature]["language"] == lang][
+                    "_" + str(feature) + "_num"
+                ]
+            )
+    return languages, languages_geo
 
-zip_iterator_isoToLang = zip(iso_phoeble, name_phoeble)
-isoToLang = dict(zip_iterator_isoToLang)
 
-languages = list(set(languages_walsISO).intersection(iso_phoeble))
+# %%
+def save_to_json(data, path):
+    out_file = open(path, "w+")
+    json.dump(data, out_file)
 
-new_languages_walscodes = []
-for code in languages_walscodes:
-    if code in walsToISO:
-        if walsToISO[code] not in languages:
-            new_languages_walscodes.append(code)
 
-wals_languages = []
-for lang in new_languages_walscodes:
-    wals_languages.append(wals[lang]["language"])
+def load_languages_features():
+    return json.load(open("../data/languages_features.json"))
 
-arr = list(set(wals_languages).intersection(name_phoeble))
-arr_iso = [langToIso[elem] for elem in arr]
-languages = languages + arr_iso
 
-arr = set(arr)
-for lang in new_languages_walscodes:
-    if wals[lang]["language"] in arr:
-        ISOToWals[langToIso[wals[lang]["language"]]] = lang
-        walsToISO[lang] = langToIso[wals[lang]["language"]]
+def load_languages_geo():
+    return json.load(open("../data/languages_geo.json"))
 
-languages.sort()
-print(len(languages))
-# # construction du nodes_lang.csv pour Neo4J
 
-# dataframe = pd.read_csv("../data/correspondanceWals.csv")
+def load_wals():
+    return json.load(open("../data/wals.json"))
 
-# dataframe.drop(['WALS code'], axis=1, inplace=True)
 
-# languages_set = set(languages)
-# to_remove = []
-# for i, row in dataframe.iterrows():
-#     if row["ISO 639-3"] not in languages_set:
-#         to_remove.append(i)
+# %%
+NOT_FEATURES = ["language", "genus", "family", "latitude", "longitude"]
 
-# dataframe.drop(to_remove, axis=0, inplace=True)
+languages = load_languages_features()
+wals = load_wals()
 
-# dataframe.to_csv("../data/nodes_lang.csv", index=False)
+euro = [
+    "gae",
+    "iri",
+    "bre",
+    "wel",
+    "ice",
+    "nor",
+    "swe",
+    "dsh",
+    "eng",
+    "ger",
+    "dut",
+    "fre",
+    "ita",
+    "spa",
+    "ctl",
+    "rom",
+    "por",
+    "grk",
+    "alb",
+    "bsq",
+    "fin",
+    "lat",
+    "est",
+    "lit",
+    "hun",
+    "pol",
+    "ukr",
+    "svk",
+    "slo",
+    "scr",
+    # "mol",
+    "blr",
+    "mcd",
+    "bul",
+    # "bos",
+    "rus"
+]
 
-## FEATURES
+most_spoken = [
+    "eng",
+    "mnd",
+    "hin",
+    "spa",
+    "ams",
+    "ben",
+    "fre",
+    "rus",
+    "por",
+    "urd",
+    "ger",
+    "ind",
+    "jpn",
+    "mhi",
+    "tel",
+    "tur",
+    "tml",
+    "cnt",
+    "wuc",
+    "kor",
+    "vie",
+    "hau",
+    "prs",
+    "aeg",
+    "swa",
+    "jav",
+    "ita",
+    "pan",
+    "guj",
+    "tha",
+    "knd",
+    "amh",
+    "bho",
+    "hok",
+    # "npi",
+    "jin",
+    "tag",
+    "hak",
+    "yor",
+    "brm",
+    "pol",
+    "oya"
+]
+# languages_geo = load_languages_geo()
 
-wals_edges = open("../data/wals_edges.csv", "w")
-wals_edges.write("Source, Target, Value\n")
 
-language_features = json.load(open("../data/languages_features.json"))
+# %%
+def dist(lang1, lang2, threshold=20):
+    total = 0
+    same = 0
+    for feature in wals[lang1]:
+        if feature not in NOT_FEATURES and feature in wals[lang2]:
+            total += 1
+            if wals[lang1][feature] == wals[lang2][feature]:
+                same += 1
+    if total < threshold:
+        return 1
+    return 1 - same / total
 
-for lang in languages:
-    for feature, value in language_features[wals[ISOToWals[lang]]["language"]].items():
-        wals_edges.write("{}, {}, {}\n".format(lang, feature, value))
+
+# %%
+def dist_matrix(langs, threshold=20):
+    M = []
+    for l1 in langs:
+        M.append([])
+        for l2 in langs:
+            M[-1].append(dist(l1, l2, threshold=threshold))
+    return M
+
+
+def get_lang_with_more_than_n_features(n):
+    langs = []
+    for lang in wals:
+        if (len(wals[lang]) - 5) / 4 > n:
+            langs.append(lang)
+    return langs
+
+
+# %%
+def plot_dendrogram(langs, method="average", threshold=0.5):
+    M = dist_matrix(langs)
+    m = squareform(M)
+    Z = linkage(m, method=method, optimal_ordering=True)
+    fig = plt.figure(figsize=(10, 100))
+    dn = dendrogram(Z, labels=langs, orientation="right", color_threshold=threshold)
+    plt.show()
+
+
+# %%
+def clusterize(langs, method="average", threshold=0.5):
+    M = dist_matrix(langs)
+    m = squareform(M)
+    Z = linkage(m, method=method, optimal_ordering=True)
+    cluster = fcluster(Z, threshold, criterion="distance")
+    return cluster
+
+
+# %%
+def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
+    cluster = clusterize(langs, threshold=cluster_threshold)
+    # cluster = [wals[lang]["family"] for lang in langs]
+    nodes = open("../data/Graph_lang_wals_nodes.csv", "w")
+    nodes.write("Id,Label, lat, lng, cluster\n")
+    for i, lang in enumerate(langs):
+        nodes.write(
+            "{}, {}, {}, {}, {}\n".format(
+                lang,
+                wals[lang]["language"],
+                wals[lang]["latitude"],
+                wals[lang]["longitude"],
+                cluster[i],
+            )
+        )
+    nodes.close()
+
+    M = dist_matrix(langs)
+    edges = open("../data/Graph_lang_wals_edges.csv", "w")
+    edges.write("Source,Target,Id,Length,Type, Weight\n")
+    for i in range(len(langs)):
+        for j in range(i + 1, len(langs)):
+            if M[i][j] > threshold:
+                continue
+            edges.write(
+                "{}, {}, {}, {}, {}, {}\n".format(
+                    langs[i], langs[j], i * len(langs) + j, M[i][j], "Undirected", 1 - M[i][j]
+                )
+            )
+    edges.close()
