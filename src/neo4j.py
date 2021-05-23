@@ -1,11 +1,11 @@
 #from lingtypology.datasets import Wals
 
+
 import json
 import pandas as pd
 import sys
 
-#from wals import load_languages_features
-sys.getdefaultencoding()
+
 
 
 feature_list = [
@@ -73,6 +73,9 @@ for lang in new_languages_walscodes:
 
 languages.sort()
 
+
+print(len(languages))
+
 # # construction du nodes_lang.csv pour Neo4J
 
 # dataframe = pd.read_csv("../data/correspondanceWals.csv")
@@ -90,6 +93,7 @@ languages.sort()
 # dataframe.to_csv("../data/nodes_lang.csv", index=False)
 
 ## FEATURES
+
 
 # wals_edges = open("../data/wals_edges.csv", "w")
 # wals_edges.write("Source, Target, Value\n")
@@ -158,3 +162,4 @@ languages.sort()
 # # dataframe.drop(to_remove, axis=0, inplace=True)
 # #
 # # dataframe.to_csv("../data/phoible_edges.csv", index=False)
+

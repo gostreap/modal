@@ -1,6 +1,10 @@
 # %%
 import json
+import math
+import numpy as np
 import matplotlib.pyplot as plt
+
+from geopy.distance import geodesic
 
 from lingtypology.datasets import Wals
 
@@ -32,12 +36,8 @@ def write_wals():
             wals[row["wals_code"]]["_" + feature + "_area"] = row[
                 "_" + feature + "_area"
             ]
-            wals[row["wals_code"]]["_" + feature] = row[
-                "_" + feature
-            ]
-            wals[row["wals_code"]]["_" + feature + "_num"] = row[
-                "_" + feature + "_num"
-            ]
+            wals[row["wals_code"]]["_" + feature] = row["_" + feature]
+            wals[row["wals_code"]]["_" + feature + "_num"] = row["_" + feature + "_num"]
             wals[row["wals_code"]]["_" + feature + "_desc"] = row[
                 "_" + feature + "_desc"
             ]
@@ -94,11 +94,59 @@ def load_wals():
     return json.load(open("../data/wals.json"))
 
 
+def load_most_spoken():
+    most_spoken = dict()
+    for line in open("../data/most_spoken_wals", "r").readlines():
+        a, b = line.split()
+        most_spoken[a] = int(b)
+    return most_spoken
+
+
 # %%
 NOT_FEATURES = ["language", "genus", "family", "latitude", "longitude"]
 
 languages = load_languages_features()
 wals = load_wals()
+
+euro = [
+    "gae",
+    "iri",
+    "bre",
+    "wel",
+    "ice",
+    "nor",
+    "swe",
+    "dsh",
+    "eng",
+    "ger",
+    "dut",
+    "fre",
+    "ita",
+    "spa",
+    "ctl",
+    "rom",
+    "por",
+    "grk",
+    "alb",
+    "bsq",
+    "fin",
+    "lat",
+    "est",
+    "lit",
+    "hun",
+    "pol",
+    "ukr",
+    "svk",
+    "slo",
+    "scr",
+    # "mol",
+    "blr",
+    "mcd",
+    "bul",
+    # "bos",
+    "rus",
+]
+
 # languages_geo = load_languages_geo()
 
 
@@ -116,6 +164,13 @@ def dist(lang1, lang2, threshold=20):
     return 1 - same / total
 
 
+def geo_dist(lang1, lang2):
+    return geodesic(
+        (wals[lang1]["latitude"], wals[lang1]["longitude"]),
+        (wals[lang2]["latitude"], wals[lang2]["longitude"]),
+    )
+
+
 # %%
 def dist_matrix(langs, threshold=20):
     M = []
@@ -129,7 +184,7 @@ def dist_matrix(langs, threshold=20):
 def get_lang_with_more_than_n_features(n):
     langs = []
     for lang in wals:
-        if (len(wals[lang]) - 5)/4 > n:
+        if (len(wals[lang]) - 5) / 4 > n:
             langs.append(lang)
     return langs
 
@@ -155,15 +210,15 @@ def clusterize(langs, method="average", threshold=0.5):
 
 # %%
 def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
-    # cluster = clusterize(langs, threshold=cluster_threshold)
-    cluster = [wals[lang]["family"] for lang in langs]
+    cluster = clusterize(langs, threshold=cluster_threshold)
+    # cluster = [wals[lang]["family"] for lang in langs]
     nodes = open("../data/Graph_lang_wals_nodes.csv", "w")
     nodes.write("Id,Label, lat, lng, cluster\n")
     for i, lang in enumerate(langs):
         nodes.write(
             "{}, {}, {}, {}, {}\n".format(
                 lang,
-                lang,
+                wals[lang]["language"],
                 wals[lang]["latitude"],
                 wals[lang]["longitude"],
                 cluster[i],
@@ -173,17 +228,53 @@ def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
 
     M = dist_matrix(langs)
     edges = open("../data/Graph_lang_wals_edges.csv", "w")
-    edges.write("Source,Target,Id,Length, Type\n")
+    edges.write("Source,Target,Id,Length,Type, Weight\n")
     for i in range(len(langs)):
         for j in range(i + 1, len(langs)):
             if M[i][j] > threshold:
                 continue
             edges.write(
-                "{}, {}, {}, {}, {}\n".format(
-                    langs[i], langs[j], i * len(langs) + j, M[i][j], "Undirected"
+                "{}, {}, {}, {}, {}, {}\n".format(
+                    langs[i],
+                    langs[j],
+                    i * len(langs) + j,
+                    M[i][j],
+                    "Undirected",
+                    1 - M[i][j],
                 )
             )
     edges.close()
 
 
+# %%
+def write_dist_matrix(langs, threshold=20):
+    M = dist_matrix(langs, threshold=threshold)
+    dist_file = open("dist_matrix.txt", "w")
+    for m in M:
+        dist_file.write(" ".join(map(str, m)) + "\n")
+    dist_file.close()
+
+    label_file = open("labels.txt", "w")
+    for lang in langs:
+        label_file.write("{}\n".format(wals[lang]["language"]))
+    label_file.close()
+
+
+# %%
+def plot_geo_lang_dist(langs):
+    X = []
+    Y = []
+    c = 0
+    for lang1 in langs:
+        for lang2 in langs:
+                if lang1 != lang2:
+                    d = dist(lang1, lang2, threshold=100)
+                    if d != 1:
+                        c += 1
+                        X.append(math.log(geo_dist(lang1, lang2).km))
+                        Y.append(d)
+    print(np.corrcoef(X,Y))
+    print(c)
+    plt.plot(X, Y, "x")
+    plt.show()
 # %%
