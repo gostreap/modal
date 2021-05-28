@@ -1,0 +1,42 @@
+Id,Label, lat, lng, cluster, size
+eng, English, 52.0, 0.0, 10, 1348
+mnd, Mandarin, 34.0, 110.0, 11, 1120
+hin, Hindi, 25.0, 77.0, 3, 600
+spa, Spanish, 40.0, -4.0, 10, 543
+ams, Arabic (Modern Standard), 25.0, 42.0, 9, 274
+ben, Bengali, 24.0, 90.0, 4, 268
+fre, French, 48.0, 2.0, 10, 267
+rus, Russian, 56.0, 38.0, 10, 258
+por, Portuguese, 39.0, -8.0, 10, 258
+urd, Urdu, 25.0, 67.0, 3, 230
+ind, Indonesian, 0.0, 106.0, 11, 199
+ger, German, 52.0, 10.0, 10, 135
+jpn, Japanese, 37.0, 140.0, 4, 126
+mhi, Marathi, 19.0, 76.0, 4, 99
+tel, Telugu, 16.0, 79.0, 4, 96
+tur, Turkish, 39.0, 35.0, 4, 88
+tml, Tamil, 11.0, 78.5, 4, 85
+cnt, Cantonese, 23.0, 113.0, 11, 85
+wuc, Wu, 31.6666666667, 119.916666667, 11, 82
+kor, Korean, 37.5, 128.0, 3, 82
+vie, Vietnamese, 10.5, 106.5, 11, 77
+hau, Hausa, 12.0, 7.0, 8, 75
+prs, Persian, 32.0, 54.0, 2, 74
+aeg, Arabic (Egyptian), 30.0, 31.0, 6, 70
+swa, Swahili, -6.5, 39.0, 7, 69
+jav, Javanese, -7.0, 111.0, 13, 68
+ita, Italian, 43.0, 12.0, 10, 68
+pan, Panjabi, 31.0, 74.0, 3, 117
+guj, Gujarati, 23.0, 72.0, 3, 62
+tha, Thai, 16.0, 101.0, 11, 61
+knd, Kannada, 14.0, 76.0, 4, 59
+amh, Amharic, 10.0, 38.0, 5, 57
+bho, Bhojpuri, 26.0, 84.0, 3, 52
+hok, Min (Southern), 25.0, 118.0, 11, 49
+jin, Jino, 22.0, 101.0, 1, 47
+tag, Tagalog, 15.0, 121.0, 9, 45
+hak, Hakka, 25.0, 116.0, 11, 44
+yor, Yoruba, 8.0, 4.33333333333, 12, 43
+brm, Burmese, 21.0, 96.0, 1, 43
+pol, Polish, 52.0, 20.0, 10, 41
+oya, Oriya, 21.0, 85.0, 4, 40
