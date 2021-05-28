@@ -1,0 +1,15 @@
+LOAD CSV WITH HEADERS FROM 'file:///nodes_features.csv' AS line
+CREATE (F:Feature {id: line.id, name: line.name})
+
+LOAD CSV WITH HEADERS FROM 'file:///nodes_lang.csv' AS line
+CREATE (L:Language {name: line.Name, iso: line.ISO, genus :line.Genus, family : line.Family, macroarea : line.Macroarea, latitude :toInteger(line.Latitude), longitude :toInteger(line.Longitude), country : line.Countries})
+
+LOAD CSV WITH HEADERS FROM 'file:///phonemes_nodes.csv' AS line
+CREATE (P:Phoneme {description: line.description, equivalent: line.equivalent, id :line.id, name : line.name, type : line.segment_class})
+
+LOAD CSV WITH HEADERS FROM "file:///wals_edges.csv" AS row
+MATCH (L:Language), (F:Feature)
+WHERE L.iso = row.Source AND F.id = row.Target
+CREATE (L)-[edgewals:COAPPEAR]->(F)
+SET edgewals=row, edgewals.Value = toInteger(row.Value)
+

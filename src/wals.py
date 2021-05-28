@@ -1,6 +1,10 @@
 # %%
 import json
+import math
+import numpy as np
 import matplotlib.pyplot as plt
+
+from geopy.distance import geodesic
 
 from lingtypology.datasets import Wals
 
@@ -160,6 +164,13 @@ def dist(lang1, lang2, threshold=20):
     return 1 - same / total
 
 
+def geo_dist(lang1, lang2):
+    return geodesic(
+        (wals[lang1]["latitude"], wals[lang1]["longitude"]),
+        (wals[lang2]["latitude"], wals[lang2]["longitude"]),
+    )
+
+
 # %%
 def dist_matrix(langs, threshold=20):
     M = []
@@ -224,7 +235,7 @@ def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55, number_of_loc
             if M[i][j] > threshold:
                 continue
             edges.write(
-                "{},{},{},{},{},{}\n".format(
+                "{}, {}, {}, {}, {}, {}\n".format(
                     langs[i],
                     langs[j],
                     i * len(langs) + j,
@@ -235,4 +246,36 @@ def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55, number_of_loc
             )
     edges.close()
 
+
+# %%
+def write_dist_matrix(langs, threshold=20):
+    M = dist_matrix(langs, threshold=threshold)
+    dist_file = open("dist_matrix.txt", "w")
+    for m in M:
+        dist_file.write(" ".join(map(str, m)) + "\n")
+    dist_file.close()
+
+    label_file = open("labels.txt", "w")
+    for lang in langs:
+        label_file.write("{}\n".format(wals[lang]["language"]))
+    label_file.close()
+
+
+# %%
+def plot_geo_lang_dist(langs):
+    X = []
+    Y = []
+    c = 0
+    for lang1 in langs:
+        for lang2 in langs:
+                if lang1 != lang2:
+                    d = dist(lang1, lang2, threshold=100)
+                    if d != 1:
+                        c += 1
+                        X.append(math.log(geo_dist(lang1, lang2).km))
+                        Y.append(d)
+    print(np.corrcoef(X,Y))
+    print(c)
+    plt.plot(X, Y, "x")
+    plt.show()
 # %%
