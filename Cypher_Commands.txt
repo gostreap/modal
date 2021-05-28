@@ -10,6 +10,11 @@ CREATE (P:Phoneme {description: line.description, equivalent: line.equivalent, i
 LOAD CSV WITH HEADERS FROM "file:///wals_edges.csv" AS row
 MATCH (L:Language), (F:Feature)
 WHERE L.iso = row.Source AND F.id = row.Target
-CREATE (L)-[edgewals:COAPPEAR]->(F)
+CREATE (L)-[edgewals:FEAT]->(F)
 SET edgewals=row, edgewals.Value = toInteger(row.Value)
+
+LOAD CSV WITH HEADERS FROM "file:///phoible_edges.csv" AS row
+MATCH (L:Language), (P:Phoneme)
+WHERE L.iso = row.ISO6393 AND P.name = row.Phoneme
+CREATE (L)-[edgephoible:PHON]->(F)
 
