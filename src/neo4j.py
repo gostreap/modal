@@ -76,6 +76,12 @@ languages.sort()
 
 print(len(languages))
 
+print(len(set(languages)))
+
+for x in languages:
+    if languages.count(x) > 1:
+        print(x)
+
 # # construction du nodes_lang.csv pour Neo4J
 
 # dataframe = pd.read_csv("../data/correspondanceWals.csv")

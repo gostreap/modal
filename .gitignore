@@ -201,3 +201,15 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 data/Graph_lang_wals_edges.csv
 data/Graph_lang_wals_nodes.csv
+
+<<<<<<< HEAD
+src/dist_matrix.txt
+src/labels.txt
+=======
+.idea
+data/gephi/graphe_syntactic.zip
+data/graphe_neo4j.csv
+INF473G- Phoible.pdf
+INF473G- Thèse.pdf
+src/Graphe_1.csv
+>>>>>>> e62f801720443a0185b7e5fa25ec426b3cb9f384
