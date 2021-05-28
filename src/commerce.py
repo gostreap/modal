@@ -205,7 +205,7 @@ def final_data_to_gephi():
     data = get_country_final_data()
     nodes = open("../data/commerce_nodes.csv", "w")
     nodes.write("Id,Label, lat, lng, gdp, dist_to_french\n")
-    nodes.write("FR,France,48.8566969,2.3514616,1778456492418,0")
+    nodes.write("FR,France,48.8566969,2.3514616,1778456492418,0\n")
     for key, country in data.items():
         if key == "MY":
             continue
