@@ -209,26 +209,27 @@ def clusterize(langs, method="average", threshold=0.5):
 
 
 # %%
-def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55):
+def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55, number_of_locutor = dict()):
     cluster = clusterize(langs, threshold=cluster_threshold)
     # cluster = [wals[lang]["family"] for lang in langs]
     nodes = open("../data/Graph_lang_wals_nodes.csv", "w")
-    nodes.write("Id,Label, lat, lng, cluster\n")
+    nodes.write("Id,Label, lat, lng, cluster, size\n")
     for i, lang in enumerate(langs):
         nodes.write(
-            "{}, {}, {}, {}, {}\n".format(
+            "{}, {}, {}, {}, {}, {}\n".format(
                 lang,
                 wals[lang]["language"],
                 wals[lang]["latitude"],
                 wals[lang]["longitude"],
                 cluster[i],
+                (number_of_locutor[lang] if lang in number_of_locutor else 0)
             )
         )
     nodes.close()
 
     M = dist_matrix(langs)
     edges = open("../data/Graph_lang_wals_edges.csv", "w")
-    edges.write("Source,Target,Id,Length,Type, Weight\n")
+    edges.write("Source,Target,Id,Length,Type,Weight\n")
     for i in range(len(langs)):
         for j in range(i + 1, len(langs)):
             if M[i][j] > threshold:
