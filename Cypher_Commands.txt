@@ -16,5 +16,5 @@ SET edgewals=row, edgewals.Value = toInteger(row.Value)
 LOAD CSV WITH HEADERS FROM "file:///phoible_edges.csv" AS row
 MATCH (L:Language), (P:Phoneme)
 WHERE L.iso = row.ISO6393 AND P.name = row.Phoneme
-CREATE (L)-[edgephoible:PHON]->(F)
+CREATE (L)-[edgephoible:PHON]->(P)
 
