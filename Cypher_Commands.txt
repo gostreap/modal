@@ -18,3 +18,8 @@ MATCH (L:Language), (P:Phoneme)
 WHERE L.iso = row.ISO6393 AND P.name = row.Phoneme
 CREATE (L)-[edgephoible:PHON]->(P)
 
+MATCH ()-[r:FEAT]->(F:Feature)
+RETURN F, SIZE(r)
+
+MATCH ()-[r:PHON]->(P:Phoneme)
+RETURN P, SIZE(r)
