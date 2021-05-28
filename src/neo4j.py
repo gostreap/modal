@@ -32,49 +32,51 @@ walsToISO = dict(zip_iterator_walsToISO)
 zip_iterator_ISOToWals = zip(values_list, keys_list)
 ISOToWals = dict(zip_iterator_ISOToWals)
 
-
-languages_walscodes = [*wals]
-languages_walsISO = []
-for code in languages_walscodes:
-    if code in walsToISO:
-        languages_walsISO.append(walsToISO[code])
-
-iso_phoeble = df_phoeble["ISO6393"]
-name_phoeble = df_phoeble["LanguageName"]
-
-# creating dict for lang -> ISO and ISO -> lang
-zip_iterator_langToIso = zip(name_phoeble, iso_phoeble)
-langToIso = dict(zip_iterator_langToIso)
-
-zip_iterator_isoToLang = zip(iso_phoeble, name_phoeble)
-isoToLang = dict(zip_iterator_isoToLang)
-
-languages = list(set(languages_walsISO).intersection(iso_phoeble))
-
-new_languages_walscodes = []
-for code in languages_walscodes:
-    if code in walsToISO:
-        if walsToISO[code] not in languages:
-            new_languages_walscodes.append(code)
-
-wals_languages = []
-for lang in new_languages_walscodes:
-    wals_languages.append(wals[lang]["language"])
-
-arr = list(set(wals_languages).intersection(name_phoeble))
-arr_iso = [langToIso[elem] for elem in arr]
-languages = languages + arr_iso
-
-arr = set(arr)
-for lang in new_languages_walscodes:
-    if wals[lang]["language"] in arr:
-        ISOToWals[langToIso[wals[lang]["language"]]] = lang
-        walsToISO[lang] = langToIso[wals[lang]["language"]]
-
-languages.sort()
+json.dump(ISOToWals, open("../data/iso3_to_wals.json", "w"))
 
 
-print(len(languages))
+# languages_walscodes = [*wals]
+# languages_walsISO = []
+# for code in languages_walscodes:
+#     if code in walsToISO:
+#         languages_walsISO.append(walsToISO[code])
+
+# iso_phoeble = df_phoeble["ISO6393"]
+# name_phoeble = df_phoeble["LanguageName"]
+
+# # creating dict for lang -> ISO and ISO -> lang
+# zip_iterator_langToIso = zip(name_phoeble, iso_phoeble)
+# langToIso = dict(zip_iterator_langToIso)
+
+# zip_iterator_isoToLang = zip(iso_phoeble, name_phoeble)
+# isoToLang = dict(zip_iterator_isoToLang)
+
+# languages = list(set(languages_walsISO).intersection(iso_phoeble))
+
+# new_languages_walscodes = []
+# for code in languages_walscodes:
+#     if code in walsToISO:
+#         if walsToISO[code] not in languages:
+#             new_languages_walscodes.append(code)
+
+# wals_languages = []
+# for lang in new_languages_walscodes:
+#     wals_languages.append(wals[lang]["language"])
+
+# arr = list(set(wals_languages).intersection(name_phoeble))
+# arr_iso = [langToIso[elem] for elem in arr]
+# languages = languages + arr_iso
+
+# arr = set(arr)
+# for lang in new_languages_walscodes:
+#     if wals[lang]["language"] in arr:
+#         ISOToWals[langToIso[wals[lang]["language"]]] = lang
+#         walsToISO[lang] = langToIso[wals[lang]["language"]]
+
+# languages.sort()
+
+
+# print(len(languages))
 
 # # construction du nodes_lang.csv pour Neo4J
 
