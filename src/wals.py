@@ -278,4 +278,6 @@ def plot_geo_lang_dist(langs):
     print(c)
     plt.plot(X, Y, "x")
     plt.show()
+
+
 # %%
