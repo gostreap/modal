@@ -2,24 +2,28 @@ LOAD CSV WITH HEADERS FROM 'file:///nodes_features.csv' AS line
 CREATE (F:Feature {id: line.id, name: line.name})
 
 LOAD CSV WITH HEADERS FROM 'file:///nodes_lang.csv' AS line
-CREATE (L:Language {name: line.Name, iso: line.ISO, genus :line.Genus, family : line.Family, macroarea : line.Macroarea, latitude :toInteger(line.Latitude), longitude :toInteger(line.Longitude), country : line.Countries})
+CREATE (L:Language {name: line.Name, glottocode: line.glottocode, genus :line.Genus, family : line.Family, latitude :toFloat(line.Latitude), longitude :toFloat(line.Longitude)})
 
 LOAD CSV WITH HEADERS FROM 'file:///phonemes_nodes.csv' AS line
-CREATE (P:Phoneme {description: line.description, equivalent: line.equivalent, id :line.id, name : line.name, type : line.segment_class})
+CREATE (P:Phoneme {description: line.description, equivalent: line.equivalence_class, id :line.id, name : line.name, type : line.segment_class})
 
-LOAD CSV WITH HEADERS FROM "file:///wals_edges.csv" AS row
+LOAD CSV WITH HEADERS FROM "file:///edges_lang_features.csv" AS row
 MATCH (L:Language), (F:Feature)
-WHERE L.iso = row.Source AND F.id = row.Target
+WHERE L.glottocode = row.Source AND F.id = row.Target
 CREATE (L)-[edgewals:FEAT]->(F)
 SET edgewals=row, edgewals.Value = toInteger(row.Value)
 
-LOAD CSV WITH HEADERS FROM "file:///phoible_edges.csv" AS row
+LOAD CSV WITH HEADERS FROM "file:///edges_lang_phonemes.csv" AS row
 MATCH (L:Language), (P:Phoneme)
-WHERE L.iso = row.ISO6393 AND P.name = row.Phoneme
+WHERE L.glottocode = row.glottocode AND P.name = row.Phoneme
 CREATE (L)-[edgephoible:PHON]->(P)
+SET edgephoible=row, edgephoible.Dataset = row.dataset
 
 MATCH ()-[r:FEAT]->(F:Feature)
 RETURN F, SIZE(r)
 
 MATCH ()-[r:PHON]->(P:Phoneme)
 RETURN P, SIZE(r)
+
+MATCH (L:Language) RETURN SIZE((L)-[:PHON{dataset:"ea"}]->())
+
