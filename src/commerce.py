@@ -8,13 +8,14 @@ from wals import dist
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import seaborn as sn
 import json
 import operator
 
 
 def create_commerce_data():
-    imp = pd.read_csv("../data/HISTO_PAYS_IMPORT.csv")
-    exp = pd.read_csv("../data/HISTO_PAYS_EXPORT.csv")
+    imp = pd.read_csv("../data/commerce/HISTO_PAYS_IMPORT.csv")
+    exp = pd.read_csv("../data/commerce/HISTO_PAYS_EXPORT.csv")
     pays = set(imp["Pays"]).intersection(exp["Pays"])
 
     data = dict()
@@ -33,11 +34,11 @@ def create_commerce_data():
             data[id]["total"] = total_value
 
     sorted_data = dict(sorted(data.items(), key=operator.itemgetter(0)))
-    json.dump(sorted_data, open("../data/commerce_exterieur.json", "w"))
+    json.dump(sorted_data, open("../data/commerce/commerce_exterieur.json", "w"))
 
 
 def get_top_50():
-    data = json.load(open("../data/commerce_exterieur.json", "r"))
+    data = json.load(open("../data/commerce/commerce_exterieur.json", "r"))
     data.pop("QU")
     return dict(
         list(sorted(data.items(), key=lambda x: x[1]["total"], reverse=True))[:50]
@@ -46,7 +47,7 @@ def get_top_50():
 
 def get_country_code():
     code = dict()
-    for line in open("../data/country_code", "r").readlines():
+    for line in open("../data/commerce/country_code", "r").readlines():
         a, b = line.split(" ")
         code[a] = b
     return code
@@ -54,7 +55,7 @@ def get_country_code():
 
 def get_country_english(data):
     country_english = dict()
-    gdp = pd.read_csv("../data/gdp.csv")
+    gdp = pd.read_csv("../data/commerce/gdp.csv")
     code = get_country_code()
     for key in data.keys():
         country_english[key] = gdp.loc[gdp["Country Code"] == code[key].strip()][
@@ -82,7 +83,7 @@ def add_geo_loc(data):
 
 
 def add_gdp(data):
-    gdp = pd.read_csv("../data/gdp.csv")
+    gdp = pd.read_csv("../data/commerce/gdp.csv")
     code = get_country_code()
     years = [2019, 2018, 2017, 2016, 2015]
     for key in data.keys():
@@ -119,15 +120,15 @@ def set_country_lang(data):
             if lang not in iso2to3:
                 s = input("Quel est le code iso3 de {} ? -> ".format(lang))
                 iso2to3[lang] = s
-    json.dump(iso2to3, open("../data/languages_iso2_to_iso3.json", "w"))
+    json.dump(iso2to3, open("../data/commerce/languages_iso2_to_iso3.json", "w"))
 
 
 def get_iso2_to_iso3():
-    return json.load(open("../data/languages_iso2_to_iso3.json", "r"))
+    return json.load(open("../data/commerce/languages_iso2_to_iso3.json", "r"))
 
 
 def get_iso3_to_wals():
-    return json.load(open("../data/iso3_to_wals.json", "r"))
+    return json.load(open("../data/commerce/iso3_to_wals.json", "r"))
 
 
 def set_country_wals(data):
@@ -137,11 +138,11 @@ def set_country_wals(data):
     for key, l in lang.items():
         for i in range(len(l)):
             lang[key][i] = iso3_to_wals[iso2_to_iso3[l[i]]]
-    json.dump(lang, open("../data/country_lang.json", "w"))
+    json.dump(lang, open("../data/commerce/country_lang.json", "w"))
 
 
 def get_country_wals():
-    return json.load(open("../data/country_lang.json", "r"))
+    return json.load(open("../data/commerce/country_lang.json", "r"))
 
 
 def add_dist_to_french(data):
@@ -159,15 +160,15 @@ def set_country_final_data():
     add_dist_to_paris(data)
     add_dist_to_french(data)
 
-    json.dump(data, open("../data/country_50.json", "w"))
+    json.dump(data, open("../data/commerce/country_50.json", "w"))
 
 
 def get_country_final_data():
-    return json.load(open("../data/country_50.json", "r"))
+    return json.load(open("../data/commerce/country_50.json", "r"))
 
 
 #%%
-set_country_final_data()
+# set_country_final_data()
 
 
 def simple_regr():
@@ -183,27 +184,30 @@ def simple_regr():
                     country["dist_to_french"],
                 ]
             )
-    print(
-        pd.DataFrame(
-            X, columns=["total", "gdp", "dist_to_paris", "dist_to_french"]
-        ).corr()
-    )
+    # print(
+    #     pd.DataFrame(
+    #         X, columns=["total", "gdp", "dist_to_paris", "dist_to_french"]
+    #     ).corr()
+    # )
+    sn.heatmap(pd.DataFrame(
+            X, columns=["Total", "GDP", "Distance to Paris", "Distance to French"]
+        ).corr(), annot=True)
 
-    X = []
-    Y = []
-    for key, country in data.items():
-        if key != "MY":
-            X.append(country["dist_to_french"])
-            Y.append(country["total"])
-    plt.plot(X, Y, "x")
+    # X = []
+    # Y = []
+    # for key, country in data.items():
+    #     if key != "MY":
+    #         X.append(country["dist_to_french"])
+    #         Y.append(country["total"])
+    # plt.plot(X, Y, "x")
     plt.show()
 
 
-simple_regr
+simple_regr()
 # %%
 def final_data_to_gephi():
     data = get_country_final_data()
-    nodes = open("../data/commerce_nodes.csv", "w")
+    nodes = open("../data/commerce/commerce_nodes.csv", "w")
     nodes.write("Id,Label, lat, lng, gdp, dist_to_french\n")
     nodes.write("FR,France,48.8566969,2.3514616,1778456492418,0\n")
     for key, country in data.items():
@@ -221,7 +225,7 @@ def final_data_to_gephi():
         )
     nodes.close()
 
-    edges = open("../data/commerce_edges.csv", "w")
+    edges = open("../data/commerce/commerce_edges.csv", "w")
     edges.write("Source,Target,Id,Weight,Type\n")
     for key, country in data.items():
         if key == "MY":
