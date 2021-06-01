@@ -1,1873 +1,1873 @@
-﻿L.glottocode,name,dataset,dialect,Consonant,Vowel
-bafi1243,Bafia,gm,Bafia - ~N/A~,27,38
+﻿L.glottocode,name,dataset,dialect,consonant,vowel
+bafi1243,Bafia,gm,Bafia - ~N/A~,27,20
 popt1235,Jakaltek,upsid,JACALTEC - ~N/A~,27,5
-laoo1244,Lao,ph,Lao - ~N/A~,28,57
-sanm1295,Mixtec (Chalcatongo),spa,Mixtec - ~N/A~,19,20
-baat1238,Bariba,aa,Bariba - ~N/A~,17,24
+laoo1244,Lao,ph,Lao - ~N/A~,28,12
+sanm1295,Mixtec (Chalcatongo),spa,Mixtec - ~N/A~,19,10
+baat1238,Bariba,aa,Bariba - ~N/A~,17,12
 keoo1238,Keo,ph,Ke''o; Kéo' - Udiworowatu,24,6
-plat1254,Malagasy,upsid,MALAGASY - ~N/A~,21,9
-luuu1242,Lü,upsid,LUE - ~N/A~,22,27
-mind1253,Fuzhou,upsid,FUZHOU - ~N/A~,14,27
-bett1235,Betta Kurumba,ph,Betta Kurumba - ~N/A~,22,30
-guaj1255,Guajajara,ph,Guajajara - ~N/A~,14,14
+plat1254,Malagasy,upsid,MALAGASY - ~N/A~,21,4
+luuu1242,Lü,upsid,LUE - ~N/A~,22,9
+mind1253,Fuzhou,upsid,FUZHOU - ~N/A~,14,7
+bett1235,Betta Kurumba,ph,Betta Kurumba - ~N/A~,22,15
+guaj1255,Guajajara,ph,Guajajara - ~N/A~,14,7
 mehr1241,Mehri,ea,Mehri - Mehri (Oman),31,14
-pott1240,Gadaba (Kondekor),ra,Ollari - ~N/A~,22,32
-lugb1240,Lugbara,spa,Logbara - ~N/A~,26,33
+pott1240,Gadaba (Kondekor),ra,Ollari - ~N/A~,22,12
+lugb1240,Lugbara,spa,Logbara - ~N/A~,26,13
 iban1264,Iban,upsid,IBAN - ~N/A~,19,6
-ache1246,Aché,upsid,ACHE - ~N/A~,11,22
+ache1246,Aché,upsid,ACHE - ~N/A~,11,10
 walm1241,Walmatjari,er,Walmajarri - ~N/A~,17,6
-komo1258,Komo,upsid,KOMA - ~N/A~,23,13
-ital1282,Italian,ph,Italian - Mainstream Italian''',23,45
+komo1258,Komo,upsid,KOMA - ~N/A~,23,8
+ital1282,Italian,ph,Italian - Mainstream Italian''',23,7
 nort2784,Nuni (Northern),aa,Nʋni - ~N/A~,21,30
-west2441,Arrernte (Western),ph,Arrarnte - Western Arrarnte,26,7
-port1283,Portuguese,spa,Portuguese - ~N/A~,23,90
+west2441,Arrernte (Western),ph,Arrarnte - Western Arrarnte,26,3
+port1283,Portuguese,spa,Portuguese - ~N/A~,23,15
 leni1238,Anguthimri,er,Linngithigh - ~N/A~,24,5
-amha1245,Amharic,upsid,AMHARIC - ~N/A~,30,21
-astu1245,Asturian,ea,Asturian - Asturian (Western),19,14
-selk1253,Selkup,ea,Taz Selkup - ~N/A~,16,41
+amha1245,Amharic,upsid,AMHARIC - ~N/A~,30,7
+astu1245,Asturian,ea,Asturian - Asturian (Western),19,7
+selk1253,Selkup,ea,Taz Selkup - ~N/A~,16,25
 prin1242,Príncipense,gm,Principense - ~N/A~,22,7
-garo1247,Garo,ra,Garo - ~N/A~,16,10
-koyr1240,Koyra Chiini,gm,songhoy - ~N/A~,23,29
+garo1247,Garo,ra,Garo - ~N/A~,16,5
+koyr1240,Koyra Chiini,gm,songhoy - ~N/A~,23,14
 awiy1238,Auyana,spa,Auyana - ~N/A~,11,6
-brok1247,Brokskat,ph,Brokskat - ~N/A~,31,25
+brok1247,Brokskat,ph,Brokskat - ~N/A~,31,10
 kron1241,Krongo,gm,Krongo - ~N/A~,40,20
-luuu1242,Lü,ea,Lue - Lue (Chieng Hung),21,27
+luuu1242,Lü,ea,Lue - Lue (Chieng Hung),21,18
 bora1263,Bora,saphon,Bora - ~N/A~,29,12
 mans1258,Mansi,ea,Northern Mansi - Northern Mansi (Sośva),20,11
 kayt1238,Kaytej,er,Kaytetye - ~N/A~,40,3
-nene1249,Nenets,ea,Tundra Nenets - Tundra Nenets (Western),27,42
+nene1249,Nenets,ea,Tundra Nenets - Tundra Nenets (Western),27,8
 hadz1240,Hadza,upsid,HADZA - ~N/A~,57,5
 tele1256,Telefol,spa,Telefol - ~N/A~,17,8
-dyir1250,Dyirbal,er,Dyirbal - ~N/A~,13,6
+dyir1250,Dyirbal,er,Dyirbal - ~N/A~,13,3
 culi1244,Culina,saphon,Kulina - ~N/A~,17,4
-gara1269,Garrwa,er,Kunindirri - ~N/A~,14,9
-gure1255,Gureng Gureng,er,Gureng-gureng - ~N/A~,13,20
-bata1289,Batak (Toba),upsid,BATAK - ~N/A~,16,19
-gaaa1244,Gã,aa,Ga - ~N/A~,24,36
+gara1269,Garrwa,er,Kunindirri - ~N/A~,14,3
+gure1255,Gureng Gureng,er,Gureng-gureng - ~N/A~,13,10
+bata1289,Batak (Toba),upsid,BATAK - ~N/A~,16,5
+gaaa1244,Gã,aa,Ga - ~N/A~,24,12
 tamp1252,Tampulma,upsid,TAMPULMA - ~N/A~,24,9
-cacu1241,Cacua,saphon,Kakua - ~N/A~,21,15
-tibe1272,Tibetan (Standard Spoken),ea,Shigatse Tibetan - ~N/A~,27,87
-darm1243,Darma,ra,Darmiya - ~N/A~,34,16
-pott1240,Gadaba (Kondekor),ea,Gadaba - ~N/A~,19,32
-sand1273,Sandawe,gm,Sandawe - ~N/A~,44,22
-pila1245,Pilagá,ph,Pilaga; Pilagá - ~N/A~,18,8
+cacu1241,Cacua,saphon,Kakua - ~N/A~,21,5
+tibe1272,Tibetan (Standard Spoken),ea,Shigatse Tibetan - ~N/A~,27,29
+darm1243,Darma,ra,Darmiya - ~N/A~,34,8
+pott1240,Gadaba (Kondekor),ea,Gadaba - ~N/A~,19,20
+sand1273,Sandawe,gm,Sandawe - ~N/A~,44,15
+pila1245,Pilagá,ph,Pilaga; Pilagá - ~N/A~,18,4
 lama1288,Lamang,gm,Lamang - ~N/A~,37,4
-baka1272,Baka (in Cameroon),aa,Baka - ~N/A~,25,14
-biri1256,Biri,er,Yilba - ~N/A~,15,30
-yane1238,Amuesha,spa,Amuesha - ~N/A~,23,18
-dagb1246,Dagbani,spa,Dagbani - ~N/A~,24,23
-dutc1256,Dutch,ph,Dutch - Belgian Standard,24,212
-awac1239,Awa Pit,saphon,Awa-Cuaiquer - ~N/A~,16,17
-tulu1258,Tulu,upsid,TULU - ~N/A~,24,39
-ngal1293,Ngalakan,er,Ngalakgan - ~N/A~,22,14
-gara1269,Garrwa,er,Garrwa - ~N/A~,14,9
+baka1272,Baka (in Cameroon),aa,Baka - ~N/A~,25,7
+biri1256,Biri,er,Yilba - ~N/A~,15,3
+yane1238,Amuesha,spa,Amuesha - ~N/A~,23,6
+dagb1246,Dagbani,spa,Dagbani - ~N/A~,24,11
+dutc1256,Dutch,ph,Dutch - Belgian Standard,24,15
+awac1239,Awa Pit,saphon,Awa-Cuaiquer - ~N/A~,16,10
+tulu1258,Tulu,upsid,TULU - ~N/A~,24,13
+ngal1293,Ngalakan,er,Ngalakgan - ~N/A~,22,5
+gara1269,Garrwa,er,Garrwa - ~N/A~,14,3
 auuu1241,Au,ph,Au - ~N/A~,10,7
 myen1241,Mpongwe,gm,myene - ~N/A~,29,7
-muin1242,Muinane,saphon,Muinane - ~N/A~,22,12
-wara1290,Waray (in Australia),upsid,WARAY - ~N/A~,16,10
-asha1243,Campa (Axininca),spa,Campa - ~N/A~,17,16
-pwon1235,Phlong,ph,Pwo Karen - ~N/A~,23,36
+muin1242,Muinane,saphon,Muinane - ~N/A~,22,6
+wara1290,Waray (in Australia),upsid,WARAY - ~N/A~,16,5
+asha1243,Campa (Axininca),spa,Campa - ~N/A~,17,4
+pwon1235,Phlong,ph,Pwo Karen - ~N/A~,23,24
 thay1248,Thaypan,er,Awu Alaya - ~N/A~,23,8
-kara1476,Karadjeri,er,Karajarri - ~N/A~,17,7
-abid1235,Abidji,gm,Abidji - ~N/A~,21,33
-nort2952,Maidu (Northeast),upsid,MAIDU - ~N/A~,17,12
+kara1476,Karadjeri,er,Karajarri - ~N/A~,17,4
+abid1235,Abidji,gm,Abidji - ~N/A~,21,15
+nort2952,Maidu (Northeast),upsid,MAIDU - ~N/A~,17,6
 warr1257,Warrnambool,er,Warrnambool - ~N/A~,20,6
 lend1245,Lendu,aa,Lendu - ~N/A~,43,8
 para1301,Parauk,upsid,PARAUK - ~N/A~,34,43
-cebu1242,Cebuano,ea,Cebuano - ~N/A~,16,6
-kota1263,Kota,upsid,KOTA - ~N/A~,23,31
+cebu1242,Cebuano,ea,Cebuano - ~N/A~,16,3
+kota1263,Kota,upsid,KOTA - ~N/A~,23,5
 beja1238,Beja,upsid,BEJA - ~N/A~,21,5
-kash1277,Kashmiri,upsid,KASHMIRI - ~N/A~,27,85
+kash1277,Kashmiri,upsid,KASHMIRI - ~N/A~,27,28
 dhal1245,Dhalandji,er,Thalanyji - ~N/A~,20,6
-dier1241,Diyari,er,Diyari - ~N/A~,22,9
+dier1241,Diyari,er,Diyari - ~N/A~,22,3
 adny1235,Adynyamathanha,er,Adnyamathanha - ~N/A~,24,3
-urdu1245,Urdu,ra,Urdu - ~N/A~,35,40
+urdu1245,Urdu,ra,Urdu - ~N/A~,35,19
 huar1255,Guarijío,ph,Warihio - ~N/A~,12,14
 hang1263,Hanga Hundi,ph,Hanga Hundi; Kwasengen; West Wosera - ~N/A~,16,7
-nort2952,Maidu (Northeast),spa,Maidu - ~N/A~,18,12
-basq1248,Basque,ea,Basque - Basque (Arbizu),24,53
+nort2952,Maidu (Northeast),spa,Maidu - ~N/A~,18,6
+basq1248,Basque,ea,Basque - Basque (Arbizu),24,12
 tedi1235,Chin (Tiddim),upsid,TIDDIM CHIN - ~N/A~,21,5
 lush1249,Mizo,ra,Lushai - ~N/A~,33,6
-even1259,Evenki,uz,Evenki - ~N/A~,18,19
-bero1242,Birom,upsid,BIROM - ~N/A~,22,14
-yucu1253,Yucuna,upsid,YUCUNA - ~N/A~,16,10
+even1259,Evenki,uz,Evenki - ~N/A~,18,11
+bero1242,Birom,upsid,BIROM - ~N/A~,22,7
+yucu1253,Yucuna,upsid,YUCUNA - ~N/A~,16,5
 tang1336,Naga (Tangkhul),ra,Tangkul Naga - ~N/A~,27,13
-alab1237,Alabama,spa,Alabama - ~N/A~,15,9
+alab1237,Alabama,spa,Alabama - ~N/A~,15,6
 badi1246,Badimaya,er,Badimaya - ~N/A~,20,3
 jams1239,Jamsay,gm,Jamsay,24,21
-nucl1643,Japanese,uz,Japanese - Japanese (Tokyo or other areas with similar pitch accent systems),16,21
-bura1267,Burarra,upsid,BURARRA - ~N/A~,16,10
-japr1238,Japreria,saphon,Japreria - ~N/A~,14,18
-stan1293,English,uz,English (New Zealand) - Pākehā,24,150
+nucl1643,Japanese,uz,Japanese - Japanese (Tokyo or other areas with similar pitch accent systems),16,5
+bura1267,Burarra,upsid,BURARRA - ~N/A~,16,5
+japr1238,Japreria,saphon,Japreria - ~N/A~,14,6
+stan1293,English,uz,English (New Zealand) - Pākehā,24,21
 maga1260,Magahi,ea,Magahi - ~N/A~,34,16
-lyel1241,Lyele,aa,Lyélé - ~N/A~,24,26
-norw1259,Norwegian,spa,Norwegian - ~N/A~,27,43
+lyel1241,Lyele,aa,Lyélé - ~N/A~,24,16
+norw1259,Norwegian,spa,Norwegian - ~N/A~,27,19
 ghod1238,Godoberi,ea,Godoberi - ~N/A~,53,13
 kond1295,Konda,ra,Kon̩d̩a or Kubi - ~N/A~,23,20
 burj1242,Burji,gm,Burji - ~N/A~,26,10
-lahu1253,Lahu,spa,Lahu - ~N/A~,26,40
+lahu1253,Lahu,spa,Lahu - ~N/A~,26,9
 bell1243,Bella Coola,upsid,BELLA COOLA - ~N/A~,28,3
-iran1263,Iranxe,saphon,Mỹky - ~N/A~,21,40
-nuuc1236,Kyuquot,ph,Nootka - Nuuchahnulth,37,25
+iran1263,Iranxe,saphon,Mỹky - ~N/A~,21,22
+nuuc1236,Kyuquot,ph,Nootka - Nuuchahnulth,37,10
 bhil1251,Bhili,ra,Bhili - ~N/A~,35,27
 nauk1242,Yupik (Naukan),ea,Naukan Yupik - ~N/A~,18,4
-taca1256,Tacana,saphon,Tacana - ~N/A~,18,8
-wang1291,Ngiyambaa,upsid,NGIYAMBAA - ~N/A~,15,9
-waor1240,Waorani,upsid,AUCA - ~N/A~,11,30
+taca1256,Tacana,saphon,Tacana - ~N/A~,18,4
+wang1291,Ngiyambaa,upsid,NGIYAMBAA - ~N/A~,15,3
+waor1240,Waorani,upsid,AUCA - ~N/A~,11,10
 amar1274,Amarakaeri,saphon,Amarakaeri - ~N/A~,15,18
 moss1236,Mooré,aa,Moore - ~N/A~,17,24
 yuca1254,Yucatec,upsid,YUCATEC - ~N/A~,20,10
-ming1252,Mingrelian,ea,Mingrelian - Mingrelian (Martvili),30,21
-alaw1244,Alawa,er,Alawa - ~N/A~,22,13
-kuvi1243,Kuvi,ra,Kuvi - ~N/A~,28,49
-yuec1235,Cantonese,upsid,TAISHAN - ~N/A~,20,53
-chuv1255,Chuvash,upsid,CHUVASH - ~N/A~,21,18
-tuni1252,Tunica,upsid,TUNICA - ~N/A~,17,14
-kore1280,Korean,ea,Korean - Korean (Seoul),21,74
+ming1252,Mingrelian,ea,Mingrelian - Mingrelian (Martvili),30,5
+alaw1244,Alawa,er,Alawa - ~N/A~,22,4
+kuvi1243,Kuvi,ra,Kuvi - ~N/A~,28,19
+yuec1235,Cantonese,upsid,TAISHAN - ~N/A~,20,5
+chuv1255,Chuvash,upsid,CHUVASH - ~N/A~,21,9
+tuni1252,Tunica,upsid,TUNICA - ~N/A~,17,7
+kore1280,Korean,ea,Korean - Korean (Seoul),21,17
 bina1277,Binandere,ph,Binandere - ~N/A~,11,24
-egyp1253,Arabic (Egyptian),upsid,ARABIC - ~N/A~,27,17
+egyp1253,Arabic (Egyptian),upsid,ARABIC - ~N/A~,27,8
 moro1285,Moro,upsid,MORO - ~N/A~,22,7
 nyul1247,Nyulnyul,er,Nyulnyul - ~N/A~,17,3
-lazz1240,Laz,ea,Laz - Laz (Hopa),33,32
-nort2745,Yukaghir (Tundra),spa,Yukaghir - ~N/A~,20,37
-taro1263,Tarok,upsid,TAROK - ~N/A~,26,13
+lazz1240,Laz,ea,Laz - Laz (Hopa),33,5
+nort2745,Yukaghir (Tundra),spa,Yukaghir - ~N/A~,20,12
+taro1263,Tarok,upsid,TAROK - ~N/A~,26,6
 bagi1246,Bagirmi,gm,Bagirmi - ~N/A~,29,16
 mung1266,Mungaka,ph,Mungaka - ~N/A~,21,9
 kari1304,Kariera,er,Kariyarra - ~N/A~,20,3
-suii1243,Sui,upsid,SUI - ~N/A~,47,22
+suii1243,Sui,upsid,SUI - ~N/A~,47,7
 gras1249,Koiari,upsid,KOIARI - ~N/A~,11,5
-kash1277,Kashmiri,ra,Kashmiri - ~N/A~,28,85
+kash1277,Kashmiri,ra,Kashmiri - ~N/A~,28,28
 nucl1633,Nimboran,upsid,NIMBORAN - ~N/A~,12,6
-komi1268,Komi-Zyrian,ea,Komi-Zyrian - Komi-Zyrian (Syktyvkar),30,21
+komi1268,Komi-Zyrian,ea,Komi-Zyrian - Komi-Zyrian (Syktyvkar),30,7
 west2632,Acoma,upsid,ACOMA - ~N/A~,39,12
 lepc1244,Lepcha,ra,Lepca - ~N/A~,26,10
-mund1320,Mundari,spa,Mundari - ~N/A~,32,54
-mala1464,Malayalam,ra,Malayalam - ~N/A~,30,28
-copa1236,Zoque (Copainalá),spa,Zoque - ~N/A~,26,12
+mund1320,Mundari,spa,Mundari - ~N/A~,32,5
+mala1464,Malayalam,ra,Malayalam - ~N/A~,30,13
+copa1236,Zoque (Copainalá),spa,Zoque - ~N/A~,26,6
 halk1245,Halkomelem (Upriver),ph,Chilliwak Halkomelem - ~N/A~,32,12
 kara1483,Karimojong,gm,Karimojong - ~N/A~,21,39
-ocai1244,Ocaina,saphon,Ocaina - ~N/A~,26,27
-biri1256,Biri,er,Wangan - ~N/A~,15,30
-ukra1253,Ukrainian,ea,Ukrainian - Ukrainian (Standard),35,12
-selk1253,Selkup,upsid,SELKUP - ~N/A~,18,41
+ocai1244,Ocaina,saphon,Ocaina - ~N/A~,26,9
+biri1256,Biri,er,Wangan - ~N/A~,15,3
+ukra1253,Ukrainian,ea,Ukrainian - Ukrainian (Standard),35,6
+selk1253,Selkup,upsid,SELKUP - ~N/A~,18,16
 wira1265,Wirangu,er,Wirangu - ~N/A~,19,4
-kuvi1243,Kuvi,ea,Kuvi - ~N/A~,22,49
-viet1252,Vietnamese,spa,Vietnamese - ~N/A~,21,58
+kuvi1243,Kuvi,ea,Kuvi - ~N/A~,22,15
+viet1252,Vietnamese,spa,Vietnamese - ~N/A~,21,12
 nucl1634,Skou,ph,Skou - ~N/A~,13,7
 guga1239,Gugadj,er,Kukatj - ~N/A~,16,7
-nobi1240,Nobiin,upsid,NUBIAN - ~N/A~,16,15
-nene1249,Nenets,ea,Tundra Nenets - Tundra Nenets (Central-Eastern),26,42
+nobi1240,Nobiin,upsid,NUBIAN - ~N/A~,16,5
+nene1249,Nenets,ea,Tundra Nenets - Tundra Nenets (Central-Eastern),26,9
 buli1254,Buli (in Ghana),gm,Buli - ~N/A~,23,13
-bamb1269,Bambara,aa,Bambara - ~N/A~,20,59
+bamb1269,Bambara,aa,Bambara - ~N/A~,20,21
 tupu1244,Tupuri,gm,Tupuri - ~N/A~,28,24
-abip1241,Abipón,saphon,Abipon - ~N/A~,13,15
+abip1241,Abipón,saphon,Abipon - ~N/A~,13,10
 narr1259,Ngarinyeri,er,Yaraldi - ~N/A~,20,5
-sanu1240,Sanuma,saphon,Sanömá of Kolulu - Sanömá of Kolulu,10,47
-nort2641,Kurmanji,upsid,KURDISH - ~N/A~,30,25
-russ1263,Russian,upsid,RUSSIAN - ~N/A~,33,16
-mind1253,Fuzhou,ea,Min Dong Chinese - Min Dong Chinese (Fuzhou),15,27
-beng1280,Bengali,upsid,BENGALI - ~N/A~,29,85
-nort2980,Quechua (Tarma),saphon,North Junín Quechua - San Pedro de Cajas dialect,19,15
-kham1282,Kham (Dege),ea,Nangchenpa Tibetan - ~N/A~,59,180
-tera1251,Tera,uz,Tera - Tera (speakers from the towns Deba,35,21
-khan1273,Khanty,ea,Northern Khanty - Northern Khanty (Kazym),26,68
+sanu1240,Sanuma,saphon,Sanömá of Kolulu - Sanömá of Kolulu,10,21
+nort2641,Kurmanji,upsid,KURDISH - ~N/A~,30,17
+russ1263,Russian,upsid,RUSSIAN - ~N/A~,33,5
+mind1253,Fuzhou,ea,Min Dong Chinese - Min Dong Chinese (Fuzhou),15,20
+beng1280,Bengali,upsid,BENGALI - ~N/A~,29,14
+nort2980,Quechua (Tarma),saphon,North Junín Quechua - San Pedro de Cajas dialect,19,6
+kham1282,Kham (Dege),ea,Nangchenpa Tibetan - ~N/A~,59,36
+tera1251,Tera,uz,Tera - Tera (speakers from the towns Deba,35,15
+khan1273,Khanty,ea,Northern Khanty - Northern Khanty (Kazym),26,10
 madn1237,Matngele,er,Matngele - ~N/A~,17,5
 nyam1276,Nyamwezi,ph,Kinyamwezi - ~N/A~,36,14
-khar1287,Kharia,spa,Kharia - ~N/A~,31,44
+khar1287,Kharia,spa,Kharia - ~N/A~,31,10
 west2397,Bru (Western),upsid,BRUU - ~N/A~,20,22
-avar1256,Avar,upsid,AVAR - ~N/A~,44,10
+avar1256,Avar,upsid,AVAR - ~N/A~,44,5
 kung1261,!Xun (Ekoka),gm,!Xun - W2,95,21
-ukra1253,Ukrainian,ph,Ukrainian - ~N/A~,24,12
-shar1245,Sharanahua,saphon,Arara do Acre - ~N/A~,14,16
-gude1246,Gude,aa,Guɗe - ~N/A~,30,8
-yoru1245,Yoruba,aa,Yorouba - Yorouba (Benin),19,34
-khas1269,Khasi,spa,Khasi - ~N/A~,19,30
-iraq1241,Iraqw,upsid,IRAQW - ~N/A~,33,24
-atam1239,Uradhi,er,Uradhi - ~N/A~,18,12
+ukra1253,Ukrainian,ph,Ukrainian - ~N/A~,24,6
+shar1245,Sharanahua,saphon,Arara do Acre - ~N/A~,14,8
+gude1246,Gude,aa,Guɗe - ~N/A~,30,4
+yoru1245,Yoruba,aa,Yorouba - Yorouba (Benin),19,12
+khas1269,Khasi,spa,Khasi - ~N/A~,19,9
+iraq1241,Iraqw,upsid,IRAQW - ~N/A~,33,12
+atam1239,Uradhi,er,Uradhi - ~N/A~,18,4
 araw1276,Arawak,saphon,Lokono - ~N/A~,16,5
-east2295,Yiddish (Bessarabian),ea,Eastern Yiddish - Eastern Yiddish (Central),24,22
-stan1288,Spanish,ea,Spanish - Spanish (Castilian),18,63
-biri1256,Biri,er,Yuwi - ~N/A~,15,30
+east2295,Yiddish (Bessarabian),ea,Eastern Yiddish - Eastern Yiddish (Central),24,13
+stan1288,Spanish,ea,Spanish - Spanish (Castilian),18,7
+biri1256,Biri,er,Yuwi - ~N/A~,15,3
 leal1235,Chinantec (Lealao),ph,Chinanteco - ~N/A~,28,7
 coca1259,Cocama,saphon,Kokama-Kokamilla - ~N/A~,11,5
 sida1246,Sidaama,ph,Sidaama; Sidamo; Sidamic - ~N/A~,25,10
-east2328,Mari (Meadow),ea,Meadow Mari - Meadow Mari (Joškar-Ola),21,61
+east2328,Mari (Meadow),ea,Meadow Mari - Meadow Mari (Joškar-Ola),21,10
 camp1261,Sardinian,ea,Campidanese Sardinian - Campidanese Sardinian (Sestu),44,14
-yine1238,Piro,ph,Yine - ~N/A~,16,20
-yagu1244,Yagua,saphon,Yagua - ~N/A~,11,24
+yine1238,Piro,ph,Yine - ~N/A~,16,10
+yagu1244,Yagua,saphon,Yagua - ~N/A~,11,12
 halb1244,Halbi,ra,Halbi - ~N/A~,29,13
 apat1240,Apatani,ra,Apatani - ~N/A~,24,13
 ndog1248,Ndogo,gm,Ndogo - ~N/A~,29,5
-haus1257,Hausa,aa,Hausa - Hausa (Niger),33,43
+haus1257,Hausa,aa,Hausa - Hausa (Niger),33,10
 cogu1240,Cogui,saphon,Kogi - ~N/A~,24,12
 pech1241,Pech,upsid,PAYA - ~N/A~,18,10
-igna1246,Ignaciano,spa,Moxo - ~N/A~,21,12
-even1260,Even,ea,Even - Even (Ola),18,46
-kala1399,Greenlandic (West),spa,Inuit - ~N/A~,32,9
-wikm1247,Wik Munkan,upsid,WIK-MUNKAN - ~N/A~,13,25
+igna1246,Ignaciano,spa,Moxo - ~N/A~,21,4
+even1260,Even,ea,Even - Even (Ola),18,18
+kala1399,Greenlandic (West),spa,Inuit - ~N/A~,32,6
+wikm1247,Wik Munkan,upsid,WIK-MUNKAN - ~N/A~,13,5
 isok1239,Isoko,upsid,ISOKO - ~N/A~,28,9
-west2443,Madimadi,er,East Djadjawurung - ~N/A~,17,8
-enap1235,Panare,saphon,Panare - ~N/A~,13,20
+west2443,Madimadi,er,East Djadjawurung - ~N/A~,17,4
+enap1235,Panare,saphon,Panare - ~N/A~,13,7
 mudb1240,Mudburra,er,Mudburra - ~N/A~,17,6
 torw1241,Torwali,ph,Torwali - ~N/A~,38,13
 quio1240,Chinantec (Quiotepec),upsid,HIGHLAND CHINANTEC - ~N/A~,26,15
 furr1244,Fur,upsid,FUR - ~N/A~,19,11
 tigr1271,Tigrinya,gm,Tigrinya - ~N/A~,32,7
-mara1385,Mara,er,Marra - ~N/A~,19,9
+mara1385,Mara,er,Marra - ~N/A~,19,4
 dalo1238,Bété,upsid,BETE - ~N/A~,24,13
 djin1251,Djingili,er,Jingulu - ~N/A~,17,3
 ying1247,Yingkarta,er,Yingkarta - ~N/A~,20,6
-lada1244,Ladakhi,ra,Ladakhi - ~N/A~,37,18
+lada1244,Ladakhi,ra,Ladakhi - ~N/A~,37,8
 madi1260,Ma'di,ph,Ma'di - ~N/A~,45,9
-ntch1242,Ncàm,gm,Basari - ~N/A~,21,31
-stan1293,English,uz,English (Australian) - ~N/A~,25,150
-ming1252,Mingrelian,ea,Mingrelian - Mingrelian (Senaki),31,21
-jama1261,Banawá,ph,Jarawara - ~N/A~,11,16
-kota1263,Kota,spa,Kota - ~N/A~,23,31
+ntch1242,Ncàm,gm,Basari - ~N/A~,21,6
+stan1293,English,uz,English (Australian) - ~N/A~,25,19
+ming1252,Mingrelian,ea,Mingrelian - Mingrelian (Senaki),31,5
+jama1261,Banawá,ph,Jarawara - ~N/A~,11,4
+kota1263,Kota,spa,Kota - ~N/A~,23,11
 embe1262,Embera Chami,saphon,Emberá-Chamí - ~N/A~,16,12
-cams1241,Camsá,saphon,Camsá - ~N/A~,21,12
+cams1241,Camsá,saphon,Camsá - ~N/A~,21,6
 thak1245,Thakali,ea,Thakali - ~N/A~,19,10
 west2560,Bajau (West Coast),ph,Bajau,17,6
 nucl1696,Tangale,gm,Tangale - ~N/A~,40,18
 toto1305,Mixe (Totontepec),upsid,MIXE - ~N/A~,14,9
 dibo1245,Babole,gm,babole - ~N/A~,21,6
-moco1246,Mocoví,saphon,Mocoví - ~N/A~,21,16
+moco1246,Mocoví,saphon,Mocoví - ~N/A~,21,8
 mach1267,Machiguenga,saphon,Matsigenka - ~N/A~,18,9
-mund1320,Mundari,ea,Mundari - ~N/A~,23,54
-esee1248,Ese Ejja,saphon,Ese Ejja - Bolivia,17,8
-mana1288,Manange,ph,Manange - ~N/A~,30,21
+mund1320,Mundari,ea,Mundari - ~N/A~,23,5
+esee1248,Ese Ejja,saphon,Ese Ejja - Bolivia,17,4
+mana1288,Manange,ph,Manange - ~N/A~,30,10
 chep1245,Chepang,ph,Chepang - ~N/A~,18,6
-sanu1240,Sanuma,saphon,Sanumá - ~N/A~,11,47
+sanu1240,Sanuma,saphon,Sanumá - ~N/A~,11,13
 ngba1285,Ngbaka (Minagende),aa,Ngbaka - ~N/A~,22,12
-ajab1235,Ajagbe,aa,Adja - Adja (Bénin),28,26
-luxe1241,Luxemburgeois,uz,Luxembourgish - Standard central Luxembourgish,24,44
-zulu1248,Zulu,spa,Zulu - ~N/A~,35,10
-besi1244,Mah Meri,uz,Mah Meri - Mah Meri (as spoken in Kampong Orang Asli Bukit Bangkong,30,56
-buru1296,Burushaski,upsid,BURUSHASKI - ~N/A~,38,58
+ajab1235,Ajagbe,aa,Adja - Adja (Bénin),28,12
+luxe1241,Luxemburgeois,uz,Luxembourgish - Standard central Luxembourgish,24,22
+zulu1248,Zulu,spa,Zulu - ~N/A~,35,5
+besi1244,Mah Meri,uz,Mah Meri - Mah Meri (as spoken in Kampong Orang Asli Bukit Bangkong,30,28
+buru1296,Burushaski,upsid,BURUSHASKI - ~N/A~,38,5
 bimo1239,Bimoba,aa,Bimoba - ~N/A~,22,18
 daww1239,Dâw,saphon,Dâw - ~N/A~,24,15
-vlax1238,Romani (Kalderash),ea,Vlax Romani - Vlax Romani (Mitrovica),27,19
-ngan1291,Nganasan,ea,Nganasan - Nganasan (Avam),20,19
+vlax1238,Romani (Kalderash),ea,Vlax Romani - Vlax Romani (Mitrovica),27,7
+ngan1291,Nganasan,ea,Nganasan - Nganasan (Avam),20,10
 shab1252,Shabo,ph,Shabo - ~N/A~,28,13
 juho1239,Ju|'hoan,upsid,!XU - ~N/A~,95,46
 dhur1239,Dhurga,er,Dhurga - ~N/A~,19,6
 guro1248,Guro,gm,Gouro - ~N/A~,26,28
-tsha1245,Tshangla,ph,Tshangla - ~N/A~,32,12
+tsha1245,Tshangla,ph,Tshangla - ~N/A~,32,5
 maba1277,Maba,upsid,MABA - ~N/A~,22,7
-kork1243,Korku,ra,Korku - ~N/A~,26,21
-pitj1243,Pitjantjatjara,er,Ngalia - ~N/A~,17,20
+kork1243,Korku,ra,Korku - ~N/A~,26,11
+pitj1243,Pitjantjatjara,er,Ngalia - ~N/A~,17,6
 patt1248,Pattani,ra,Pat̩t̩an̩i - ~N/A~,38,6
-sind1272,Sindhi,ra,Sindhi - ~N/A~,41,57
-tach1250,Tashlhiyt,spa,Shilha - ~N/A~,45,14
+sind1272,Sindhi,ra,Sindhi - ~N/A~,41,20
+tach1250,Tashlhiyt,spa,Shilha - ~N/A~,45,4
 kare1335,Karelian,ea,Karelian - Karelian (North),16,14
-guja1253,Gojri,ph,Gojri; Gujari; Gujar - ~N/A~,32,37
+guja1253,Gojri,ph,Gojri; Gujari; Gujar - ~N/A~,32,18
 busa1253,Busa,gm,busa - ~N/A~,16,12
-katc1249,Kadugli,gm,Kadugli (Miri) - Miri,41,65
-nuuc1236,Kyuquot,spa,Nootka - ~N/A~,37,25
-bulg1262,Bulgarian,ea,Bulgarian - Bulgarian (Standard),37,31
-ngad1258,Ngadjumaja,er,Ngadjunmaya - ~N/A~,20,12
-nugu1242,Gunu,gm,Nugunu - ~N/A~,24,14
+katc1249,Kadugli,gm,Kadugli (Miri) - Miri,41,20
+nuuc1236,Kyuquot,spa,Nootka - ~N/A~,37,10
+bulg1262,Bulgarian,ea,Bulgarian - Bulgarian (Standard),37,6
+ngad1258,Ngadjumaja,er,Ngadjunmaya - ~N/A~,20,6
+nugu1242,Gunu,gm,Nugunu - ~N/A~,24,7
 ngit1239,Ngiti,gm,Ngiti - ~N/A~,44,5
 ayor1240,Ayoreo,saphon,Ayoreo - ~N/A~,20,10
 kumy1244,Kumyk,ea,Kumyk - ~N/A~,23,8
-roma1327,Romanian,spa,Rumanian - ~N/A~,22,30
-xiri1243,Xiriana,saphon,Xiriâna - ~N/A~,19,17
+roma1327,Romanian,spa,Rumanian - ~N/A~,22,9
+xiri1243,Xiriana,saphon,Xiriâna - ~N/A~,19,5
 anua1242,Anywa,ph,Anywa - ~N/A~,19,24
-sumi1235,Sema,uz,Sumi - Central Standard dialect (Satakha and Zunheboto),32,17
+sumi1235,Sema,uz,Sumi - Central Standard dialect (Satakha and Zunheboto),32,6
 lowe1415,Dani (Lower Grand Valley),upsid,DANI - ~N/A~,12,12
 tase1235,Jugli,ra,Tangsa - ~N/A~,23,6
-arab1268,Arabela,upsid,ARABELA - ~N/A~,11,17
-beng1280,Bengali,spa,Bengali - ~N/A~,36,85
+arab1268,Arabela,upsid,ARABELA - ~N/A~,11,7
+beng1280,Bengali,spa,Bengali - ~N/A~,36,17
 mokp1239,Bakueri,gm,Mokpwe - ~N/A~,22,7
 koko1269,Kokota,ph,Kokota - ~N/A~,22,5
 mund1327,Mundani,aa,Mundani - ~N/A~,23,14
-tach1250,Tashlhiyt,upsid,SHILHA - ~N/A~,28,14
+tach1250,Tashlhiyt,upsid,SHILHA - ~N/A~,28,3
 baka1274,Baka (in South Sudan),gm,baka - ~N/A~,36,10
 yuki1243,Yuki,ph,Yuki - ~N/A~,24,6
-lith1251,Lithuanian,ea,Lithuanian - Lithuanian (West Aukštaitian),45,82
-hind1269,Hindi,spa,Hindi-Urdu - ~N/A~,71,97
-waya1270,Wayampi,saphon,Wayampi - Alto Jarí dialect,14,23
-kala1377,Kala Lagaw Ya,er,Kala Lagaw Ya - ~N/A~,18,12
+lith1251,Lithuanian,ea,Lithuanian - Lithuanian (West Aukštaitian),45,15
+hind1269,Hindi,spa,Hindi-Urdu - ~N/A~,71,23
+waya1270,Wayampi,saphon,Wayampi - Alto Jarí dialect,14,11
+kala1377,Kala Lagaw Ya,er,Kala Lagaw Ya - ~N/A~,18,6
 turk1304,Turkmen,ea,Turkmen - Turkmen (Teke),21,16
 shil1265,Shilluk,gm,Shilluk - ~N/A~,25,26
 mang1381,Mangarrayi,er,Mangarrayi - ~N/A~,17,5
 sayu1241,Sayula Popoluca,ph,Popoluca de Sayula - ~N/A~,19,6
-khan1273,Khanty,upsid,KHANTY - ~N/A~,19,68
+khan1273,Khanty,upsid,KHANTY - ~N/A~,19,13
 nucl1649,Tsimshian (Coast),upsid,TSIMSHIAN - ~N/A~,38,3
 kafa1242,Kefa,upsid,KEFA - ~N/A~,22,5
-pamp1243,Kapampangan,ea,Kapampangan - Kapampangan (Balingcanaway),17,10
+pamp1243,Kapampangan,ea,Kapampangan - Kapampangan (Balingcanaway),17,5
 eyak1241,Eyak,upsid,EYAK - ~N/A~,32,13
-tsha1245,Tshangla,ea,Tshangla - ~N/A~,32,12
+tsha1245,Tshangla,ea,Tshangla - ~N/A~,32,7
 kach1280,Jingpho,upsid,JINGPHO - ~N/A~,25,5
 kory1246,Koryak,upsid,KORYAK - ~N/A~,16,5
-adio1239,Adioukrou,aa,Adioukrou - ~N/A~,21,14
-aleu1260,Aleut (Eastern),upsid,ALEUT - ~N/A~,24,9
-stan1288,Spanish,uz,Spanish - Castilian Spanish,18,63
+adio1239,Adioukrou,aa,Adioukrou - ~N/A~,21,7
+aleu1260,Aleut (Eastern),upsid,ALEUT - ~N/A~,24,3
+stan1288,Spanish,uz,Spanish - Castilian Spanish,18,20
 bare1276,Baré,saphon,Baré - ~N/A~,19,4
-bret1244,Breton,spa,Breton - ~N/A~,25,71
+bret1244,Breton,spa,Breton - ~N/A~,25,17
 kaby1243,Kabyle,ph,Kabyle - ~N/A~,27,3
-gily1242,Nivkh,upsid,NIVKH - ~N/A~,28,23
-mbab1239,Mbabaram,er,Mbabaram - ~N/A~,15,16
-panj1256,Panjabi,spa,Punjabi - ~N/A~,50,56
+gily1242,Nivkh,upsid,NIVKH - ~N/A~,28,7
+mbab1239,Mbabaram,er,Mbabaram - ~N/A~,15,12
+panj1256,Panjabi,spa,Punjabi - ~N/A~,50,20
 olut1240,Olutec,ph,Oluta Popoluca; Olutec - ~N/A~,20,12
-waya1270,Wayampi,saphon,Wayampi - Ampari dialect,14,23
+waya1270,Wayampi,saphon,Wayampi - Ampari dialect,14,12
 umbu1257,UMbundu,gm,umbundu - ~N/A~,20,10
 mala1522,Damana,saphon,Damana - ~N/A~,20,7
-shan1277,Shan,ea,Shan - Shan (Luxi),24,40
-toba1269,Toba,saphon,Toba - Lañagashik dialect,18,23
+shan1277,Shan,ea,Shan - Shan (Luxi),24,10
+toba1269,Toba,saphon,Toba - Lañagashik dialect,18,8
 hili1240,Hiligaynon,gm,Hiligaynon - ~N/A~,20,5
-tibe1272,Tibetan (Standard Spoken),ea,Dingri Tibetan - ~N/A~,27,87
-tzel1254,Tzeltal (Aguacatenango),upsid,TZELTAL - ~N/A~,22,11
-cofa1242,Cofán,saphon,Cofán - ~N/A~,27,15
-nucl1683,Daba,gm,Daba - ~N/A~,36,12
-brah1256,Brahui,ea,Brahui - Brahui (Sarāwān),26,43
+tibe1272,Tibetan (Standard Spoken),ea,Dingri Tibetan - ~N/A~,27,14
+tzel1254,Tzeltal (Aguacatenango),upsid,TZELTAL - ~N/A~,22,6
+cofa1242,Cofán,saphon,Cofán - ~N/A~,27,10
+nucl1683,Daba,gm,Daba - ~N/A~,36,6
+brah1256,Brahui,ea,Brahui - Brahui (Sarāwān),26,17
 nucl1327,Limilngan,er,Limilngan - ~N/A~,22,3
 kuik1246,Kuikúro,saphon,Kuikúro-Kalapálo - ~N/A~,14,12
-yaku1245,Yakut,upsid,YAKUT - ~N/A~,22,48
-viet1252,Vietnamese,upsid,VIETNAMESE - ~N/A~,22,58
-itel1242,Itelmen,ea,Itelmen - ~N/A~,27,10
+yaku1245,Yakut,upsid,YAKUT - ~N/A~,22,12
+viet1252,Vietnamese,upsid,VIETNAMESE - ~N/A~,22,14
+itel1242,Itelmen,ea,Itelmen - ~N/A~,27,5
 yuro1248,Yurok,ph,Yurok - ~N/A~,23,12
 nort2845,Marquesan,ph,North Marquesan - Nuku Hiva,12,10
-came1252,Mambila,gm,Mambila - Atta,20,29
-nung1290,Nunggubuyu,upsid,NUNGGUBUYU - ~N/A~,19,15
+came1252,Mambila,gm,Mambila - Atta,20,11
+nung1290,Nunggubuyu,upsid,NUNGGUBUYU - ~N/A~,19,4
 iqui1243,Iquito,saphon,Iquito - ~N/A~,11,8
 mamb1296,Mambwe,gm,cilungu - ~N/A~,19,10
-dani1285,Danish,uz,Danish - ~N/A~,20,60
+dani1285,Danish,uz,Danish - ~N/A~,20,49
 lavu1241,Lavukaleve,ph,Lavukaleve - ~N/A~,15,5
 mend1266,Mende,aa,Mende - ~N/A~,23,7
 wint1259,Wintu,upsid,WINTU - ~N/A~,30,5
-assa1263,Assamese,ea,Assamese - Assamese (Standard),22,39
-nuer1246,Nuer,gm,Nuer - ~N/A~,20,56
-niva1238,Nivacle,saphon,Chulupí - ~N/A~,22,12
+assa1263,Assamese,ea,Assamese - Assamese (Standard),22,14
+nuer1246,Nuer,gm,Nuer - ~N/A~,20,28
+niva1238,Nivacle,saphon,Chulupí - ~N/A~,22,6
 inga1252,Inga,saphon,Inga - Highland dialect,19,3
 bert1248,Berta,upsid,BERTA - ~N/A~,24,5
-awng1244,Awngi,upsid,AWIYA - ~N/A~,28,20
+awng1244,Awngi,upsid,AWIYA - ~N/A~,28,7
 taro1264,Seediq,ph,Sedik - ~N/A~,33,10
-yano1262,Yanomámi,saphon,Yanomama of Papiu - Yanomama of Papiu,12,49
-moco1246,Mocoví,ph,Mocovi - ~N/A~,23,16
-tulu1258,Tulu,ra,Tulu - ~N/A~,23,39
-wara1290,Waray (in Australia),er,Warray - ~N/A~,16,10
+yano1262,Yanomámi,saphon,Yanomama of Papiu - Yanomama of Papiu,12,21
+moco1246,Mocoví,ph,Mocovi - ~N/A~,23,8
+tulu1258,Tulu,ra,Tulu - ~N/A~,23,12
+wara1290,Waray (in Australia),er,Warray - ~N/A~,16,5
 luch1239,Lucazi,ph,Lucazi - ~N/A~,32,10
 koda1255,Kodava,ra,Kod̩agu - ~N/A~,27,25
-soma1255,Somali,spa,Somali - ~N/A~,30,30
+soma1255,Somali,spa,Somali - ~N/A~,30,20
 surs1246,Sursurunga,ph,Sursurunga - East Coast,15,6
-zand1248,Zande,upsid,AZANDE - ~N/A~,19,21
-mund1330,Mundurukú,ph,Mundurukú - ~N/A~,17,40
-yoru1245,Yoruba,upsid,YORUBA - ~N/A~,18,34
-boro1277,Shinassha,ph,Boro - ~N/A~,16,14
+zand1248,Zande,upsid,AZANDE - ~N/A~,19,16
+mund1330,Mundurukú,ph,Mundurukú - ~N/A~,17,20
+yoru1245,Yoruba,upsid,YORUBA - ~N/A~,18,11
+boro1277,Shinassha,ph,Boro - ~N/A~,16,6
 muru1266,Muruwari,er,Muruwari - ~N/A~,19,6
 andi1255,Andi,ea,Andi - ~N/A~,63,5
 seme1247,Semelai,ph,Semelai - ~N/A~,33,18
-mund1320,Mundari,ra,Bhumij - ~N/A~,33,54
-stan1289,Catalan,ea,Catalan - Catalan (Central),25,45
+mund1320,Mundari,ra,Bhumij - ~N/A~,33,21
+stan1289,Catalan,ea,Catalan - Catalan (Central),25,10
 bugi1244,Bugis,gm,Bugis - ~N/A~,19,6
-stan1295,German,ea,German - German (Standard),24,70
-abkh1244,Abkhaz,ea,Abkhaz - Abkhaz (Abzhywa),59,6
+stan1295,German,ea,German - German (Standard),24,16
+abkh1244,Abkhaz,ea,Abkhaz - Abkhaz (Abzhywa),59,3
 bali1278,Balinese,gm,Balinese - ~N/A~,18,6
 guat1253,Guató,saphon,Guató - ~N/A~,17,8
-east2379,Arrernte (Mparntwe),upsid,ARRERNTE - ~N/A~,27,11
-bulg1262,Bulgarian,uz,Bulgarian - Standard Bulgarian,23,31
+east2379,Arrernte (Mparntwe),upsid,ARRERNTE - ~N/A~,27,3
+bulg1262,Bulgarian,uz,Bulgarian - Standard Bulgarian,23,7
 wapp1239,Wappo,upsid,WAPPO - ~N/A~,30,5
-haus1257,Hausa,uz,Hausa - (Standard) (Kano) Hausa (spoken in Kano,32,43
-daur1238,Dagur,ea,Daur - ~N/A~,45,19
+haus1257,Hausa,uz,Hausa - (Standard) (Kano) Hausa (spoken in Kano,32,10
+daur1238,Dagur,ea,Daur - ~N/A~,45,12
 basq1250,Basque (Souletin),ea,Zuberoan Basque - ~N/A~,29,14
-dier1241,Diyari,er,Yarluyandi - ~N/A~,21,9
+dier1241,Diyari,er,Yarluyandi - ~N/A~,21,3
 kama1367,Kamasau,ph,Kamasau - ~N/A~,23,6
 jaru1254,Djaru,er,Jaru - ~N/A~,17,6
-nort2980,Quechua (Tarma),saphon,North Junín Quechua - Tarma dialect,19,15
+nort2980,Quechua (Tarma),saphon,North Junín Quechua - Tarma dialect,19,6
 erzy1239,Mordvin (Erzya),ea,Erzya - Erzya (Standard),29,6
 gura1252,Gurr-goni,er,Gurr-Goni - ~N/A~,22,5
-sind1272,Sindhi,ph,Sindhi - Vicholi,44,57
+sind1272,Sindhi,ph,Sindhi - Vicholi,44,10
 malo1243,Tamabo,ph,Tamambo; Malo - ~N/A~,16,5
 juru1256,Juruna,saphon,Jurúna - ~N/A~,18,10
-konk1267,Konkani,ra,Konkani - ~N/A~,35,28
+konk1267,Konkani,ra,Konkani - ~N/A~,35,10
 ikkk1242,Ik,upsid,IK - ~N/A~,31,13
 wame1240,Konyagi,upsid,KONYAGI - ~N/A~,39,7
 rama1270,Rama,ph,Rama - ~N/A~,19,9
-tehu1242,Tehuelche,saphon,Tehuelche - ~N/A~,25,13
-ainu1240,Ainu,upsid,AINU - ~N/A~,11,10
+tehu1242,Tehuelche,saphon,Tehuelche - ~N/A~,25,6
+ainu1240,Ainu,upsid,AINU - ~N/A~,11,5
 shas1239,Shasta,upsid,SHASTA - ~N/A~,17,4
 east2426,Maninka,aa,Manding - ~N/A~,20,14
-kabi1261,Kabiyé,aa,Kabiyɛ - ~N/A~,24,46
-arhu1242,Ika,ph,Ika - ~N/A~,16,22
-gbay1287,Gbeya Bossangoa,spa,Gbeya - ~N/A~,31,36
+kabi1261,Kabiyé,aa,Kabiyɛ - ~N/A~,24,23
+arhu1242,Ika,ph,Ika - ~N/A~,16,16
+gbay1287,Gbeya Bossangoa,spa,Gbeya - ~N/A~,31,12
 godi1239,Godié,aa,Godié - ~N/A~,26,13
-cent1989,Khmer,spa,Cambodian - ~N/A~,21,71
+cent1989,Khmer,spa,Cambodian - ~N/A~,21,21
 svan1243,Svan,ea,Svan - Svan (Upper Bal),30,17
 kiow1266,Kiowa,upsid,KIOWA - ~N/A~,22,20
 tiru1241,Tiruray,upsid,TIRURAY - ~N/A~,16,6
 kiku1240,Kikuyu,aa,Kikuyu - ~N/A~,18,14
 cerm1238,Kirma,aa,Cerma - ~N/A~,21,21
-gads1258,Gadsup,spa,Gadsup - ~N/A~,9,12
+gads1258,Gadsup,spa,Gadsup - ~N/A~,9,6
 dera1248,Kanakuru,upsid,KANAKURU - ~N/A~,24,11
 sanj1284,Zapotec (San Lucas Quiaviní),ph,Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec,29,18
-buru1296,Burushaski,ea,Burushaski - Burushaski (Hunza),38,58
+buru1296,Burushaski,ea,Burushaski - Burushaski (Hunza),38,10
 tern1247,Ternate,ph,Ternate - ~N/A~,20,5
-tach1250,Tashlhiyt,gm,Tachelhit - ~N/A~,33,14
-hind1269,Hindi,ra,Hindi - ~N/A~,37,97
-beem1239,Beembe,spa,Beembe - ~N/A~,19,30
+tach1250,Tashlhiyt,gm,Tachelhit - ~N/A~,33,4
+hind1269,Hindi,ra,Hindi - ~N/A~,37,21
+beem1239,Beembe,spa,Beembe - ~N/A~,19,20
 kela1255,Kela (Apoze),ph,Kela - Apoze,16,14
 zapa1253,Zaparo,saphon,Záparo - ~N/A~,14,8
-bord1248,Kuna,saphon,Border Kuna - ~N/A~,19,10
-papa1238,Totonac (Papantla),spa,Totonac - ~N/A~,20,12
+bord1248,Kuna,saphon,Border Kuna - ~N/A~,19,5
+papa1238,Totonac (Papantla),spa,Totonac - ~N/A~,20,6
 arao1248,Araona,saphon,Araona - ~N/A~,19,4
-arhu1242,Ika,saphon,Ika - ~N/A~,15,22
-chuk1273,Chukchi,ea,Chukchi - ~N/A~,14,20
+arhu1242,Ika,saphon,Ika - ~N/A~,15,6
+chuk1273,Chukchi,ea,Chukchi - ~N/A~,14,6
 izon1238,Ijo (Kolokuma),upsid,KOLOKUMA IJO - ~N/A~,19,18
-juan1238,Juang,ra,Juang - ~N/A~,24,40
+juan1238,Juang,ra,Juang - ~N/A~,24,12
 mezq1235,Otomí (Mezquital),spa,Otomi - ~N/A~,42,13
-moks1248,Mordvin (Moksha),ea,Moksha - Moksha (Southwest),35,13
-java1254,Javanese,spa,Javanese - ~N/A~,22,25
+moks1248,Mordvin (Moksha),ea,Moksha - Moksha (Southwest),35,6
+java1254,Javanese,spa,Javanese - ~N/A~,22,8
 pait1244,Paite,ra,Paite - ~N/A~,19,6
-ewee1241,Ewe,upsid,EWE - ~N/A~,26,40
+ewee1241,Ewe,upsid,EWE - ~N/A~,26,14
 gami1243,Yuwaalaraay,er,Gamilaraay - ~N/A~,15,6
 waam1244,Waama,aa,Waama - ~N/A~,13,25
 achu1247,Achumawi,upsid,ACHUMAWI - ~N/A~,17,6
-adam1253,Fulfulde (Adamawa),gm,fulfulde (fuunaangere) - fuunaangere,29,39
+adam1253,Fulfulde (Adamawa),gm,fulfulde (fuunaangere) - fuunaangere,29,10
 yare1248,Yareba,upsid,YAREBA - ~N/A~,13,5
 udih1248,Udihe,ea,Udihe - Udihe (Bikin),19,21
 nade1244,Nadëb,saphon,Nadëb - ~N/A~,17,17
-lako1247,Lakhota,upsid,DAKOTA - ~N/A~,28,17
+lako1247,Lakhota,upsid,DAKOTA - ~N/A~,28,8
 mbal1255,Mbalanhu,gm,Mbalanhu - ~N/A~,23,6
-stan1289,Catalan,ea,Catalan - Catalan (Mallorcan),25,45
-nucl1235,Armenian (Eastern),upsid,ARMENIAN - ~N/A~,30,13
-gily1242,Nivkh,spa,Gilyak - ~N/A~,34,23
+stan1289,Catalan,ea,Catalan - Catalan (Mallorcan),25,10
+nucl1235,Armenian (Eastern),upsid,ARMENIAN - ~N/A~,30,6
+gily1242,Nivkh,spa,Gilyak - ~N/A~,34,10
 peng1244,Pengo,ra,Pengo - ~N/A~,22,10
-abid1235,Abidji,aa,Abidji - ~N/A~,21,33
-sinh1246,Sinhala,spa,Sinhalese - ~N/A~,37,30
-dupa1235,Agta (Dupaningan),ea,Dupaningan Agta - ~N/A~,15,11
+abid1235,Abidji,aa,Abidji - ~N/A~,21,18
+sinh1246,Sinhala,spa,Sinhalese - ~N/A~,37,16
+dupa1235,Agta (Dupaningan),ea,Dupaningan Agta - ~N/A~,15,6
 sout2674,Saami (Central-South),upsid,SAAMI - ~N/A~,39,6
 kohu1244,Kohumono,upsid,KOHUMONO - ~N/A~,28,10
 loni1238,Loniu,ph,Loniu - ~N/A~,16,7
 lara1258,Laragia,er,Larrakia - ~N/A~,18,6
-mull1237,Malakmalak,er,Malak-Malak - ~N/A~,14,10
-gads1258,Gadsup,upsid,GADSUP - ~N/A~,9,12
+mull1237,Malakmalak,er,Malak-Malak - ~N/A~,14,5
+gads1258,Gadsup,upsid,GADSUP - ~N/A~,9,6
 jurm1239,Jur Mödö,aa,Jur mödö - ~N/A~,31,18
 gumu1244,Gumuz,gm,Gumuz - Sese,34,10
-sout2982,Pomo (Southeastern),upsid,POMO - ~N/A~,27,16
-tibe1272,Tibetan (Standard Spoken),ea,Drokpa Tibetan - Drokpa Tibetan (Zhongba),29,87
+sout2982,Pomo (Southeastern),upsid,POMO - ~N/A~,27,5
+tibe1272,Tibetan (Standard Spoken),ea,Drokpa Tibetan - Drokpa Tibetan (Zhongba),29,13
 daha1245,Dahalo,upsid,DAHALO - ~N/A~,54,5
-lele1276,Lele,gm,Lele - ~N/A~,23,20
-cent1973,Pashto,upsid,PASHTO - ~N/A~,31,26
+lele1276,Lele,gm,Lele - ~N/A~,23,10
+cent1973,Pashto,upsid,PASHTO - ~N/A~,31,7
 khak1248,Khakas,ea,Khakas - Khakas (Standard),23,16
-mund1320,Mundari,ra,Mundari - ~N/A~,21,54
+mund1320,Mundari,ra,Mundari - ~N/A~,21,18
 ebir1243,Ebira,aa,Ebira - ~N/A~,19,9
-lamu1254,Lamu-Lamu,er,Lamalama - ~N/A~,26,6
+lamu1254,Lamu-Lamu,er,Lamalama - ~N/A~,26,3
 kich1262,Quiché,ph,Quiche - ~N/A~,22,10
-nija1241,Balyku,er,Palyku - ~N/A~,20,11
+nija1241,Balyku,er,Palyku - ~N/A~,20,6
 keny1279,Kenyang,ph,Kenyang - ~N/A~,21,20
 ayac1239,Quechua (Ayacucho),saphon,Ayacucho Quechua - ~N/A~,14,3
 chra1242,Chrau,ph,Chrau - ~N/A~,20,13
-seco1241,Secoya,saphon,Secoya - ~N/A~,14,18
-sout2750,Yukaghir (Kolyma),ph,Yukaghir (Kolyma) - Southern,21,28
+seco1241,Secoya,saphon,Secoya - ~N/A~,14,12
+sout2750,Yukaghir (Kolyma),ph,Yukaghir (Kolyma) - Southern,21,12
 bula1255,Bularnu,er,Bularnu - ~N/A~,26,6
-atay1247,Atayal,spa,Atayal - ~N/A~,19,21
+atay1247,Atayal,spa,Atayal - ~N/A~,19,8
 caja1238,Quechua (Cajamarca),saphon,Cajamarca Quechua - ~N/A~,19,3
-biri1256,Biri,er,Wiri - ~N/A~,15,30
+biri1256,Biri,er,Wiri - ~N/A~,15,3
 cash1254,Cashinahua,saphon,Kashinawa - ~N/A~,15,8
 goon1238,Gooniyandi,er,Gooniyandi - ~N/A~,19,4
-wikm1247,Wik Munkan,er,Wik Mungkan - ~N/A~,16,25
-toba1269,Toba,saphon,Toba - Takshek dialect,20,23
-sene1264,Seneca,spa,Seneca - ~N/A~,11,24
+wikm1247,Wik Munkan,er,Wik Mungkan - ~N/A~,16,10
+toba1269,Toba,saphon,Toba - Takshek dialect,20,8
+sene1264,Seneca,spa,Seneca - ~N/A~,11,16
 west2466,Tenyer,aa,Karaboro - ~N/A~,20,21
 rawa1265,Rawang,ea,Rawang - Rawang (Mutwang),20,14
 pang1287,Pangwa,gm,Pangwa - ~N/A~,23,12
 fasu1242,Fasu,upsid,FASU - ~N/A~,11,10
-laoo1244,Lao,ea,Lao - Lao (Chieng Khouang),21,57
+laoo1244,Lao,ea,Lao - Lao (Chieng Khouang),21,12
 darf1239,Daju (Dar Fur),upsid,DAJU - ~N/A~,24,6
-kadi1248,Kadiwéu,ph,Kadiweu - ~N/A~,23,16
-huas1242,Huastec,ph,Huastec - Potosino dialect,26,15
+kadi1248,Kadiwéu,ph,Kadiweu - ~N/A~,23,8
+huas1242,Huastec,ph,Huastec - Potosino dialect,26,10
 lang1324,Lango,gm,Lango - ~N/A~,18,20
-apin1244,Apinayé,saphon,Apinayé - ~N/A~,17,69
-waya1269,Wayana,ph,Wayana - ~N/A~,9,14
+apin1244,Apinayé,saphon,Apinayé - ~N/A~,17,17
+waya1269,Wayana,ph,Wayana - ~N/A~,9,7
 awad1243,Awadhi,ra,Awadhi - ~N/A~,37,8
-konk1269,Konkomba,gm,Konkomba - Nawaré,21,26
-kore1280,Korean,spa,Korean - ~N/A~,22,74
-biss1248,Bisa,aa,Bisa - ~N/A~,23,21
-saki1248,Mekens,ph,Sakirabiá; Mekens - ~N/A~,15,30
-lamb1269,Lamani,ra,Lamani - ~N/A~,30,28
-alla1248,Alladian,upsid,ALLADIAN - ~N/A~,25,22
+konk1269,Konkomba,gm,Konkomba - Nawaré,21,14
+kore1280,Korean,spa,Korean - ~N/A~,22,18
+biss1248,Bisa,aa,Bisa - ~N/A~,23,15
+saki1248,Mekens,ph,Sakirabiá; Mekens - ~N/A~,15,20
+lamb1269,Lamani,ra,Lamani - ~N/A~,30,18
+alla1248,Alladian,upsid,ALLADIAN - ~N/A~,25,11
 ahte1237,Ahtna,upsid,AHTNA - ~N/A~,30,5
-chec1245,Chechen,ea,Chechen - Chechen (Ҫ̇äberloy),39,121
-kore1280,Korean,uz,Korean - Standard Korean (spoken in and around Seoul),20,74
+chec1245,Chechen,ea,Chechen - Chechen (Ҫ̇äberloy),39,25
+kore1280,Korean,uz,Korean - Standard Korean (spoken in and around Seoul),20,28
 yama1264,Yahgan,saphon,Yahgan - ~N/A~,15,5
-marg1265,Margi,upsid,MARGI - ~N/A~,30,10
-east2563,Cham (Eastern),spa,Cham - ~N/A~,24,29
+marg1265,Margi,upsid,MARGI - ~N/A~,30,4
+east2563,Cham (Eastern),spa,Cham - ~N/A~,24,9
 tata1255,Tatar,ea,Tatar - Tatar (Standard),29,14
-sang1328,Sango,aa,Sango - Sango (CAF),26,35
+sang1328,Sango,aa,Sango - Sango (CAF),26,12
 dhar1247,Dhargari,er,Tharrkari - ~N/A~,25,6
-guah1255,Guahibo,upsid,GUAHIBO - ~N/A~,17,30
-udmu1245,Udmurt,ea,Udmurt - Udmurt (Udmurt Tašly),28,34
-baat1238,Bariba,upsid,BARIBA - ~N/A~,18,24
+guah1255,Guahibo,upsid,GUAHIBO - ~N/A~,17,12
+udmu1245,Udmurt,ea,Udmurt - Udmurt (Udmurt Tašly),28,8
+baat1238,Bariba,upsid,BARIBA - ~N/A~,18,12
 chal1275,Neo-Aramaic (Amadiya),ea,Modern Aramaic - Modern Aramaic (Northeastern),37,8
-hung1274,Hungarian,uz,Hungarian - Educated colloquial Hungarian (as spoken in Budapest of the 1990s),50,57
-yami1256,Yaminahua,saphon,Saynawa - ~N/A~,13,12
+hung1274,Hungarian,uz,Hungarian - Educated colloquial Hungarian (as spoken in Budapest of the 1990s),50,14
+yami1256,Yaminahua,saphon,Saynawa - ~N/A~,13,4
 kamb1297,Kamba,gm,Kikamba - ~N/A~,13,14
 mbum1254,Mbum,upsid,MBUM - ~N/A~,30,8
 defa1248,Defaka,gm,Defaka - ~N/A~,18,19
 capa1241,Capanahua,saphon,Capanahua - ~N/A~,16,8
-ainu1240,Ainu,spa,Ainu - ~N/A~,12,10
-yuec1235,Cantonese,uz,Chinese - Hong Kong Cantonese,21,53
+ainu1240,Ainu,spa,Ainu - ~N/A~,12,5
+yuec1235,Cantonese,uz,Chinese - Hong Kong Cantonese,21,21
 lamn1239,Lamnso',aa,Nsoʼ - ~N/A~,26,12
 nami1256,Namia,ph,Namia - ~N/A~,9,6
 urub1250,Urubú-Kaapor,saphon,Kaapor - ~N/A~,15,11
-tiwi1244,Tiwi,ph,Tiwi - ~N/A~,14,12
-halh1238,Khalkha,spa,Khalkha - ~N/A~,21,26
-yine1238,Piro,saphon,Yine - ~N/A~,16,20
-beng1280,Bengali,ea,Bengali - Bengali (Dhaka),30,85
-ticu1245,Ticuna,spa,Ticuna - ~N/A~,18,40
-stan1293,English,spa,English - ~N/A~,27,150
-ndon1254,Ndonga,gm,Ndonga (Kwaluudhi) - Kwaluudhi,29,20
-mani1292,Meithei,ra,Manipuri - ~N/A~,27,14
-iton1250,Itonama,saphon,Itonama - ~N/A~,19,18
-sout2982,Pomo (Southeastern),spa,Pomo - ~N/A~,27,16
-mand1415,Mandarin,ph,Standard Chinese; Mandarin - Beijing,24,61
-chuk1273,Chukchi,spa,Chukchi - ~N/A~,15,20
+tiwi1244,Tiwi,ph,Tiwi - ~N/A~,14,4
+halh1238,Khalkha,spa,Khalkha - ~N/A~,21,14
+yine1238,Piro,saphon,Yine - ~N/A~,16,10
+beng1280,Bengali,ea,Bengali - Bengali (Dhaka),30,17
+ticu1245,Ticuna,spa,Ticuna - ~N/A~,18,11
+stan1293,English,spa,English - ~N/A~,27,13
+ndon1254,Ndonga,gm,Ndonga (Kwaluudhi) - Kwaluudhi,29,5
+mani1292,Meithei,ra,Manipuri - ~N/A~,27,8
+iton1250,Itonama,saphon,Itonama - ~N/A~,19,6
+sout2982,Pomo (Southeastern),spa,Pomo - ~N/A~,27,11
+mand1415,Mandarin,ph,Standard Chinese; Mandarin - Beijing,24,21
+chuk1273,Chukchi,spa,Chukchi - ~N/A~,15,7
 chiq1248,Chiquitano,saphon,Bésɨro - ~N/A~,14,12
-sant1410,Santali,ra,Santali - ~N/A~,35,42
-stan1295,German,uz,German - ~N/A~,21,70
+sant1410,Santali,ra,Santali - ~N/A~,35,11
+stan1295,German,uz,German - ~N/A~,21,19
 ngiz1242,Ngizim,upsid,NGIZIM - ~N/A~,34,6
 mann1248,Mano,gm,Mano - ~N/A~,22,14
 kiny1244,Kinyarwanda,ph,Kinyarwanda - ~N/A~,39,10
-mapu1245,Mapudungun,upsid,ARAUCANIAN - ~N/A~,20,18
-akan1250,Akan,upsid,AKAN - ~N/A~,21,68
-lisu1250,Lisu,ea,Lisu - Lisu (Flowery),32,18
-fuln1247,Fulniô,upsid,IATE - ~N/A~,18,24
-niva1238,Nivacle,upsid,ASHUSLAY - ~N/A~,22,12
+mapu1245,Mapudungun,upsid,ARAUCANIAN - ~N/A~,20,6
+akan1250,Akan,upsid,AKAN - ~N/A~,21,14
+lisu1250,Lisu,ea,Lisu - Lisu (Flowery),32,10
+fuln1247,Fulniô,upsid,IATE - ~N/A~,18,12
+niva1238,Nivacle,upsid,ASHUSLAY - ~N/A~,22,6
 cent2004,Bai,upsid,BAI - ~N/A~,18,11
 embe1260,Catio,saphon,Emberá-Catío - ~N/A~,19,12
-ilok1237,Ilocano,ph,Ilocano - Northern,17,16
-east2542,Ojibwa (Eastern),upsid,OJIBWA - ~N/A~,16,22
-resi1247,Resígaro,saphon,Resígaro - ~N/A~,32,10
-mofu1248,Mofu-Gudur,aa,Mofu-gudur - ~N/A~,35,12
+ilok1237,Ilocano,ph,Ilocano - Northern,17,4
+east2542,Ojibwa (Eastern),upsid,OJIBWA - ~N/A~,16,11
+resi1247,Resígaro,saphon,Resígaro - ~N/A~,32,5
+mofu1248,Mofu-Gudur,aa,Mofu-gudur - ~N/A~,35,7
 mwag1236,Mupun,aa,Mwaghavul - ~N/A~,25,12
-atay1247,Atayal,upsid,ATAYAL - ~N/A~,19,21
+atay1247,Atayal,upsid,ATAYAL - ~N/A~,19,7
 dang1274,Dangaléat (Western),upsid,DANGALEAT - ~N/A~,21,7
-mapu1245,Mapudungun,saphon,Mapudungun - ~N/A~,22,18
+mapu1245,Mapudungun,saphon,Mapudungun - ~N/A~,22,6
 pany1241,Panyjima,er,Panyjima - ~N/A~,20,5
-guja1253,Gojri,ra,Gojri - ~N/A~,35,37
+guja1253,Gojri,ra,Gojri - ~N/A~,35,19
 mesc1238,Apache (Chiricahua),ph,Chiricahua Apache - ~N/A~,31,16
-dutc1256,Dutch,uz,Dutch - the dialect of Hasselt (belongs to the West-Limburgian dialect group),22,212
-lith1251,Lithuanian,ea,Lithuanian - Lithuanian (West Samogitian),26,82
-ndon1254,Ndonga,gm,Ndonga (Kolonkadhi) - Kolonkadhi,29,20
+dutc1256,Dutch,uz,Dutch - the dialect of Hasselt (belongs to the West-Limburgian dialect group),22,33
+lith1251,Lithuanian,ea,Lithuanian - Lithuanian (West Samogitian),26,14
+ndon1254,Ndonga,gm,Ndonga (Kolonkadhi) - Kolonkadhi,29,5
 cent2128,Yupik (Siberian),upsid,YUPIK - ~N/A~,32,4
 tata1257,Tatana',ph,Tatana''; Tatanaq; Tatana' - ~N/A~,17,4
 yand1253,Innamincka,er,Yandruwandha - ~N/A~,26,4
-iran1263,Iranxe,upsid,IRANXE - ~N/A~,21,40
-gbay1287,Gbeya Bossangoa,upsid,GBEYA - ~N/A~,31,36
-mode1248,Greek (Modern),ea,Greek - Greek (Standard),24,25
+iran1263,Iranxe,upsid,IRANXE - ~N/A~,21,18
+gbay1287,Gbeya Bossangoa,upsid,GBEYA - ~N/A~,31,12
+mode1248,Greek (Modern),ea,Greek - Greek (Standard),24,5
 woun1238,Waunana,saphon,Woun Meu - ~N/A~,19,14
-karo1304,Karok,upsid,KAROK - ~N/A~,16,22
-kumb1268,Gumbaynggir,er,Gumbaynggir - ~N/A~,13,12
+karo1304,Karok,upsid,KAROK - ~N/A~,16,11
+kumb1268,Gumbaynggir,er,Gumbaynggir - ~N/A~,13,6
 mara1404,Maranao,upsid,MARANAO - ~N/A~,13,4
 nyam1271,Nyamal,er,Nyamal - ~N/A~,17,6
-east2328,Mari (Meadow),ea,Eastern Mari - ~N/A~,22,61
+east2328,Mari (Meadow),ea,Eastern Mari - ~N/A~,22,9
 kild1236,Saami (Kildin),ea,Kildin Saami - ~N/A~,113,15
 quec1382,Quechan,ph,Yuma - ~N/A~,28,10
-guaj1255,Guajajara,saphon,Guajajára - ~N/A~,15,14
-chec1245,Chechen,ea,Chechen - Chechen (Ploskost),39,121
-pamp1243,Kapampangan,gm,Kapampangan - ~N/A~,17,10
-cent1973,Pashto,ea,Wazirwola - Wazirwola (South Wazīrī),24,26
+guaj1255,Guajajara,saphon,Guajajára - ~N/A~,15,7
+chec1245,Chechen,ea,Chechen - Chechen (Ploskost),39,31
+pamp1243,Kapampangan,gm,Kapampangan - ~N/A~,17,5
+cent1973,Pashto,ea,Wazirwola - Wazirwola (South Wazīrī),24,6
 orok1266,Londo,ph,Lukundu - ~N/A~,22,7
-hupa1239,Hupa,spa,Hupa - ~N/A~,35,14
-east2347,Tamang (Eastern),ea,Tamang - Tamang (Eastern),19,54
-kumi1248,Diegueño (Mesa Grande),spa,Digueno - ~N/A~,25,18
+hupa1239,Hupa,spa,Hupa - ~N/A~,35,7
+east2347,Tamang (Eastern),ea,Tamang - Tamang (Eastern),19,28
+kumi1248,Diegueño (Mesa Grande),spa,Digueno - ~N/A~,25,9
 nhan1238,Nhanda,er,Nhanda - ~N/A~,27,6
 aman1265,Amanab,ph,Amanab - ~N/A~,14,5
 mako1251,Makonde,ph,Shimakonde - ~N/A~,18,5
-lowa1242,Baragaunle,ea,gLo Tibetan - ~N/A~,35,15
-dann1241,Dan,upsid,DAN - ~N/A~,19,83
-gbay1287,Gbeya Bossangoa,aa,Gbaya - Gbaya (Bossangoa,29,36
-soni1259,Soninke,gm,soninke (kaedi (MRT)) - kaedi (MRT),28,44
-baka1277,Bakairí,upsid,BAKAIRI - ~N/A~,17,38
+lowa1242,Baragaunle,ea,gLo Tibetan - ~N/A~,35,8
+dann1241,Dan,upsid,DAN - ~N/A~,19,20
+gbay1287,Gbeya Bossangoa,aa,Gbaya - Gbaya (Bossangoa,29,12
+soni1259,Soninke,gm,soninke (kaedi (MRT)) - kaedi (MRT),28,15
+baka1277,Bakairí,upsid,BAKAIRI - ~N/A~,17,12
 utes1238,Chemehuevi,ph,Southern Ute; Ute; Ute-Southern Paiute - ~N/A~,19,18
-maun1240,Maung,spa,Maung - ~N/A~,19,15
+maun1240,Maung,spa,Maung - ~N/A~,19,5
 idom1241,Idoma,gm,Idu - ~N/A~,47,23
 mari1419,Maringarr,er,Marringarr - ~N/A~,28,4
-lith1251,Lithuanian,upsid,LITHUANIAN - ~N/A~,36,82
+lith1251,Lithuanian,upsid,LITHUANIAN - ~N/A~,36,16
 moru1253,Moru,gm,Moru - ~N/A~,26,9
 siam1242,Seme,gm,Siamou - ~N/A~,22,14
-ngaw1240,Ngawun,er,Ngawun - ~N/A~,18,9
+ngaw1240,Ngawun,er,Ngawun - ~N/A~,18,3
 guar1293,Warekena,saphon,Warekena - ~N/A~,17,8
 puoc1238,Ksingmul,ea,Ksingmul - ~N/A~,20,18
-kaba1278,Kabardian,upsid,KABARDIAN - ~N/A~,49,37
-nyan1301,Nyangumarda,spa,Nyangumata - ~N/A~,20,11
-yukp1241,Yukpa,saphon,Yukpa - de Irapa,12,12
-telu1262,Telugu,ea,Telugu - Telugu (Standard),33,54
-toho1245,O'odham,spa,Pima - ~N/A~,19,15
-atam1239,Uradhi,er,Atampaya - ~N/A~,18,12
-siri1273,Sirionó,saphon,Sirionó - ~N/A~,18,34
-nugu1242,Gunu,aa,Nugunu - ~N/A~,15,14
-nucl1310,Burmese,uz,Burmese - Rangoon,31,66
-kuvi1243,Kuvi,ph,Kuvi - ~N/A~,22,49
+kaba1278,Kabardian,upsid,KABARDIAN - ~N/A~,49,7
+nyan1301,Nyangumarda,spa,Nyangumata - ~N/A~,20,7
+yukp1241,Yukpa,saphon,Yukpa - de Irapa,12,6
+telu1262,Telugu,ea,Telugu - Telugu (Standard),33,11
+toho1245,O'odham,spa,Pima - ~N/A~,19,10
+atam1239,Uradhi,er,Atampaya - ~N/A~,18,8
+siri1273,Sirionó,saphon,Sirionó - ~N/A~,18,12
+nugu1242,Gunu,aa,Nugunu - ~N/A~,15,7
+nucl1310,Burmese,uz,Burmese - Rangoon,31,19
+kuvi1243,Kuvi,ph,Kuvi - ~N/A~,22,15
 suri1267,Tirmaga,ph,Suri - Tirmaga,22,7
-lada1244,Ladakhi,ph,Ladakhi - ~N/A~,33,18
+lada1244,Ladakhi,ph,Ladakhi - ~N/A~,33,5
 qaqe1238,Qaget,upsid,BAINING - ~N/A~,14,8
 west2644,Chatino (Sierra Occidental),upsid,CHATINO - ~N/A~,16,9
 ruka1240,Rukai (Tanan),upsid,RUKAI - ~N/A~,23,4
-east2295,Yiddish (Bessarabian),ph,Standard Yiddish - ~N/A~,38,22
-lakk1252,Lak,spa,Lak - ~N/A~,60,28
-libe1247,Kpelle,upsid,KPELLE - ~N/A~,22,47
-itel1242,Itelmen,upsid,ITELMEN - ~N/A~,27,10
-kett1243,Ket,ea,Ket - Ket (Kellog),14,32
-waya1269,Wayana,saphon,Wayana - ~N/A~,9,14
-muin1242,Muinane,upsid,MUINANE - ~N/A~,22,12
-akan1250,Akan,aa,Akan - ~N/A~,18,68
+east2295,Yiddish (Bessarabian),ph,Standard Yiddish - ~N/A~,38,9
+lakk1252,Lak,spa,Lak - ~N/A~,60,9
+libe1247,Kpelle,upsid,KPELLE - ~N/A~,22,12
+itel1242,Itelmen,upsid,ITELMEN - ~N/A~,27,5
+kett1243,Ket,ea,Ket - Ket (Kellog),14,11
+waya1269,Wayana,saphon,Wayana - ~N/A~,9,7
+muin1242,Muinane,upsid,MUINANE - ~N/A~,22,6
+akan1250,Akan,aa,Akan - ~N/A~,18,9
 jeme1245,Jemez,ph,Jemez - ~N/A~,39,22
-stan1290,French,spa,French - ~N/A~,23,62
+stan1290,French,spa,French - ~N/A~,23,17
 imon1245,Imonda,ph,Imonda - ~N/A~,13,10
 nort2626,Frisian (North),ph,Frisian - Sölring North,23,19
-taro1263,Tarok,aa,Tarok - ~N/A~,27,13
-akha1245,Akha,ea,Akha - ~N/A~,34,36
+taro1263,Tarok,aa,Tarok - ~N/A~,27,7
+akha1245,Akha,ea,Akha - ~N/A~,34,23
 sout2918,Sama (Southern),gm,Southern Sama - Sinama,17,6
 awtu1239,Awtuw,ph,Awtuw - ~N/A~,11,7
 jola1262,Diola-Kasa,gm,Joola Huluf - ~N/A~,31,20
-lada1244,Ladakhi,ea,Ladakhi - Ladakhi (Leh),33,18
+lada1244,Ladakhi,ea,Ladakhi - Ladakhi (Leh),33,5
 fiji1243,Fijian,upsid,FIJIAN - ~N/A~,19,11
-even1260,Even,spa,Even - ~N/A~,18,46
-ital1282,Italian,uz,Italian - Standard Italian,39,45
+even1260,Even,spa,Even - ~N/A~,18,18
+ital1282,Italian,uz,Italian - Standard Italian,39,31
 duru1236,Parji (Dravidian),ra,Parji - ~N/A~,21,10
 dong1285,Santa,ea,Dongxiang - ~N/A~,28,6
-nang1259,Ngankikurungkurr,er,Ngan'gityemerri - ~N/A~,19,12
-nucl1683,Daba,aa,Daba - ~N/A~,36,12
-mode1248,Greek (Modern),spa,Modern Greek - ~N/A~,21,25
+nang1259,Ngankikurungkurr,er,Ngan'gityemerri - ~N/A~,19,4
+nucl1683,Daba,aa,Daba - ~N/A~,36,6
+mode1248,Greek (Modern),spa,Modern Greek - ~N/A~,21,5
 lund1266,Lunda,ph,Lunda - ~N/A~,22,10
-east2328,Mari (Meadow),spa,Cheremis - ~N/A~,25,61
+east2328,Mari (Meadow),spa,Cheremis - ~N/A~,25,9
 okuu1243,Oku,ph,Oku - ~N/A~,18,7
-fefe1239,Fe'fe',upsid,FE?FE? - ~N/A~,17,24
+fefe1239,Fe'fe',upsid,FE?FE? - ~N/A~,17,8
 wang1290,Wangkangurru,er,Wangkangurru - ~N/A~,21,3
-bamb1269,Bambara,upsid,BAMBARA - ~N/A~,21,59
-yami1256,Yaminahua,saphon,Yaminawa - ~N/A~,14,12
+bamb1269,Bambara,upsid,BAMBARA - ~N/A~,21,14
+yami1256,Yaminahua,saphon,Yaminawa - ~N/A~,14,8
 leti1246,Leti,gm,Leti - ~N/A~,10,12
-nene1249,Nenets,ea,Tundra Nenets - Tundra Nenets (Far Eastern),24,42
+nene1249,Nenets,ea,Tundra Nenets - Tundra Nenets (Far Eastern),24,9
 west2600,West Makian,upsid,WEST MAKIAN - ~N/A~,17,6
-mana1288,Manange,ea,Manange - ~N/A~,30,21
+mana1288,Manange,ea,Manange - ~N/A~,30,11
 ngam1268,Ngambay,aa,Ngambai - ~N/A~,18,13
-nucl1302,Georgian,uz,georgian - Standard (or literary) georgian (Kartluri dialect),28,22
-koyr1242,Koyraboro Senni,spa,Songhai - ~N/A~,33,38
-biak1248,Biak,gm,Biak - Sowek,14,15
-mand1415,Mandarin,ea,Standard Chinese - Standard Chinese (Beijing),25,61
-masa1300,Maasai,spa,Maasai - ~N/A~,21,27
+nucl1302,Georgian,uz,georgian - Standard (or literary) georgian (Kartluri dialect),28,5
+koyr1242,Koyraboro Senni,spa,Songhai - ~N/A~,33,15
+biak1248,Biak,gm,Biak - Sowek,14,5
+mand1415,Mandarin,ea,Standard Chinese - Standard Chinese (Beijing),25,21
+masa1300,Maasai,spa,Maasai - ~N/A~,21,18
 maor1246,Maori,spa,Maori - ~N/A~,10,10
-west2392,Mari (Hill),ea,Hill Mari - Hill Mari (Kozmodemjansk),24,20
-awac1239,Awa Pit,ph,Awa Pit - ~N/A~,14,17
+west2392,Mari (Hill),ea,Hill Mari - Hill Mari (Kozmodemjansk),24,10
+awac1239,Awa Pit,ph,Awa Pit - ~N/A~,14,7
 tivv1240,Tiv,gm,Tiv - Central (Standard),31,6
-kuku1273,Kuku-Yalanji,upsid,GUGU-YALANDYI - ~N/A~,13,12
-yoru1245,Yoruba,aa,Yorouba - Yorouba (Nigeria),18,34
+kuku1273,Kuku-Yalanji,upsid,GUGU-YALANDYI - ~N/A~,13,3
+yoru1245,Yoruba,aa,Yorouba - Yorouba (Nigeria),18,11
 diml1238,Zazaki,ph,Dimili - ~N/A~,30,14
-kala1377,Kala Lagaw Ya,upsid,KALA LAGAW YA - ~N/A~,18,12
-swis1247,German (Appenzell),uz,Swiss German - Zurich,27,58
+kala1377,Kala Lagaw Ya,upsid,KALA LAGAW YA - ~N/A~,18,6
+swis1247,German (Appenzell),uz,Swiss German - Zurich,27,29
 cusc1236,Quechua (Cuzco),saphon,Cuzco-Collao Quechua - ~N/A~,26,5
 acha1249,Achang,ea,Achang - Achang (Lianghe),36,23
-west2369,Persian,uz,Persian - ~N/A~,23,24
+west2369,Persian,uz,Persian - ~N/A~,23,6
 tzut1248,Tzutujil,ph,Tzutujil - San Juan,25,10
 efik1245,Efik,upsid,EFIK - ~N/A~,13,7
 chim1309,Chimila,saphon,Chimila - ~N/A~,16,20
-kaya1319,Kayardild,er,Yangkaralda - ~N/A~,18,12
-east2328,Mari (Meadow),ea,Meadow Mari - Meadow Mari (Volga),21,61
+kaya1319,Kayardild,er,Yangkaralda - ~N/A~,18,6
+east2328,Mari (Meadow),ea,Meadow Mari - Meadow Mari (Volga),21,9
 gavi1246,Gavião,saphon,Gavião do Jiparaná - ~N/A~,19,10
 pana1305,Tümpisa Shoshone,ph,Panamint - ~N/A~,23,13
 warl1254,Warlpiri,er,Warlpiri - ~N/A~,18,6
 uruu1244,Uru,saphon,Uru - ~N/A~,23,10
-roma1327,Romanian,ea,Romanian - Romanian (Standard),40,30
-shua1257,Jivaro,saphon,Shuar - ~N/A~,13,24
+roma1327,Romanian,ea,Romanian - Romanian (Standard),40,11
+shua1257,Jivaro,saphon,Shuar - ~N/A~,13,8
 bemb1257,Bemba,ph,Bemba - ~N/A~,15,10
 mala1481,Manadonese,gm,Manado Malay - ~N/A~,19,6
-stan1288,Spanish,upsid,SPANISH - ~N/A~,20,63
+stan1288,Spanish,upsid,SPANISH - ~N/A~,20,5
 ogbi1239,Ogbia,upsid,OGBIA - ~N/A~,24,10
 rend1243,Rendille,aa,Rendille - ~N/A~,21,10
 marg1253,Margany,er,Margany - ~N/A~,25,6
 kwin1241,Gunin,er,Kwini - ~N/A~,17,11
-bond1245,Remo,ph,Remo - ~N/A~,21,40
-pure1242,Purépecha,spa,Tarascan - ~N/A~,26,12
+bond1245,Remo,ph,Remo - ~N/A~,21,6
+pure1242,Purépecha,spa,Tarascan - ~N/A~,26,6
 soqo1240,Soqotri,upsid,SOCOTRI - ~N/A~,28,6
 lake1258,Miwok (Lake),ph,Lake Miwok; Miwok (Lake) - ~N/A~,29,10
-tzel1254,Tzeltal (Aguacatenango),spa,Tzeltal - ~N/A~,25,11
-icel1247,Icelandic,spa,Icelandic - ~N/A~,23,31
-dani1285,Danish,ea,Danish - ~N/A~,15,60
-buru1296,Burushaski,ea,Burushaski - Burushaski (Werchikwar),38,58
-anyi1245,Anyi,gm,Agni Djuablin - ~N/A~,17,44
+tzel1254,Tzeltal (Aguacatenango),spa,Tzeltal - ~N/A~,25,5
+icel1247,Icelandic,spa,Icelandic - ~N/A~,23,16
+dani1285,Danish,ea,Danish - ~N/A~,15,11
+buru1296,Burushaski,ea,Burushaski - Burushaski (Werchikwar),38,10
+anyi1245,Anyi,gm,Agni Djuablin - ~N/A~,17,14
 luwo1239,Luwo,gm,Luwo - ~N/A~,19,10
-plat1254,Malagasy,spa,Malagasy - ~N/A~,31,9
-tehu1242,Tehuelche,upsid,TEHUELCHE - ~N/A~,28,13
-biri1256,Biri,er,Biri - ~N/A~,15,30
-nucl1302,Georgian,upsid,GEORGIAN - ~N/A~,28,22
+plat1254,Malagasy,spa,Malagasy - ~N/A~,31,5
+tehu1242,Tehuelche,upsid,TEHUELCHE - ~N/A~,28,7
+biri1256,Biri,er,Biri - ~N/A~,15,3
+nucl1302,Georgian,upsid,GEORGIAN - ~N/A~,28,6
 rutu1240,Rutul,upsid,RUTUL - ~N/A~,59,5
-sher1255,Sherpa,ea,Solu Sherpa - Solu Sherpa (Lukla),34,29
-roma1327,Romanian,upsid,ROMANIAN - ~N/A~,22,30
-kuni1267,Kunimaipa,spa,Kunimaipa - ~N/A~,15,10
+sher1255,Sherpa,ea,Solu Sherpa - Solu Sherpa (Lukla),34,13
+roma1327,Romanian,upsid,ROMANIAN - ~N/A~,22,10
+kuni1267,Kunimaipa,spa,Kunimaipa - ~N/A~,15,5
 komi1269,Komi-Permyak,ea,Komi-Permyak - ~N/A~,30,7
-viet1252,Vietnamese,ea,Vietnamese - Vietnamese (Hanoi),21,58
+viet1252,Vietnamese,ea,Vietnamese - Vietnamese (Hanoi),21,16
 achu1248,Achuar,saphon,Achuar-Shiwiar - ~N/A~,15,12
 yamb1251,Yamba,aa,Yamba - ~N/A~,26,8
-sali1298,Sáliba (in Colombia),upsid,SALIBA - ~N/A~,22,20
-bard1255,Bardi,uz,Bardi - One Arm Point,18,21
+sali1298,Sáliba (in Colombia),upsid,SALIBA - ~N/A~,22,10
+bard1255,Bardi,uz,Bardi - One Arm Point,18,7
 rong1268,Ronga,gm,Ronga - ~N/A~,64,5
-ocai1244,Ocaina,upsid,OCAINA - ~N/A~,25,27
+ocai1244,Ocaina,upsid,OCAINA - ~N/A~,25,9
 hame1242,Hamer,upsid,HAMER - ~N/A~,25,10
-cent1973,Pashto,spa,Pashto - ~N/A~,31,26
-basq1248,Basque,ea,Basque - Basque (Gernika),23,53
-bodo1267,Gutob,ra,Gutob - ~N/A~,21,38
-kuru1302,Kurukh,ra,Kurux - ~N/A~,31,58
-east2379,Arrernte (Mparntwe),uz,Arrernte,27,11
+cent1973,Pashto,spa,Pashto - ~N/A~,31,7
+basq1248,Basque,ea,Basque - Basque (Gernika),23,7
+bodo1267,Gutob,ra,Gutob - ~N/A~,21,19
+kuru1302,Kurukh,ra,Kurux - ~N/A~,31,25
+east2379,Arrernte (Mparntwe),uz,Arrernte,27,4
 buku1249,Bukusu,ph,Bukusu - ~N/A~,20,10
-kett1243,Ket,spa,Ket - ~N/A~,18,32
+kett1243,Ket,spa,Ket - ~N/A~,18,14
 afar1241,Qafar,gm,Afar - ~N/A~,17,10
 toar1246,Toaripi,upsid,TAORIPI - ~N/A~,8,6
 lese1243,Lese,gm,Balese - ~N/A~,29,10
-khan1273,Khanty,ea,Northern Khanty - Northern Khanty (Sob Obdorsk),16,68
+khan1273,Khanty,ea,Northern Khanty - Northern Khanty (Sob Obdorsk),16,9
 mola1238,Molala,ph,Molalla - ~N/A~,23,7
-kham1282,Kham (Dege),ea,Kami Tibetan - ~N/A~,56,180
-khan1273,Khanty,spa,Ostyak - ~N/A~,19,68
-chec1245,Chechen,ea,Chechen - Chechen (Pẋarçxoy Äqqiy),39,121
-haus1257,Hausa,upsid,HAUSA - ~N/A~,31,43
-nucl1301,Turkish,upsid,TURKISH - ~N/A~,25,51
+kham1282,Kham (Dege),ea,Kami Tibetan - ~N/A~,56,21
+khan1273,Khanty,spa,Ostyak - ~N/A~,19,13
+chec1245,Chechen,ea,Chechen - Chechen (Pẋarçxoy Äqqiy),39,28
+haus1257,Hausa,upsid,HAUSA - ~N/A~,31,7
+nucl1301,Turkish,upsid,TURKISH - ~N/A~,25,8
 bafu1246,Bafut,aa,Bafut - ~N/A~,21,18
-aghe1239,Aghem,gm,Aghem - ~N/A~,28,29
+aghe1239,Aghem,gm,Aghem - ~N/A~,28,19
 kunj1245,Kunjen,spa,Kunjen - ~N/A~,23,5
-aona1235,Ao,ra,Ao-Naga - ~N/A~,24,14
-kham1282,Kham (Dege),ea,Brag-g.yab Tibetan - ~N/A~,40,180
-tami1289,Tamil,ra,Tamil - ~N/A~,32,35
-toro1252,Toro So,upsid,DOGON - ~N/A~,16,33
-tami1289,Tamil,ph,Tamil - Standard Spoken Tamil,21,35
-nucl1301,Turkish,uz,Turkish - Standard Turkish (Istanbul),24,51
-gude1246,Gude,gm,Gu'de - ~N/A~,30,8
-taca1256,Tacana,upsid,TACANA - ~N/A~,18,8
-yemb1246,Yemba,gm,Yemba - ~N/A~,17,15
+aona1235,Ao,ra,Ao-Naga - ~N/A~,24,8
+kham1282,Kham (Dege),ea,Brag-g.yab Tibetan - ~N/A~,40,21
+tami1289,Tamil,ra,Tamil - ~N/A~,32,11
+toro1252,Toro So,upsid,DOGON - ~N/A~,16,12
+tami1289,Tamil,ph,Tamil - Standard Spoken Tamil,21,12
+nucl1301,Turkish,uz,Turkish - Standard Turkish (Istanbul),24,12
+gude1246,Gude,gm,Gu'de - ~N/A~,30,4
+taca1256,Tacana,upsid,TACANA - ~N/A~,18,4
+yemb1246,Yemba,gm,Yemba - ~N/A~,17,7
 hunz1247,Hunzib,uz,Hunzib - ~N/A~,36,24
-aika1237,Aikaná,upsid,HUARI - ~N/A~,22,20
-adam1253,Fulfulde (Adamawa),gm,Fulfulde (Cameroon) - CAM,37,39
-norw1259,Norwegian,upsid,NORWEGIAN - ~N/A~,22,43
-lazz1240,Laz,ea,Laz - Laz (Ardeşen),33,32
-yane1238,Amuesha,upsid,AMUESHA - ~N/A~,23,18
-timn1235,Temne,uz,Temne - Yoni dialect and North-Western dialect of Temne (town of Kambia in the Northern Province of Sierra Leone),19,32
-komi1268,Komi-Zyrian,upsid,KOMI - ~N/A~,26,21
+aika1237,Aikaná,upsid,HUARI - ~N/A~,22,10
+adam1253,Fulfulde (Adamawa),gm,Fulfulde (Cameroon) - CAM,37,10
+norw1259,Norwegian,upsid,NORWEGIAN - ~N/A~,22,24
+lazz1240,Laz,ea,Laz - Laz (Ardeşen),33,5
+yane1238,Amuesha,upsid,AMUESHA - ~N/A~,23,3
+timn1235,Temne,uz,Temne - Yoni dialect and North-Western dialect of Temne (town of Kambia in the Northern Province of Sierra Leone),19,15
+komi1268,Komi-Zyrian,upsid,KOMI - ~N/A~,26,7
 xere1240,Xerénte,saphon,Xerénte - ~N/A~,13,14
 djin1253,Djinang,er,Djinang - ~N/A~,22,3
-laoo1244,Lao,ea,Lao - Lao (Luang Prabang),21,57
-atay1247,Atayal,ea,Atayal - ~N/A~,18,21
-ming1252,Mingrelian,ea,Mingrelian - Mingrelian (Zugdidi-Samurzaqano),31,21
+laoo1244,Lao,ea,Lao - Lao (Luang Prabang),21,12
+atay1247,Atayal,ea,Atayal - ~N/A~,18,6
+ming1252,Mingrelian,ea,Mingrelian - Mingrelian (Zugdidi-Samurzaqano),31,6
 khmu1256,Khmu',upsid,KHMU? - ~N/A~,23,18
-kwom1262,Kwoma,spa,Washkuk - ~N/A~,24,14
-katc1249,Kadugli,upsid,KADUGLI - ~N/A~,22,65
-sang1328,Sango,aa,Sango - Sango (COD),26,35
-iton1250,Itonama,upsid,ITONAMA - ~N/A~,19,18
-kirg1245,Kirghiz,spa,Kirghiz - ~N/A~,20,40
+kwom1262,Kwoma,spa,Washkuk - ~N/A~,24,7
+katc1249,Kadugli,upsid,KADUGLI - ~N/A~,22,5
+sang1328,Sango,aa,Sango - Sango (COD),26,12
+iton1250,Itonama,upsid,ITONAMA - ~N/A~,19,6
+kirg1245,Kirghiz,spa,Kirghiz - ~N/A~,20,16
 bank1256,Bankon,gm,Bankon - ~N/A~,26,7
-gure1255,Gureng Gureng,er,Guweng - ~N/A~,13,20
+gure1255,Gureng Gureng,er,Guweng - ~N/A~,13,10
 toda1252,Toda,ra,Toda - ~N/A~,38,15
-kaya1319,Kayardild,er,Kayardild - ~N/A~,17,12
+kaya1319,Kayardild,er,Kayardild - ~N/A~,17,6
 karb1241,Mikir,ra,Karbi (Mikir) - ~N/A~,28,11
-sang1328,Sango,upsid,SANGO - ~N/A~,26,35
-lowa1242,Baragaunle,ea,South Mustang Tibetan - South Mustang Tibetan (Jharkhot),35,15
-boro1282,Bororo,saphon,Borôro - ~N/A~,15,14
+sang1328,Sango,upsid,SANGO - ~N/A~,26,11
+lowa1242,Baragaunle,ea,South Mustang Tibetan - South Mustang Tibetan (Jharkhot),35,7
+boro1282,Bororo,saphon,Borôro - ~N/A~,15,7
 kara1462,Tofa,ea,Tofa - ~N/A~,28,39
-biss1248,Bisa,upsid,BISA - ~N/A~,18,21
-west2443,Madimadi,er,West Djadjawurung - ~N/A~,17,8
+biss1248,Bisa,upsid,BISA - ~N/A~,18,6
+west2443,Madimadi,er,West Djadjawurung - ~N/A~,17,4
 murr1258,Murrinh-Patha,upsid,MURINHPATHA - ~N/A~,21,4
-wapi1253,Wapishana,spa,Wapishana - ~N/A~,17,24
-slov1269,Slovak,uz,Slovak - Standard Slovak (Bratislava / Kos̆ice),29,30
-gily1242,Nivkh,ea,Nivkh - Nivkh (West Sakhalin),28,23
+wapi1253,Wapishana,spa,Wapishana - ~N/A~,17,12
+slov1269,Slovak,uz,Slovak - Standard Slovak (Bratislava / Kos̆ice),29,15
+gily1242,Nivkh,ea,Nivkh - Nivkh (West Sakhalin),28,6
 mich1243,Michif,ph,Michif - ~N/A~,25,16
 seri1257,Seri,ph,Seri - ~N/A~,17,8
 unam1242,Unami,spa,Delaware - ~N/A~,22,17
 uppe1455,Guinea Bissau Crioulo,gm,Kriyol - ~N/A~,23,5
-nobi1240,Nobiin,spa,Mahas-Fiyadikka - ~N/A~,33,15
-ilok1237,Ilocano,gm,Iloko/Ilocano - Northern,17,16
-kuru1302,Kurukh,spa,Kurukh - ~N/A~,46,58
+nobi1240,Nobiin,spa,Mahas-Fiyadikka - ~N/A~,33,10
+ilok1237,Ilocano,gm,Iloko/Ilocano - Northern,17,6
+kuru1302,Kurukh,spa,Kurukh - ~N/A~,46,22
 dhim1246,Dhimal,ea,Dhimal - ~N/A~,31,22
 huba1236,Kilba,gm,Kilba - ~N/A~,24,5
-telu1262,Telugu,spa,Telugu - ~N/A~,47,54
+telu1262,Telugu,spa,Telugu - ~N/A~,47,21
 toll1241,Tol,upsid,TOL - ~N/A~,22,6
 wich1264,Wichí,saphon,Wichí - Mision la Paz dialect,23,5
 paka1251,Pakanha,er,Bakanh - ~N/A~,21,10
-abkh1244,Abkhaz,ea,Abkhaz - Abkhaz (Bzyb),67,6
+abkh1244,Abkhaz,ea,Abkhaz - Abkhaz (Bzyb),67,3
 chic1270,Chickasaw,ph,Chickasaw - ~N/A~,16,9
-amdo1237,Amdo,ea,Khalong Tibetan - ~N/A~,53,22
+amdo1237,Amdo,ea,Khalong Tibetan - ~N/A~,53,6
 wuzl1236,Uldeme,gm,Ouldeme - ~N/A~,34,5
-lahu1253,Lahu,ea,Lahu - Lahu (Black),24,40
+lahu1253,Lahu,ea,Lahu - Lahu (Black),24,22
 mada1282,Mada (in Nigeria),gm,mada - ~N/A~,23,13
-pemo1248,Pemon,saphon,Pemon - Arekuna dialect,10,18
-mace1250,Macedonian,ph,Macedonian - ~N/A~,26,12
-wari1268,Wari',ph,Wari; Wari''; Wariʔ; Oro Nao' - Oro Nao,14,12
-kham1282,Kham (Dege),ea,Soghpo Tibetan - ~N/A~,96,180
-ntch1242,Ncàm,aa,Bassar - ~N/A~,21,31
+pemo1248,Pemon,saphon,Pemon - Arekuna dialect,10,7
+mace1250,Macedonian,ph,Macedonian - ~N/A~,26,6
+wari1268,Wari',ph,Wari; Wari''; Wariʔ; Oro Nao' - Oro Nao,14,6
+kham1282,Kham (Dege),ea,Soghpo Tibetan - ~N/A~,96,33
+ntch1242,Ncàm,aa,Bassar - ~N/A~,21,6
 coeu1236,Coeur d'Alene,ph,Coeur d''Alene' - ~N/A~,40,8
 klam1254,Klamath,upsid,KLAMATH - ~N/A~,33,4
-basq1248,Basque,spa,Basque - ~N/A~,23,53
-west2369,Persian,upsid,FARSI - ~N/A~,24,24
-tibe1272,Tibetan (Standard Spoken),ea,Lhasa Tibetan - ~N/A~,27,87
+basq1248,Basque,spa,Basque - ~N/A~,23,5
+west2369,Persian,upsid,FARSI - ~N/A~,24,6
+tibe1272,Tibetan (Standard Spoken),ea,Lhasa Tibetan - ~N/A~,27,23
 xhos1239,Xhosa,gm,Xhosa - ~N/A~,75,7
 yekh1238,Etsako,ph,Etsako - ~N/A~,26,7
 lowe1385,Sorbian (Lower),ea,Lower Sorbian - ~N/A~,35,7
 chay1248,Chayahuita,saphon,Shawi - ~N/A~,14,4
-lith1251,Lithuanian,ea,Lithuanian - Lithuanian (North Samogitian),45,82
-czec1258,Czech,ea,Czech - Czech (Moravian),27,39
+lith1251,Lithuanian,ea,Lithuanian - Lithuanian (North Samogitian),45,14
+czec1258,Czech,ea,Czech - Czech (Moravian),27,13
 lena1238,Lenakel,upsid,LENAKEL - ~N/A~,15,6
 siwi1239,Berber (Siwa),gm,Siwi - ~N/A~,26,12
 yana1271,Yana,upsid,YANA - ~N/A~,22,8
-basq1248,Basque,uz,Basque - Goizueta Basque,23,53
-yind1247,Yindjibarndi,er,Yinhawangka - ~N/A~,20,12
-lazz1240,Laz,ea,Laz - Laz (Arhavi),29,32
-stan1288,Spanish,ea,Spanish - Spanish (Murcian),19,63
+basq1248,Basque,uz,Basque - Goizueta Basque,23,10
+yind1247,Yindjibarndi,er,Yinhawangka - ~N/A~,20,6
+lazz1240,Laz,ea,Laz - Laz (Arhavi),29,7
+stan1288,Spanish,ea,Spanish - Spanish (Murcian),19,26
 nyah1250,Nyah Kur (Tha Pong),upsid,NYAH KUR - ~N/A~,26,24
-kari1311,Karitiâna,saphon,Karitiâna - ~N/A~,11,34
+kari1311,Karitiâna,saphon,Karitiâna - ~N/A~,11,20
 kore1283,Koreguaje,saphon,Koreguaje - ~N/A~,18,12
 guru1261,Gurung,ea,Gurung - Gurung (Western),29,20
-halh1238,Khalkha,upsid,KHALKHA - ~N/A~,21,26
+halh1238,Khalkha,upsid,KHALKHA - ~N/A~,21,12
 kitj1240,Kitja,er,Kija - ~N/A~,19,5
-woiw1237,Woiwurrung,er,Woiwurrung - ~N/A~,20,6
-benc1235,Gimira,gm,Gimira - Benchnon,46,10
+woiw1237,Woiwurrung,er,Woiwurrung - ~N/A~,20,3
+benc1235,Gimira,gm,Gimira - Benchnon,46,5
 spok1245,Spokane,ph,Spokan - ~N/A~,38,5
 zagh1240,Beria,gm,Beria - ~N/A~,21,9
-hind1269,Hindi,uz,Hindi - Standard Hindi (as spoken in Varanasi,63,97
-kera1255,Kera,upsid,KERA - ~N/A~,24,12
+hind1269,Hindi,uz,Hindi - Standard Hindi (as spoken in Varanasi,63,11
+kera1255,Kera,upsid,KERA - ~N/A~,24,6
 yaqu1251,Yaqui,upsid,YAQUI - ~N/A~,17,5
 komc1235,Kom,aa,Kom - ~N/A~,59,9
 kuoo1238,Koh (Lakka),gm,Kuo - ~N/A~,29,24
-sali1298,Sáliba (in Colombia),saphon,Sáliba - ~N/A~,20,20
-fuln1247,Fulniô,saphon,Yaathe - ~N/A~,21,24
+sali1298,Sáliba (in Colombia),saphon,Sáliba - ~N/A~,20,10
+fuln1247,Fulniô,saphon,Yaathe - ~N/A~,21,12
 dizi1235,Dizi,upsid,DIZI - ~N/A~,24,6
-cent1973,Pashto,ea,Wazirwola - Wazirwola (North Wazīrī),25,26
-bata1289,Batak (Toba),ph,Toba-Batak - ~N/A~,18,19
+cent1973,Pashto,ea,Wazirwola - Wazirwola (North Wazīrī),25,6
+bata1289,Batak (Toba),ph,Toba-Batak - ~N/A~,18,9
 kama1373,Kamaiurá,saphon,Kamayurá - ~N/A~,14,12
-stan1288,Spanish,spa,Spanish - ~N/A~,20,63
-nang1259,Ngankikurungkurr,ph,Nganikurungkurr - Daly River Area,20,12
+stan1288,Spanish,spa,Spanish - ~N/A~,20,5
+nang1259,Ngankikurungkurr,ph,Nganikurungkurr - Daly River Area,20,8
 barb1263,Chumash (Barbareño),ph,Barbareño - ~N/A~,72,12
-gaam1241,Ingessana,upsid,TABI - ~N/A~,24,21
-paez1247,Páez,saphon,Páez - ~N/A~,33,34
+gaam1241,Ingessana,upsid,TABI - ~N/A~,24,9
+paez1247,Páez,saphon,Páez - ~N/A~,33,16
 pint1250,Pintupi,er,Pintupi - ~N/A~,17,6
 acat1239,Tlapanec,upsid,TLAPANEC - ~N/A~,20,10
-yemb1246,Yemba,aa,Yemba - ~N/A~,21,15
-nene1249,Nenets,spa,Yurak - ~N/A~,26,42
-ndon1254,Ndonga,gm,Ndonga (Eunda) - Eunda,29,20
+yemb1246,Yemba,aa,Yemba - ~N/A~,21,8
+nene1249,Nenets,spa,Yurak - ~N/A~,26,8
+ndon1254,Ndonga,gm,Ndonga (Eunda) - Eunda,29,5
 lega1249,Lega,gm,lega-shabunda - beya,18,14
-dyir1250,Dyirbal,upsid,DYIRBAL - ~N/A~,13,6
-cofa1242,Cofán,upsid,COFAN - ~N/A~,30,15
-seba1251,Chaha,gm,Muher - ~N/A~,34,20
+dyir1250,Dyirbal,upsid,DYIRBAL - ~N/A~,13,3
+cofa1242,Cofán,upsid,COFAN - ~N/A~,30,5
+seba1251,Chaha,gm,Muher - ~N/A~,34,8
 yems1235,Yemsa,gm,Yemsa - ~N/A~,25,10
-east2440,Taba,ph,East Makian - ~N/A~,19,15
+east2440,Taba,ph,East Makian - ~N/A~,19,5
 wadj1254,Bachamal,er,Patjtjamalh - ~N/A~,17,5
-trum1247,Trumai,saphon,Trumai - ~N/A~,23,12
+trum1247,Trumai,saphon,Trumai - ~N/A~,23,6
 goli1247,Golin,ph,Golin - ~N/A~,13,10
-tetu1245,Tetun,gm,Tetun - ~N/A~,13,10
-boro1282,Bororo,upsid,BORORO - ~N/A~,13,14
-mose1249,Mosetén,ph,Moseten - ~N/A~,26,64
+tetu1245,Tetun,gm,Tetun - ~N/A~,13,5
+boro1282,Bororo,upsid,BORORO - ~N/A~,13,7
+mose1249,Mosetén,ph,Moseten - ~N/A~,26,12
 waiw1244,Wai Wai,saphon,Waiwai - ~N/A~,14,6
-adze1240,Adzera,spa,Adzera - ~N/A~,18,14
-kadi1248,Kadiwéu,saphon,Kadiwéu - ~N/A~,23,16
-kore1280,Korean,upsid,KOREAN - ~N/A~,21,74
-taga1270,Tagalog,upsid,TAGALOG - ~N/A~,18,25
-bats1242,Tsova-Tush,upsid,BATS - ~N/A~,35,28
+adze1240,Adzera,spa,Adzera - ~N/A~,18,7
+kadi1248,Kadiwéu,saphon,Kadiwéu - ~N/A~,23,8
+kore1280,Korean,upsid,KOREAN - ~N/A~,21,11
+taga1270,Tagalog,upsid,TAGALOG - ~N/A~,18,5
+bats1242,Tsova-Tush,upsid,BATS - ~N/A~,35,10
 haka1240,Lai,upsid,LAI - ~N/A~,45,7
 dhuw1249,Djapu,upsid,YOLNGU - ~N/A~,20,3
 indo1317,Bajau (Sama),upsid,SAMA - ~N/A~,26,6
-shua1257,Jivaro,spa,Jivaro - ~N/A~,16,24
-amah1246,Amahuaca,spa,Amahuaca - ~N/A~,14,24
-alla1248,Alladian,gm,Alladian - ~N/A~,23,22
-tibe1272,Tibetan (Standard Spoken),ph,Tibetan - Lhasa,24,87
+shua1257,Jivaro,spa,Jivaro - ~N/A~,16,8
+amah1246,Amahuaca,spa,Amahuaca - ~N/A~,14,8
+alla1248,Alladian,gm,Alladian - ~N/A~,23,11
+tibe1272,Tibetan (Standard Spoken),ph,Tibetan - Lhasa,24,8
 sala1264,Salar,ea,Salar - ~N/A~,31,12
-finn1318,Finnish,upsid,FINNISH - ~N/A~,17,33
+finn1318,Finnish,upsid,FINNISH - ~N/A~,17,8
 huam1248,Quechua (Huallaga),ph,Huallaga (Huanuco) Quechua - ~N/A~,21,10
-chec1245,Chechen,ea,Chechen - Chechen (Şaroy),39,121
-hakk1236,Hakka,ea,Hakka Chinese - ~N/A~,23,44
-nucl1347,Wolof,spa,Wolof - ~N/A~,26,44
+chec1245,Chechen,ea,Chechen - Chechen (Şaroy),39,25
+hakk1236,Hakka,ea,Hakka Chinese - ~N/A~,23,16
+nucl1347,Wolof,spa,Wolof - ~N/A~,26,14
 wash1253,Washo,ph,Washo - ~N/A~,26,6
 wiyo1248,Wiyot,upsid,WIYOT - ~N/A~,24,5
 lave1249,Brao,upsid,BRAO - ~N/A~,22,9
-yind1247,Yindjibarndi,er,Yindjibarndi - ~N/A~,19,12
-koya1251,Koya,ra,Koya - ~N/A~,21,15
-sora1254,Sora,ra,Soːra - ~N/A~,21,29
+yind1247,Yindjibarndi,er,Yindjibarndi - ~N/A~,19,6
+koya1251,Koya,ra,Koya - ~N/A~,21,10
+sora1254,Sora,ra,Soːra - ~N/A~,21,10
 shon1251,Shona,ph,Shona - ~N/A~,37,5
-kase1253,Kasem,aa,Kasɩm - ~N/A~,21,40
+kase1253,Kasem,aa,Kasɩm - ~N/A~,21,20
 haya1250,Haya,ph,Haya - ~N/A~,19,10
-shar1245,Sharanahua,saphon,Sharanawa - ~N/A~,15,16
-nucl1301,Turkish,ea,Turkish - Turkish (Standard),23,51
+shar1245,Sharanahua,saphon,Sharanawa - ~N/A~,15,8
+nucl1301,Turkish,ea,Turkish - Turkish (Standard),23,15
 acha1250,Achagua,saphon,Achagua - ~N/A~,19,10
 kari1255,Kipea,saphon,Karirí-Xocó - Dzubukuá dialect,14,7
 apal1257,Apalaí,saphon,Apalaí - ~N/A~,12,12
-cacu1241,Cacua,upsid,CACUA - ~N/A~,12,15
+cacu1241,Cacua,upsid,CACUA - ~N/A~,12,10
 tune1261,Tunen,gm,Nen - ~N/A~,17,7
-hixk1239,Hixkaryana,saphon,Hixkaryána - ~N/A~,18,10
-sant1410,Santali,ea,Santali - ~N/A~,26,42
-kwaz1243,Kwaza,ph,Kwaza - ~N/A~,29,32
-konk1269,Konkomba,aa,Konkomba - ~N/A~,22,26
+hixk1239,Hixkaryana,saphon,Hixkaryána - ~N/A~,18,5
+sant1410,Santali,ea,Santali - ~N/A~,26,31
+kwaz1243,Kwaza,ph,Kwaza - ~N/A~,29,16
+konk1269,Konkomba,aa,Konkomba - ~N/A~,22,12
 livv1244,Liv,ea,Livonian - Livonian (Vidzeme),23,8
-amah1246,Amahuaca,saphon,Amahuaca - ~N/A~,15,24
+amah1246,Amahuaca,saphon,Amahuaca - ~N/A~,15,8
 furu1242,Bagiro,ph,Furu - ~N/A~,31,10
 nort2943,Iñupiaq,ph,Iñupiaq; Iñupiat; Inupiat; Inupiaq - ~N/A~,24,3
 aari1239,Aari,gm,Aari - ~N/A~,26,10
 maza1291,Mazanderani,ph,Mazanderani - ~N/A~,22,7
-java1254,Javanese,upsid,JAVANESE - ~N/A~,21,25
-west2392,Mari (Hill),ea,Hill Mari - Hill Mari (Jaransk),23,20
+java1254,Javanese,upsid,JAVANESE - ~N/A~,21,8
+west2392,Mari (Hill),ea,Hill Mari - Hill Mari (Jaransk),23,10
 mund1325,Mundang,gm,Mundang - ~N/A~,37,27
-ngas1240,Angas,upsid,ANGAS - ~N/A~,32,31
-mala1464,Malayalam,ea,Malayalam - ~N/A~,38,28
-east2563,Cham (Eastern),upsid,CHAM - ~N/A~,21,29
+ngas1240,Angas,upsid,ANGAS - ~N/A~,32,11
+mala1464,Malayalam,ea,Malayalam - ~N/A~,38,15
+east2563,Cham (Eastern),upsid,CHAM - ~N/A~,21,11
 bada1257,Badaga,ra,Badaga - ~N/A~,25,13
-xiri1243,Xiriana,upsid,SHIRIANA - ~N/A~,13,17
-nija1241,Balyku,er,Nyiyaparli - ~N/A~,20,11
-sout2991,Quechua (Cochabamba),spa,Quechua - ~N/A~,32,10
+xiri1243,Xiriana,upsid,SHIRIANA - ~N/A~,13,12
+nija1241,Balyku,er,Nyiyaparli - ~N/A~,20,5
+sout2991,Quechua (Cochabamba),spa,Quechua - ~N/A~,32,5
 muru1274,Huitoto (Murui),saphon,Huitoto,14,6
-colo1256,Tsafiki,ph,Colorado; Tsafiki - ~N/A~,16,19
-stan1290,French,ea,French - ~N/A~,20,62
+colo1256,Tsafiki,ph,Colorado; Tsafiki - ~N/A~,16,9
+stan1290,French,ea,French - ~N/A~,20,14
 east2652,Oromo (Harar),gm,Oromo,48,10
 tiey1235,Bozo (Tigemaxo),gm,Tigemaxo Bozo - ~N/A~,19,14
-paez1247,Páez,upsid,PAEZ - ~N/A~,29,34
+paez1247,Páez,upsid,PAEZ - ~N/A~,29,8
 ango1258,Angolar,gm,Angolar - ~N/A~,22,12
-nucl1302,Georgian,ea,Georgian - ~N/A~,28,22
-lazz1240,Laz,ea,Laz - Laz (Pazar),29,32
+nucl1302,Georgian,ea,Georgian - ~N/A~,28,5
+lazz1240,Laz,ea,Laz - Laz (Pazar),29,5
 yank1247,Yankuntjatjara,er,Yankunytjatjara - ~N/A~,17,6
-gali1258,Galician,ea,Galician - ~N/A~,23,14
+gali1258,Galician,ea,Galician - ~N/A~,23,7
 bulu1251,Bulu,aa,Bulu - ~N/A~,24,7
 sout2807,Sesotho,ph,Sesotho - ~N/A~,37,9
 siks1238,Blackfoot,ph,Blackfoot - ~N/A~,13,12
 sela1259,Selaru,ph,Selaru - ~N/A~,14,5
-baka1277,Bakairí,saphon,Bakairí - Eastern dialect,16,38
+baka1277,Bakairí,saphon,Bakairí - Eastern dialect,16,14
 toca1235,Asuriní,saphon,Asuriní do Tocantins - ~N/A~,11,5
-balt1258,Balti,ea,Balti - Balti (Kharkoo),35,23
-russ1263,Russian,spa,Russian - ~N/A~,33,16
-mani1292,Meithei,ph,Manipuri - ~N/A~,25,14
-nucl1347,Wolof,aa,Wolof - ~N/A~,38,44
-lugb1240,Lugbara,upsid,LUGBARA - ~N/A~,26,33
+balt1258,Balti,ea,Balti - Balti (Kharkoo),35,5
+russ1263,Russian,spa,Russian - ~N/A~,33,5
+mani1292,Meithei,ph,Manipuri - ~N/A~,25,6
+nucl1347,Wolof,aa,Wolof - ~N/A~,38,16
+lugb1240,Lugbara,upsid,LUGBARA - ~N/A~,26,10
 shus1248,Shuswap,upsid,SHUSWAP - ~N/A~,37,7
 obol1243,Obolo,ph,Obolo - ~N/A~,22,12
-zuni1245,Zuni,spa,Zuni - ~N/A~,44,15
-kuna1268,Kunama,upsid,KUNAMA - ~N/A~,19,15
-vlax1238,Romani (Kalderash),uz,greek Thrace Xoraxane Romane - ~N/A~,27,19
+zuni1245,Zuni,spa,Zuni - ~N/A~,44,10
+kuna1268,Kunama,upsid,KUNAMA - ~N/A~,19,7
+vlax1238,Romani (Kalderash),uz,greek Thrace Xoraxane Romane - ~N/A~,27,12
 pana1307,Panará,saphon,Panará - ~N/A~,11,15
-panj1256,Panjabi,ra,Punjabi - ~N/A~,32,56
-wuch1236,Wu,upsid,CHANGZHOU - ~N/A~,25,18
+panj1256,Panjabi,ra,Punjabi - ~N/A~,32,19
+wuch1236,Wu,upsid,CHANGZHOU - ~N/A~,25,9
 koka1244,Gugada,er,Kukata - ~N/A~,17,6
-paiw1248,Paiwan,ea,Paiwan - Paiwan (Kulalao),21,8
+paiw1248,Paiwan,ea,Paiwan - Paiwan (Kulalao),21,4
 noon1243,Noni,upsid,NONI - ~N/A~,19,14
 mara1378,Marathi,ra,Marathi - ~N/A~,42,13
-sind1272,Sindhi,ea,Sindhi - Sindhi (Vicholi),46,57
-bond1245,Remo,ra,Remo - ~N/A~,27,40
-sgaw1245,Karen (Sgaw),spa,Karen - ~N/A~,27,18
+sind1272,Sindhi,ea,Sindhi - Sindhi (Vicholi),46,10
+bond1245,Remo,ra,Remo - ~N/A~,27,13
+sgaw1245,Karen (Sgaw),spa,Karen - ~N/A~,27,9
 nort2671,Saami (Northern),uz,Northern Saami - Guovdageaidnu,63,11
-jaqa1244,Jaqaru,saphon,Jaqaru - ~N/A~,36,15
+jaqa1244,Jaqaru,saphon,Jaqaru - ~N/A~,36,6
 afad1236,Kotoko,upsid,KOTOKO - ~N/A~,27,9
 kagu1239,Kagulu,gm,Kagulu - ~N/A~,26,5
-stan1290,French,upsid,FRENCH - ~N/A~,21,62
+stan1290,French,upsid,FRENCH - ~N/A~,21,16
 dege1246,Degema,gm,Degema - ~N/A~,24,10
-kumb1268,Gumbaynggir,er,Baanbay - ~N/A~,13,12
+kumb1268,Gumbaynggir,er,Baanbay - ~N/A~,13,6
 afri1274,Afrikaans,gm,Afrikaans - ~N/A~,16,23
-ngad1258,Ngadjumaja,er,Mirrniny - ~N/A~,20,12
-nyun1247,Nyungar,er,Balardung - ~N/A~,17,25
-thur1254,Dharawal,er,Dharawal - ~N/A~,19,12
+ngad1258,Ngadjumaja,er,Mirrniny - ~N/A~,20,6
+nyun1247,Nyungar,er,Balardung - ~N/A~,17,5
+thur1254,Dharawal,er,Dharawal - ~N/A~,19,6
 zarm1239,Zarma,aa,Zarma - ~N/A~,20,16
-brok1247,Brokskat,ra,Brokskat - ~N/A~,41,25
-zuni1245,Zuni,upsid,ZUNI - ~N/A~,20,15
-dagb1246,Dagbani,aa,Dagbani - ~N/A~,23,23
-wara1303,Warao,saphon,Warao - ~N/A~,11,15
+brok1247,Brokskat,ra,Brokskat - ~N/A~,41,15
+zuni1245,Zuni,upsid,ZUNI - ~N/A~,20,5
+dagb1246,Dagbani,aa,Dagbani - ~N/A~,23,6
+wara1303,Warao,saphon,Warao - ~N/A~,11,5
 peve1243,Lamé,upsid,LAME - ~N/A~,30,8
-laoo1244,Lao,ea,Lao - Lao (Vientiane),21,57
-east2328,Mari (Meadow),upsid,MARI - ~N/A~,25,61
+laoo1244,Lao,ea,Lao - Lao (Vientiane),21,21
+east2328,Mari (Meadow),upsid,MARI - ~N/A~,25,8
 nort2690,Uzbek (Northern),upsid,UZBEK - ~N/A~,24,6
 trio1238,Tiriyo,saphon,Trió - ~N/A~,10,14
-hupa1239,Hupa,upsid,HUPA - ~N/A~,28,14
+hupa1239,Hupa,upsid,HUPA - ~N/A~,28,7
 nafa1258,Nafaanra,aa,Nafaanra - ~N/A~,25,19
-ming1252,Mingrelian,ph,Mingrelian - Senak,30,21
+ming1252,Mingrelian,ph,Mingrelian - Senak,30,5
 avik1243,Avikam,gm,Avikam - ~N/A~,25,6
-yaku1245,Yakut,spa,Yakut - ~N/A~,33,48
+yaku1245,Yakut,spa,Yakut - ~N/A~,33,16
 mati1255,Matis,saphon,Matís - ~N/A~,15,6
 amas1236,Nyimang,upsid,NYIMANG - ~N/A~,18,7
 gugu1255,Guugu Yimidhirr,er,Guugu Yimidhirr - ~N/A~,17,6
-wayu1243,Goajiro,upsid,GUAJIRO - ~N/A~,14,36
-beng1280,Bengali,uz,Bengali - Bangladeshi Standard (spoken in Dhaka and other urban aread of Bangladesh),49,85
-benc1235,Gimira,gm,Bench - ~N/A~,29,10
+wayu1243,Goajiro,upsid,GUAJIRO - ~N/A~,14,12
+beng1280,Bengali,uz,Bengali - Bangladeshi Standard (spoken in Dhaka and other urban aread of Bangladesh),49,23
+benc1235,Gimira,gm,Bench - ~N/A~,29,5
 apro1235,Aizi,upsid,AIZI - ~N/A~,24,9
 bana1305,Bana,gm,bana - ~N/A~,37,3
-shan1277,Shan,ea,Shan - Shan (Zhe Fang),23,40
-jaqa1244,Jaqaru,upsid,JAQARU - ~N/A~,36,15
-dann1241,Dan,gm,Dan - Santa,44,83
-koya1251,Koya,upsid,KOYA - ~N/A~,19,15
-nava1243,Navajo,spa,Navaho - ~N/A~,36,32
-pwon1235,Phlong,upsid,PHLONG - ~N/A~,25,36
-amah1246,Amahuaca,upsid,AMAHUACA - ~N/A~,14,24
-soma1255,Somali,upsid,SOMALI - ~N/A~,22,30
-ngal1293,Ngalakan,ph,Ngalakan - ~N/A~,17,14
+shan1277,Shan,ea,Shan - Shan (Zhe Fang),23,10
+jaqa1244,Jaqaru,upsid,JAQARU - ~N/A~,36,3
+dann1241,Dan,gm,Dan - Santa,44,40
+koya1251,Koya,upsid,KOYA - ~N/A~,19,5
+nava1243,Navajo,spa,Navaho - ~N/A~,36,16
+pwon1235,Phlong,upsid,PHLONG - ~N/A~,25,12
+amah1246,Amahuaca,upsid,AMAHUACA - ~N/A~,14,8
+soma1255,Somali,upsid,SOMALI - ~N/A~,22,10
+ngal1293,Ngalakan,ph,Ngalakan - ~N/A~,17,9
 arch1244,Archi,upsid,ARCHI - ~N/A~,81,10
 pare1272,Paresi,saphon,Paresí - ~N/A~,15,4
-timn1235,Temne,aa,Themne - ~N/A~,17,32
-guam1248,Guambiano,upsid,GUAMBIANO - ~N/A~,18,11
-sele1250,Selepet,spa,Selepet - ~N/A~,15,12
+timn1235,Temne,aa,Themne - ~N/A~,17,9
+guam1248,Guambiano,upsid,GUAMBIANO - ~N/A~,18,6
+sele1250,Selepet,spa,Selepet - ~N/A~,15,6
 kuot1243,Kuot,ph,Kuot - ~N/A~,13,6
 maqu1238,Carib (De'kwana),saphon,Yekwana - ~N/A~,12,14
 sout2949,Kiwai (Southern),upsid,SOUTHERN KIWAI - ~N/A~,12,7
-iraq1241,Iraqw,spa,Iraqw - ~N/A~,33,24
-nung1290,Nunggubuyu,spa,Nunggubuyu - ~N/A~,19,15
+iraq1241,Iraqw,spa,Iraqw - ~N/A~,33,12
+nung1290,Nunggubuyu,spa,Nunggubuyu - ~N/A~,19,5
 nupe1254,Nupe,aa,Nupe - ~N/A~,25,8
-khan1273,Khanty,ph,Eastern Khanty - ~N/A~,18,68
+khan1273,Khanty,ph,Eastern Khanty - ~N/A~,18,13
 pula1263,Fula (Senegal),aa,Pulaar - ~N/A~,28,10
-lakk1252,Lak,ea,Lak - Lak (Kumux),58,28
-koyr1242,Koyraboro Senni,gm,Songhay,23,38
-haus1257,Hausa,spa,Hausa - ~N/A~,32,43
+lakk1252,Lak,ea,Lak - Lak (Kumux),58,10
+koyr1242,Koyraboro Senni,gm,Songhay,23,14
+haus1257,Hausa,spa,Hausa - ~N/A~,32,10
 abau1245,Abau,ph,Abau - ~N/A~,9,5
 bong1285,Bongo,ph,Bongo - ~N/A~,18,11
-kwak1269,Kwakw'ala,upsid,KWAKW'ALA - ~N/A~,42,15
-kara1474,Karata,ea,Tukita - ~N/A~,45,18
-sanu1240,Sanuma,ph,Sanuma; Sanumá - ~N/A~,11,47
-jola1263,Diola-Fogny,aa,Joola - ~N/A~,19,20
+kwak1269,Kwakw'ala,upsid,KWAKW'ALA - ~N/A~,42,6
+kara1474,Karata,ea,Tukita - ~N/A~,45,8
+sanu1240,Sanuma,ph,Sanuma; Sanumá - ~N/A~,11,13
+jola1263,Diola-Fogny,aa,Joola - ~N/A~,19,10
 orok1269,Orokaiva,ph,Orokaiva - ~N/A~,12,5
-nung1290,Nunggubuyu,er,Wubuy - ~N/A~,19,15
-telu1262,Telugu,upsid,TELUGU - ~N/A~,32,54
-poli1260,Polish,ea,Polish - Polish (Standard),27,14
+nung1290,Nunggubuyu,er,Wubuy - ~N/A~,19,6
+telu1262,Telugu,upsid,TELUGU - ~N/A~,32,11
+poli1260,Polish,ea,Polish - Polish (Standard),27,8
 kaiw1246,Kaiwá,saphon,Kaiwá - ~N/A~,14,12
 cash1251,Cashibo,saphon,Cashibo-Cacataibo - ~N/A~,15,6
-cent2142,Aymara (Central),saphon,Aymara - Chilean dialect,28,9
+cent2142,Aymara (Central),saphon,Aymara - Chilean dialect,28,3
 adyg1241,Adyghe (Abzakh),ea,Adyghe - ~N/A~,56,3
-nuuc1236,Kyuquot,upsid,TSESHAHT - ~N/A~,37,25
-hung1274,Hungarian,ea,Hungarian - Hungarian (Standard),25,57
-basq1248,Basque,ea,Basque - Basque (Ondarroa),21,53
-nucl1235,Armenian (Eastern),spa,Armenian - ~N/A~,30,13
+nuuc1236,Kyuquot,upsid,TSESHAHT - ~N/A~,37,5
+hung1274,Hungarian,ea,Hungarian - Hungarian (Standard),25,14
+basq1248,Basque,ea,Basque - Basque (Ondarroa),21,7
+nucl1235,Armenian (Eastern),spa,Armenian - ~N/A~,30,7
 cola1237,Colac,er,Kolakngat - ~N/A~,17,5
 nort2972,Emberá (Northern),saphon,Northern Emberá - ~N/A~,20,12
 ligu1248,Italian (Genoa),ea,Ligurian - Ligurian (Miogliola),24,21
-hooo1248,Ho,ra,Ho - ~N/A~,24,32
-cayu1262,Cayuvava,upsid,CAYUVAVA - ~N/A~,17,32
+hooo1248,Ho,ra,Ho - ~N/A~,24,19
+cayu1262,Cayuvava,upsid,CAYUVAVA - ~N/A~,17,16
 vani1248,Dumo,upsid,VANIMO - ~N/A~,12,16
 dhan1270,Gaalpu,er,Dhangu - ~N/A~,20,6
 nank1250,Nankina,ph,Nankina - ~N/A~,14,6
 cent2087,Bikol,gm,Bikol (Bicolano) - Central,23,5
 pate1247,Patep,ph,Patep - Mahomba,30,14
-hooo1248,Ho,ea,Ho - Ho (Mayurbhanj),22,32
-esee1248,Ese Ejja,saphon,Ese Eja - Peru,18,8
+hooo1248,Ho,ea,Ho - Ho (Mayurbhanj),22,13
+esee1248,Ese Ejja,saphon,Ese Eja - Peru,18,4
 sout2985,Miwok (Southern Sierra),upsid,SIERRA MIWOK - ~N/A~,15,6
-east2347,Tamang (Eastern),ea,Tamang - Tamang (Dhankuta),37,54
-katc1249,Kadugli,gm,Kadugli (Kadugli) - Kadugli,39,65
-adam1253,Fulfulde (Adamawa),ph,Adamawa Fulfulde; Adamawa Fulani - ~N/A~,27,39
+east2347,Tamang (Eastern),ea,Tamang - Tamang (Dhankuta),37,16
+katc1249,Kadugli,gm,Kadugli (Kadugli) - Kadugli,39,20
+adam1253,Fulfulde (Adamawa),ph,Adamawa Fulfulde; Adamawa Fulani - ~N/A~,27,9
 bodo1269,Bodo,upsid,BODO - ~N/A~,15,6
-bouy1240,Yay,upsid,YAY - ~N/A~,23,19
+bouy1240,Yay,upsid,YAY - ~N/A~,23,11
 gbag1258,Gwari,upsid,GWARI - ~N/A~,20,6
 tsou1248,Tsou,upsid,TSOU - ~N/A~,15,6
 suen1241,Suena,upsid,SUENA - ~N/A~,13,5
 bhoj1244,Bhojpuri,ea,Bhojpuri - ~N/A~,35,16
 juma1249,Júma,saphon,Júma - ~N/A~,12,12
 gheg1238,Albanian,ea,Gheg Albanian - Gheg Albanian (North-Eastern),27,16
-alya1239,Alyawarra,er,Alyawarr - ~N/A~,40,10
+alya1239,Alyawarra,er,Alyawarr - ~N/A~,40,3
 cuib1242,Cuiba,saphon,Cuiba - ~N/A~,17,8
-apur1254,Apurinã,ph,Apurinã - Japiim,14,46
-nene1249,Nenets,upsid,NENETS - ~N/A~,27,42
+apur1254,Apurinã,ph,Apurinã - Japiim,14,26
+nene1249,Nenets,upsid,NENETS - ~N/A~,27,8
 isth1244,Zapotec (Isthmus),uz,Isthmus (Juchitán) Zapotec - Isthmus (Juchitán) Zapotec (ʼzapoteco de la planicie costeraʼ; spoken on the Isthmus of Tehuantepec,22,7
 nyam1277,Nyambo,gm,Kinyambo - ~N/A~,20,10
 budu1250,Budu,gm,Kibudu - ~N/A~,31,9
-nara1262,Nara (in Ethiopia),upsid,NERA - ~N/A~,17,15
-komo1258,Komo,gm,Komo - ~N/A~,23,13
+nara1262,Nara (in Ethiopia),upsid,NERA - ~N/A~,17,5
+komo1258,Komo,gm,Komo - ~N/A~,23,5
 uigh1240,Uyghur,ea,Uyghur - Uyghur (Xinjiang),28,15
-lezg1247,Lezgian,ea,Lezgian - Lezgian (Güne),88,17
-akaw1239,Akawaio,upsid,AKAWAIO - ~N/A~,13,21
-hebr1245,Hebrew (Modern Ashkenazic),ea,Israeli Hebrew - ~N/A~,20,16
+lezg1247,Lezgian,ea,Lezgian - Lezgian (Güne),88,8
+akaw1239,Akawaio,upsid,AKAWAIO - ~N/A~,13,10
+hebr1245,Hebrew (Modern Ashkenazic),ea,Israeli Hebrew - ~N/A~,20,5
 moch1259,Mochica,saphon,Mochica - ~N/A~,20,12
-copa1236,Zoque (Copainalá),upsid,ZOQUE - ~N/A~,16,12
+copa1236,Zoque (Copainalá),upsid,ZOQUE - ~N/A~,16,6
 yulu1243,Yulu,upsid,YULU - ~N/A~,35,7
 nucl1454,Yawa,upsid,YAWA - ~N/A~,14,5
-nucl1417,Igbo,uz,Igbo - Standard Igbo (can be seen as a fusion of aspects of central Igbo and Onitsha Igbo; cannot be localised in any particular region or area of Igboland),24,48
-sand1273,Sandawe,upsid,SANDAWE - ~N/A~,47,22
+nucl1417,Igbo,uz,Igbo - Standard Igbo (can be seen as a fusion of aspects of central Igbo and Onitsha Igbo; cannot be localised in any particular region or area of Igboland),24,8
+sand1273,Sandawe,upsid,SANDAWE - ~N/A~,47,7
 choc1276,Choctaw,ph,Choctaw - ~N/A~,15,6
 akla1241,Aklanon,ph,Aklan - ~N/A~,17,3
-seba1251,Chaha,gm,Gyeto - ~N/A~,39,20
-stan1293,English,uz,American English - Southeastern Michigan,24,150
+seba1251,Chaha,gm,Gyeto - ~N/A~,39,6
+stan1293,English,uz,American English - Southeastern Michigan,24,15
 maas1239,Fulfulde (Maasina),aa,Fulfulde - Fulfulde (Mali),27,10
 liby1240,Arabic (Eastern Libyan),ph,Lebanese Arabic - ~N/A~,34,16
-pemo1248,Pemon,saphon,Pemon - Tarepang dialect,10,18
+pemo1248,Pemon,saphon,Pemon - Tarepang dialect,10,11
 kama1351,Kamass,ea,Kamassian - ~N/A~,26,11
-maxa1247,Maxakalí,saphon,Maxakalí - ~N/A~,10,20
-gali1262,Carib,saphon,Carib - Suriname dialect,9,36
+maxa1247,Maxakalí,saphon,Maxakalí - ~N/A~,10,10
+gali1262,Carib,saphon,Carib - Suriname dialect,9,6
 bayu1240,Bayungu,er,Payungu - ~N/A~,20,6
 alut1245,Alutor,ea,Alutor - ~N/A~,18,9
 chau1259,Chaudangsi,ra,Chandangs and Byangs - ~N/A~,34,8
-colo1256,Tsafiki,saphon,Tsáfiki - ~N/A~,16,19
+colo1256,Tsafiki,saphon,Tsáfiki - ~N/A~,16,10
 ormu1247,Ormuri,upsid,ORMURI - ~N/A~,25,6
-huas1242,Huastec,upsid,HUASTECO - ~N/A~,21,15
-cavi1250,Cavineña,ph,Cavinena - ~N/A~,20,8
-tigr1270,Tigré,spa,Tigre - ~N/A~,47,14
+huas1242,Huastec,upsid,HUASTECO - ~N/A~,21,5
+cavi1250,Cavineña,ph,Cavinena - ~N/A~,20,4
+tigr1270,Tigré,spa,Tigre - ~N/A~,47,7
 nort2954,Paiute (Northern),ph,Northern Paiute - ~N/A~,14,10
-sout2991,Quechua (Cochabamba),upsid,QUECHUA - ~N/A~,31,10
+sout2991,Quechua (Cochabamba),upsid,QUECHUA - ~N/A~,31,5
 gand1255,Luganda,aa,Luganda - ~N/A~,19,10
 arab1267,Arabana,er,Arabana - ~N/A~,21,3
-amdo1237,Amdo,ea,gSerpa - ~N/A~,48,22
+amdo1237,Amdo,ea,gSerpa - ~N/A~,48,10
 nort2966,Pomo (Northern),ph,Northern Pomo - ~N/A~,29,10
-bret1244,Breton,upsid,BRETON - ~N/A~,25,71
-hopi1249,Hopi,spa,Hopi - ~N/A~,31,24
-nucl1305,Kannada,ra,Kannada - ~N/A~,36,21
+bret1244,Breton,upsid,BRETON - ~N/A~,25,20
+hopi1249,Hopi,spa,Hopi - ~N/A~,31,18
+nucl1305,Kannada,ra,Kannada - ~N/A~,36,11
 koor1239,Koorete,gm,Koorete - ~N/A~,51,10
 kekc1242,K'ekchí,upsid,K'EKCHI - ~N/A~,21,5
 ngaa1240,Ngaanyatjarra,er,Ngaanyatjarra - ~N/A~,17,6
-nucl1310,Burmese,spa,Burmese - ~N/A~,34,66
-cebu1242,Cebuano,gm,Cebuano - ~N/A~,18,6
-kalk1246,Kalkatungu,upsid,KALKATUNGU - ~N/A~,20,9
-lezg1247,Lezgian,ea,Lezgian - Lezgian (İsmayıllı),38,17
-wikm1247,Wik Munkan,spa,Wik-Munkan - ~N/A~,13,25
+nucl1310,Burmese,spa,Burmese - ~N/A~,34,13
+cebu1242,Cebuano,gm,Cebuano - ~N/A~,18,3
+kalk1246,Kalkatungu,upsid,KALKATUNGU - ~N/A~,20,3
+lezg1247,Lezgian,ea,Lezgian - Lezgian (İsmayıllı),38,9
+wikm1247,Wik Munkan,spa,Wik-Munkan - ~N/A~,13,10
 stan1318,Arabic (Modern Standard),uz,Arabic - Safad,29,8
 mapo1246,Mapoyo,saphon,Mapoyo - ~N/A~,12,7
-nucl1417,Igbo,upsid,IGBO - ~N/A~,43,48
-adam1253,Fulfulde (Adamawa),aa,Fulfulde - Fulfulde (Cameroon),24,39
-stan1293,English,uz,English (British) - Tyneside English (spoken in Newcastle),24,150
-yort1237,Yorta Yorta,er,Yabula-Yabula - ~N/A~,15,10
+nucl1417,Igbo,upsid,IGBO - ~N/A~,43,16
+adam1253,Fulfulde (Adamawa),aa,Fulfulde - Fulfulde (Cameroon),24,10
+stan1293,English,uz,English (British) - Tyneside English (spoken in Newcastle),24,15
+yort1237,Yorta Yorta,er,Yabula-Yabula - ~N/A~,15,5
 berb1259,Berbice Dutch Creole,ph,Berbice Dutch - ~N/A~,20,6
 matu1259,Matuumbi,gm,matuumbi - ~N/A~,15,5
 ngar1235,Bilinarra,er,Ngarinyman - ~N/A~,17,6
-yuec1235,Cantonese,ea,Yue Chinese - Yue Chinese (Hong Kong Cantonese),19,53
+yuec1235,Cantonese,ea,Yue Chinese - Yue Chinese (Hong Kong Cantonese),19,22
 wath1238,Wathawurrung,er,Wathawurrung - ~N/A~,20,3
 wand1278,Malgwa,gm,Mandara - ~N/A~,45,5
 pang1290,Pangasinan,gm,Pagasinan - ~N/A~,16,5
-baou1238,Baule,ph,Baule - Kobe,16,19
-guja1252,Gujarati,ea,Gujarati - Gujarati (Standard),31,52
+baou1238,Baule,ph,Baule - Kobe,16,7
+guja1252,Gujarati,ea,Gujarati - Gujarati (Standard),31,27
 wakh1245,Wakhi,ea,Wakhi - ~N/A~,38,12
 bora1271,Oromo (Boraana),gm,Galla - ~N/A~,26,10
-astu1245,Asturian,ea,Asturian - Asturian (North-Eastern),20,14
-hind1269,Hindi,upsid,HINDI-URDU - ~N/A~,40,97
+astu1245,Asturian,ea,Asturian - Asturian (North-Eastern),20,7
+hind1269,Hindi,upsid,HINDI-URDU - ~N/A~,40,21
 thay1249,Kuuk Thaayorre,er,Thaayorre - ~N/A~,16,10
 park1239,Podoko,aa,Podoko - ~N/A~,31,4
 omag1248,Omagua,saphon,Omagua - ~N/A~,13,5
 arbo1245,Arbore,gm,Arbore - ~N/A~,49,10
-taga1270,Tagalog,spa,Tagalog - ~N/A~,18,25
+taga1270,Tagalog,spa,Tagalog - ~N/A~,18,10
 cher1273,Cherokee,upsid,CHEROKEE - ~N/A~,11,6
-koyr1240,Koyra Chiini,aa,Songhoy - ~N/A~,21,29
+koyr1240,Koyra Chiini,aa,Songhoy - ~N/A~,21,15
 wikn1245,Wik Ngathana,er,Wik-Ngathan - ~N/A~,16,12
 murs1242,Mursi,upsid,MURSI - ~N/A~,21,5
-ticu1245,Ticuna,saphon,Ticuna - ~N/A~,15,40
-libe1247,Kpelle,aa,Kpelle - ~N/A~,21,47
-alab1237,Alabama,upsid,ALABAMA - ~N/A~,14,9
+ticu1245,Ticuna,saphon,Ticuna - ~N/A~,15,18
+libe1247,Kpelle,aa,Kpelle - ~N/A~,21,21
+alab1237,Alabama,upsid,ALABAMA - ~N/A~,14,3
 kist1241,Soddo,gm,Goggot - ~N/A~,34,7
-seda1262,Sedang,spa,Sedang - ~N/A~,39,28
-dagb1246,Dagbani,upsid,DAGBANI - ~N/A~,23,23
+seda1262,Sedang,spa,Sedang - ~N/A~,39,14
+dagb1246,Dagbani,upsid,DAGBANI - ~N/A~,23,6
 kara1464,Karaim,ea,Karaim - Karaim (Northwestern),29,8
-iaai1238,Iaai,spa,Iai - ~N/A~,33,35
+iaai1238,Iaai,spa,Iai - ~N/A~,33,19
 djam1256,Djambarrpuyngu,er,Djambarrpuyngu - ~N/A~,25,6
-aona1235,Ao,upsid,AO - ~N/A~,14,14
-mace1250,Macedonian,ea,Macedonian - Macedonian (Standard),26,12
-pitj1243,Pitjantjatjara,uz,Pitjantjatjara - ~N/A~,17,20
-udmu1245,Udmurt,ea,Udmurt - Udmurt (Krasnoufimsk),23,34
+aona1235,Ao,upsid,AO - ~N/A~,14,6
+mace1250,Macedonian,ea,Macedonian - Macedonian (Standard),26,6
+pitj1243,Pitjantjatjara,uz,Pitjantjatjara - ~N/A~,17,8
+udmu1245,Udmurt,ea,Udmurt - Udmurt (Krasnoufimsk),23,10
 mayo1261,Mayogo,gm,Mayogo - ~N/A~,33,10
-nucl1417,Igbo,aa,Igbo - ~N/A~,28,48
+nucl1417,Igbo,aa,Igbo - ~N/A~,28,8
 occi1239,Occitan,ea,Occitan - Occitan (Gascon),27,31
-beng1280,Bengali,ra,Bengali - ~N/A~,34,85
+beng1280,Bengali,ra,Bengali - ~N/A~,34,14
 carn1240,Nicobarese (Car),upsid,NICOBARESE - ~N/A~,16,9
-cayu1262,Cayuvava,saphon,Cayubaba - ~N/A~,17,32
-tuvi1240,Tuvan,ea,Tuvan - Tuvan (Standard),28,49
+cayu1262,Cayuvava,saphon,Cayubaba - ~N/A~,17,16
+tuvi1240,Tuvan,ea,Tuvan - Tuvan (Standard),28,24
 yans1239,Yansi,gm,Yanzi - ~N/A~,17,22
 alam1246,Alamblak,upsid,ALAMBLAK - ~N/A~,18,7
 nana1257,Nanai,upsid,NANAI - ~N/A~,18,6
 mong1338,Mongo,gm,mongo-nkundu - ~N/A~,45,7
-resi1247,Resígaro,upsid,RESIGARO - ~N/A~,30,10
+resi1247,Resígaro,upsid,RESIGARO - ~N/A~,30,5
 kara1467,Karakalpak,ea,Karakalpak - ~N/A~,25,13
 pume1238,Yaruro,saphon,Pumé - ~N/A~,23,15
 lusi1240,Lusi,upsid,KALIAI - ~N/A~,16,5
-gaaa1244,Gã,spa,Ga - ~N/A~,32,36
-stan1295,German,spa,German - ~N/A~,23,70
-bamb1269,Bambara,gm,Bamana - Beledugu,32,59
-jaqa1244,Jaqaru,spa,Aymara - ~N/A~,36,15
+gaaa1244,Gã,spa,Ga - ~N/A~,32,12
+stan1295,German,spa,German - ~N/A~,23,16
+bamb1269,Bambara,gm,Bamana - Beledugu,32,24
+jaqa1244,Jaqaru,spa,Aymara - ~N/A~,36,6
 chim1302,Quechua (Ecuadorean),ph,Chimborazo Quichua - ~N/A~,31,5
-para1311,Guaraní,spa,Guarani - ~N/A~,24,36
+para1311,Guaraní,spa,Guarani - ~N/A~,24,12
 moro1292,Arabic (Moroccan),spa,Moroccan Arabic - ~N/A~,74,4
 kamb1299,Kambera,gm,Kambera - ~N/A~,19,10
-bard1255,Bardi,er,Bardi - ~N/A~,17,21
-ache1246,Aché,saphon,Aché - ~N/A~,22,22
-tamn1235,Asmat,spa,Asmat - ~N/A~,14,11
-udmu1245,Udmurt,ea,Udmurt - Udmurt (Standard),29,34
-kuku1273,Kuku-Yalanji,er,Kuku Yalanji - ~N/A~,13,12
+bard1255,Bardi,er,Bardi - ~N/A~,17,7
+ache1246,Aché,saphon,Aché - ~N/A~,22,12
+tamn1235,Asmat,spa,Asmat - ~N/A~,14,5
+udmu1245,Udmurt,ea,Udmurt - Udmurt (Standard),29,7
+kuku1273,Kuku-Yalanji,er,Kuku Yalanji - ~N/A~,13,3
 saek1240,Saek,ea,Saek - ~N/A~,23,21
 koho1244,Sre,upsid,SRE - ~N/A~,27,10
 chan1310,Chantyal,ea,Chantyal - ~N/A~,21,27
 cand1248,Candoshi,saphon,Candoshi-Shapra - ~N/A~,21,6
 hdii1240,Hdi,gm,Hide - ~N/A~,37,4
-bura1267,Burarra,er,Burarra - ~N/A~,21,10
+bura1267,Burarra,er,Burarra - ~N/A~,21,5
 vaii1241,Vai,ph,Vai - ~N/A~,28,11
-dutc1256,Dutch,uz,Dutch - Belgian Standard Dutch,22,212
-khar1287,Kharia,upsid,KHARIA - ~N/A~,31,44
-movi1243,Movima,saphon,Movima - ~N/A~,19,15
+dutc1256,Dutch,uz,Dutch - Belgian Standard Dutch,22,15
+khar1287,Kharia,upsid,KHARIA - ~N/A~,31,5
+movi1243,Movima,saphon,Movima - ~N/A~,19,10
 gour1243,Gurma,aa,Gulmancema - ~N/A~,20,10
-chiq1250,Mazatec (Chiquihuitlán),spa,Mazateco - ~N/A~,26,16
+chiq1250,Mazatec (Chiquihuitlán),spa,Mazateco - ~N/A~,26,8
 muna1247,Muna,ph,Muna - ~N/A~,28,5
 sheh1240,Jibbali,ea,Jibbali - Jibbali (Central),30,8
-ocai1244,Ocaina,spa,Ocaina - ~N/A~,27,27
-kaba1278,Kabardian,ea,Kabardian - Kabardian (Turkish),44,37
-sout2965,Salish (Southern Puget Sound),spa,Salish - ~N/A~,36,11
-indo1316,Indonesian,gm,Indonesian - Standard,23,17
+ocai1244,Ocaina,spa,Ocaina - ~N/A~,27,9
+kaba1278,Kabardian,ea,Kabardian - Kabardian (Turkish),44,7
+sout2965,Salish (Southern Puget Sound),spa,Salish - ~N/A~,36,7
+indo1316,Indonesian,gm,Indonesian - Standard,23,8
 maka1311,Makassar,gm,Makassar - ~N/A~,18,5
-kork1243,Korku,ea,Korku - ~N/A~,31,21
-bard1255,Bardi,upsid,BARDI - ~N/A~,17,21
-cams1241,Camsá,upsid,CAMSA - ~N/A~,22,12
-nyan1301,Nyangumarda,er,Nyangumarta - ~N/A~,17,11
-avar1256,Avar,ea,Avar - Avar (Chadakolob),59,10
+kork1243,Korku,ea,Korku - ~N/A~,31,10
+bard1255,Bardi,upsid,BARDI - ~N/A~,17,7
+cams1241,Camsá,upsid,CAMSA - ~N/A~,22,6
+nyan1301,Nyangumarda,er,Nyangumarta - ~N/A~,17,4
+avar1256,Avar,ea,Avar - Avar (Chadakolob),59,5
 puin1248,Puinave,saphon,Puinave - ~N/A~,8,11
 paco1243,Pacoh,upsid,PACOH - ~N/A~,18,15
 nama1264,Nama,upsid,NAMA - ~N/A~,32,9
-kano1245,Kanoê,saphon,Kanoé - ~N/A~,12,28
-arab1268,Arabela,saphon,Arabela - ~N/A~,19,17
+kano1245,Kanoê,saphon,Kanoé - ~N/A~,12,14
+arab1268,Arabela,saphon,Arabela - ~N/A~,19,10
 rikb1245,Rikbaktsa,saphon,Rikbaktsa - ~N/A~,14,14
 onaa1245,Selknam,saphon,Chon - ~N/A~,21,8
 remb1249,Rembarnga,er,Rembarrnga - ~N/A~,22,6
-wapi1253,Wapishana,saphon,Wapichana - ~N/A~,18,24
+wapi1253,Wapishana,saphon,Wapichana - ~N/A~,18,4
 faro1244,Faroese,ea,Faroese - ~N/A~,16,20
 maib1239,Maybrat,ph,Maybrat - ~N/A~,11,5
 cari1279,Carijona,saphon,Carijona - ~N/A~,14,7
-yano1262,Yanomámi,saphon,Yanomae of Demini/Tototopi - Yanomae of Demini/Tototopi,13,49
+yano1262,Yanomámi,saphon,Yanomae of Demini/Tototopi - Yanomae of Demini/Tototopi,13,21
 umpi1239,Umpila,er,Umpila - ~N/A~,16,6
-zulu1248,Zulu,upsid,ZULU - ~N/A~,32,10
+zulu1248,Zulu,upsid,ZULU - ~N/A~,32,5
 wage1238,Wagiman,er,Wagiman - ~N/A~,22,5
 jica1244,Apache (Jicarilla),ph,Jicarilla Apache - Dulce,34,19
 thad1238,Thadou,ra,Thaadou - ~N/A~,23,8
-jama1261,Banawá,saphon,Jarawara - Jarawara,11,16
-ewon1239,Ewondo,aa,Ewondo - ~N/A~,15,15
+jama1261,Banawá,saphon,Jarawara - Jarawara,11,8
+ewon1239,Ewondo,aa,Ewondo - ~N/A~,15,7
 chim1300,Zoque (Chimalapa),ph,San Miguel Chimalapa Zoque - ~N/A~,20,6
-chuk1273,Chukchi,upsid,CHUKCHI - ~N/A~,15,20
-chac1249,Cayapa,upsid,CAYAPA - ~N/A~,24,12
+chuk1273,Chukchi,upsid,CHUKCHI - ~N/A~,15,7
+chac1249,Cayapa,upsid,CAYAPA - ~N/A~,24,4
 sout2840,Bobo Madaré (Northern),ph,Bobo - Bobo-Dioulasso,19,19
 stod1241,Tod,ea,Tod Tibetan - ~N/A~,35,6
-sion1247,Siona,upsid,SIONA - ~N/A~,18,24
+sion1247,Siona,upsid,SIONA - ~N/A~,18,12
 dido1241,Tsez,ea,Tsez - Tsez (Asax),36,6
 aran1237,Arandai,ph,Arandai - ~N/A~,13,5
-nara1262,Nara (in Ethiopia),uz,Nara - Higir,43,15
-kaba1278,Kabardian,spa,Kabardian - ~N/A~,49,37
-saki1248,Mekens,saphon,Sakirabiá - ~N/A~,16,30
-mats1244,Matsés,saphon,Matsés - ~N/A~,15,12
-nezp1238,Nez Perce,spa,Nez Perce - ~N/A~,26,15
-niel1243,Lua,upsid,LUA - ~N/A~,23,44
+nara1262,Nara (in Ethiopia),uz,Nara - Higir,43,10
+kaba1278,Kabardian,spa,Kabardian - ~N/A~,49,7
+saki1248,Mekens,saphon,Sakirabiá - ~N/A~,16,10
+mats1244,Matsés,saphon,Matsés - ~N/A~,15,6
+nezp1238,Nez Perce,spa,Nez Perce - ~N/A~,26,10
+niel1243,Lua,upsid,LUA - ~N/A~,23,13
 tika1246,Tikar,aa,Tikar - ~N/A~,27,14
 yill1241,Yil,ph,Yil - ~N/A~,12,11
 temm1241,Tem,aa,Tem - ~N/A~,25,9
-stan1293,English,uz,English (British) - Liverpool,24,150
+stan1293,English,uz,English (British) - Liverpool,24,16
 gang1267,Yukulta,er,Gangalidda - ~N/A~,18,6
-nucl1643,Japanese,spa,Japanese - ~N/A~,27,21
-mapu1245,Mapudungun,spa,Araucanian - ~N/A~,20,18
+nucl1643,Japanese,spa,Japanese - ~N/A~,27,11
+mapu1245,Mapudungun,spa,Araucanian - ~N/A~,20,6
 tari1256,Tariana,saphon,Tariana - ~N/A~,23,15
 squa1248,Squamish,spa,Squamish - ~N/A~,30,7
-swed1254,Swedish,ph,Swedish - Stockholm,18,34
-karo1304,Karok,spa,Karok - ~N/A~,27,22
-east2347,Tamang (Eastern),upsid,TAMANG - ~N/A~,19,54
-daur1238,Dagur,upsid,DAGUR - ~N/A~,22,19
-wang1291,Ngiyambaa,er,Ngiyambaa - ~N/A~,15,9
-tuni1252,Tunica,spa,Tunica - ~N/A~,18,14
-czec1258,Czech,ph,Czech - Prague,25,39
-wuch1236,Wu,spa,Wu - ~N/A~,29,18
-kaba1278,Kabardian,ea,Kabardian - Kabardian (Ulyap),55,37
-soni1259,Soninke,aa,Soninke - Soninke (Mali),24,44
+swed1254,Swedish,ph,Swedish - Stockholm,18,17
+karo1304,Karok,spa,Karok - ~N/A~,27,11
+east2347,Tamang (Eastern),upsid,TAMANG - ~N/A~,19,10
+daur1238,Dagur,upsid,DAGUR - ~N/A~,22,7
+wang1291,Ngiyambaa,er,Ngiyambaa - ~N/A~,15,6
+tuni1252,Tunica,spa,Tunica - ~N/A~,18,7
+czec1258,Czech,ph,Czech - Prague,25,13
+wuch1236,Wu,spa,Wu - ~N/A~,29,9
+kaba1278,Kabardian,ea,Kabardian - Kabardian (Ulyap),55,8
+soni1259,Soninke,aa,Soninke - Soninke (Mali),24,15
 nort2815,Dinka,upsid,DINKA - ~N/A~,19,13
-bani1255,Baniwa,ph,Kurripako; Baniwa; Baniwa (Icana) - Ehe-Khenim,25,28
-sene1264,Seneca,upsid,SENECA - ~N/A~,11,24
+bani1255,Baniwa,ph,Kurripako; Baniwa; Baniwa (Icana) - Ehe-Khenim,25,12
+sene1264,Seneca,upsid,SENECA - ~N/A~,11,8
 mund1326,Mündü,aa,Mündü - ~N/A~,29,9
 lule1238,Lule,saphon,Lule - ~N/A~,16,5
 avok1242,Avokaya,aa,Avokaya - ~N/A~,37,14
-taga1270,Tagalog,ea,Tagalog - ~N/A~,21,25
-khar1287,Kharia,ra,Kharia - ~N/A~,31,44
-assa1263,Assamese,uz,Assamese - Eastern districts of Assam (North Eastern state of India); Jorhat,23,39
-kett1243,Ket,upsid,KET - ~N/A~,18,32
+taga1270,Tagalog,ea,Tagalog - ~N/A~,21,5
+khar1287,Kharia,ra,Kharia - ~N/A~,31,14
+assa1263,Assamese,uz,Assamese - Eastern districts of Assam (North Eastern state of India); Jorhat,23,10
+kett1243,Ket,upsid,KET - ~N/A~,18,7
 pula1262,Fula (Guinean),aa,Pular - ~N/A~,28,10
-ital1282,Italian,ea,Italian - ~N/A~,23,45
+ital1282,Italian,ea,Italian - ~N/A~,23,7
 poko1263,Pokot,gm,Pokot - ~N/A~,17,19
 waim1251,Roro,upsid,RORO - ~N/A~,9,5
 newa1246,Newari (Kathmandu),upsid,NEWARI - ~N/A~,24,8
-cham1312,Chamorro,spa,Chamorro - ~N/A~,30,12
+cham1312,Chamorro,spa,Chamorro - ~N/A~,30,6
 kuii1252,Kui (in India),ra,Kui - ~N/A~,20,19
-yany1243,Yanyuwa,er,Yanyuwa - ~N/A~,20,7
+yany1243,Yanyuwa,er,Yanyuwa - ~N/A~,20,4
 loko1255,Loko,aa,Lɔkɔ - ~N/A~,18,7
 rita1239,Ritharngu,er,Ritharrngu - ~N/A~,25,6
-kirg1245,Kirghiz,upsid,KIRGHIZ - ~N/A~,22,40
-east2563,Cham (Eastern),gm,Phan Rang Cham (Eastern Cham) - ~N/A~,21,29
-kwaz1243,Kwaza,saphon,Kwaza - ~N/A~,19,32
-chac1251,Chácobo,saphon,Chácobo - ~N/A~,16,8
-lazz1240,Laz,ph,Laz - ~N/A~,27,32
-nucl1302,Georgian,spa,Georgian - ~N/A~,29,22
-alaw1244,Alawa,upsid,ALAWA - ~N/A~,22,13
-bouy1240,Yay,spa,Yay - ~N/A~,24,19
+kirg1245,Kirghiz,upsid,KIRGHIZ - ~N/A~,22,8
+east2563,Cham (Eastern),gm,Phan Rang Cham (Eastern Cham) - ~N/A~,21,9
+kwaz1243,Kwaza,saphon,Kwaza - ~N/A~,19,16
+chac1251,Chácobo,saphon,Chácobo - ~N/A~,16,4
+lazz1240,Laz,ph,Laz - ~N/A~,27,5
+nucl1302,Georgian,spa,Georgian - ~N/A~,29,6
+alaw1244,Alawa,upsid,ALAWA - ~N/A~,22,4
+bouy1240,Yay,spa,Yay - ~N/A~,24,8
 waka1274,Wagawaga,er,Waka Waka - ~N/A~,13,10
-lahu1253,Lahu,upsid,LAHU - ~N/A~,26,40
-khar1287,Kharia,ph,Kharia - ~N/A~,37,44
+lahu1253,Lahu,upsid,LAHU - ~N/A~,26,9
+khar1287,Kharia,ph,Kharia - ~N/A~,37,10
 band1352,Bandi,aa,Bandi - Bandi (Gbande),23,21
-even1259,Evenki,ea,Solon - ~N/A~,17,19
-dutc1256,Dutch,uz,Dutch - the dialect of Maastricht (south-eastern dialect group; Central Limburgian),25,212
+even1259,Evenki,ea,Solon - ~N/A~,17,8
+dutc1256,Dutch,uz,Dutch - the dialect of Maastricht (south-eastern dialect group; Central Limburgian),25,25
 rund1242,Rundi,ph,Rundi - ~N/A~,22,5
-gaam1241,Ingessana,gm,Gaahmg - ~N/A~,34,21
-thai1261,Thai,upsid,THAI - ~N/A~,21,48
-ilok1237,Ilocano,ea,Ilocano - ~N/A~,19,16
-tiwi1244,Tiwi,upsid,TIWI - ~N/A~,22,12
-sora1254,Sora,ea,Sora - Sora (Gumma Hills),18,29
+gaam1241,Ingessana,gm,Gaahmg - ~N/A~,34,12
+thai1261,Thai,upsid,THAI - ~N/A~,21,9
+ilok1237,Ilocano,ea,Ilocano - ~N/A~,19,6
+tiwi1244,Tiwi,upsid,TIWI - ~N/A~,22,4
+sora1254,Sora,ea,Sora - Sora (Gumma Hills),18,8
 kups1238,Sebei,upsid,SEBEI - ~N/A~,14,12
 adan1251,Adang,ph,Adang - ~N/A~,18,22
 ngal1292,Ngalkbun,er,Dalabon - ~N/A~,23,6
 gamo1243,Gamo,gm,Gamo - ~N/A~,26,10
 nucl1460,Madurese,gm,Madurese - Bangkalan,27,8
-loma1260,Loma,gm,Looma - ~N/A~,21,42
+loma1260,Loma,gm,Looma - ~N/A~,21,28
 motl1237,Mwotlap,ph,Mwotlap - ~N/A~,15,7
 wamb1258,Wambaya,er,Wambaya - ~N/A~,17,6
 uppe1439,Chehalis (Upper),upsid,UPPER CHEHALIS - ~N/A~,30,4
-shua1257,Jivaro,upsid,JIVARO - ~N/A~,15,24
+shua1257,Jivaro,upsid,JIVARO - ~N/A~,15,8
 mara1386,Maranungku,spa,Maranungku - ~N/A~,19,5
 lang1320,Langi,ph,Langi - ~N/A~,32,20
-mode1248,Greek (Modern),uz,Greek - Standard Modern Greek (Athenian),18,25
+mode1248,Greek (Modern),uz,Greek - Standard Modern Greek (Athenian),18,5
 nort2957,Nahuatl (North Puebla),upsid,NAHUATL - ~N/A~,16,4
 brib1243,Bribri,upsid,BRIBRI - ~N/A~,18,9
 moch1256,Chaga,gm,Kimochi - ~N/A~,20,5
-jola1263,Diola-Fogny,upsid,DIOLA - ~N/A~,19,20
+jola1263,Diola-Fogny,upsid,DIOLA - ~N/A~,19,10
 mamb1294,Mambai,ph,Mambay; Mambai - ~N/A~,26,24
-hebr1245,Hebrew (Modern Ashkenazic),uz,Hebrew - Oriental Dialect,22,16
-port1283,Portuguese,uz,Portuguese (Brazilian) - São Paulo,20,90
+hebr1245,Hebrew (Modern Ashkenazic),uz,Hebrew - Oriental Dialect,22,5
+port1283,Portuguese,uz,Portuguese (Brazilian) - São Paulo,20,27
 anei1239,Anejom,ph,Aneityum; Anejom̃ - ~N/A~,21,5
-biri1256,Biri,er,Yangga - ~N/A~,15,30
-chuv1255,Chuvash,spa,Chuvash - ~N/A~,30,18
+biri1256,Biri,er,Yangga - ~N/A~,15,3
+chuv1255,Chuvash,spa,Chuvash - ~N/A~,30,9
 kulu1253,Kulung,ph,Kulung - ~N/A~,22,21
 warl1256,Warluwara,er,Warluwarra - ~N/A~,29,4
-came1252,Mambila,aa,Mambila - Mambila (Cameroon),24,29
-stan1293,English,ea,English - English (Liverpool),24,150
-tach1250,Tashlhiyt,uz,Tashlhiyt Berber - ~N/A~,71,14
-chec1245,Chechen,ph,Chechen - ~N/A~,32,121
-sanm1287,Huave (San Mateo del Mar),ph,Huave,18,12
-yucu1253,Yucuna,saphon,Yucuna - ~N/A~,16,10
-kham1282,Kham (Dege),ea,Kham Tibetan - ~N/A~,44,180
-came1252,Mambila,upsid,MAMBILA - ~N/A~,19,29
-ingu1240,Ingush,ea,Ingush - ~N/A~,52,30
-ewee1241,Ewe,aa,Eʋe - ~N/A~,27,40
-dutc1256,Dutch,uz,Dutch - the Flemish-Brabant dialect of Orsmaal-gussenhoven,24,212
+came1252,Mambila,aa,Mambila - Mambila (Cameroon),24,12
+stan1293,English,ea,English - English (Liverpool),24,16
+tach1250,Tashlhiyt,uz,Tashlhiyt Berber - ~N/A~,71,3
+chec1245,Chechen,ph,Chechen - ~N/A~,32,12
+sanm1287,Huave (San Mateo del Mar),ph,Huave,18,6
+yucu1253,Yucuna,saphon,Yucuna - ~N/A~,16,5
+kham1282,Kham (Dege),ea,Kham Tibetan - ~N/A~,44,7
+came1252,Mambila,upsid,MAMBILA - ~N/A~,19,6
+ingu1240,Ingush,ea,Ingush - ~N/A~,52,17
+ewee1241,Ewe,aa,Eʋe - ~N/A~,27,12
+dutc1256,Dutch,uz,Dutch - the Flemish-Brabant dialect of Orsmaal-gussenhoven,24,33
 achi1257,Acehnese,ph,Acehnese - ~N/A~,21,34
-naas1242,Nasioi,spa,Nasioi - ~N/A~,8,15
-brah1256,Brahui,upsid,BRAHUI - ~N/A~,24,43
-bero1242,Birom,aa,Berom - ~N/A~,24,14
-nyun1247,Nyungar,er,Minang - ~N/A~,17,25
+naas1242,Nasioi,spa,Nasioi - ~N/A~,8,10
+brah1256,Brahui,upsid,BRAHUI - ~N/A~,24,9
+bero1242,Birom,aa,Berom - ~N/A~,24,7
+nyun1247,Nyungar,er,Minang - ~N/A~,17,5
 wanm1242,Wanman,er,Warnman - ~N/A~,17,6
-bret1244,Breton,ea,Breton - Breton (Bothoa),32,71
-east2440,Taba,ph,Taba - Makian Island,32,15
-woiw1237,Woiwurrung,er,Boonwurrung - ~N/A~,20,6
-swah1253,Swahili,aa,Swahili - ~N/A~,32,10
-sora1254,Sora,ph,Savara - ~N/A~,19,29
+bret1244,Breton,ea,Breton - Breton (Bothoa),32,34
+east2440,Taba,ph,Taba - Makian Island,32,5
+woiw1237,Woiwurrung,er,Boonwurrung - ~N/A~,20,3
+swah1253,Swahili,aa,Swahili - ~N/A~,32,5
+sora1254,Sora,ph,Savara - ~N/A~,19,11
 ambu1247,Ambulas,ph,Abulas - ~N/A~,17,7
 chim1301,Chimariko,ph,Chimariko - ~N/A~,33,9
-libe1247,Kpelle,spa,Kpelle - ~N/A~,32,47
-east2440,Taba,gm,Makian,18,15
+libe1247,Kpelle,spa,Kpelle - ~N/A~,32,14
+east2440,Taba,gm,Makian,18,5
 murl1244,Murle,aa,Murle - ~N/A~,20,14
-masa1300,Maasai,upsid,MAASAI - ~N/A~,19,27
-waor1240,Waorani,saphon,Waorani - ~N/A~,12,30
+masa1300,Maasai,upsid,MAASAI - ~N/A~,19,9
+waor1240,Waorani,saphon,Waorani - ~N/A~,12,20
 nubi1253,Nubi,ph,Nubi - ~N/A~,30,5
-kabi1261,Kabiyé,ph,Kabiye - Somdina,22,46
-siri1273,Sirionó,spa,Siriono - ~N/A~,18,34
+kabi1261,Kabiyé,ph,Kabiye - Somdina,22,23
+siri1273,Sirionó,spa,Siriono - ~N/A~,18,10
 gunw1252,Bininj Gun-Wok,ph,Gunwinggu - ~N/A~,19,5
-kaya1329,Kayabí,ph,Kaiabi - ~N/A~,14,22
+kaya1329,Kayabí,ph,Kaiabi - ~N/A~,14,10
 qima1242,Kemant,ph,Agaw - ~N/A~,28,7
-hawa1245,Hawaiian,upsid,HAWAIIAN - ~N/A~,8,15
+hawa1245,Hawaiian,upsid,HAWAIIAN - ~N/A~,8,5
 nung1283,Nung (in Vietnam),upsid,LUNGCHOW - ~N/A~,21,11
 macu1259,Macushi,saphon,Macushi - ~N/A~,10,12
 noma1263,Nomatsiguenga,saphon,Nomatsigenga - ~N/A~,16,9
-bafi1243,Bafia,gm,kpaʔ - ~N/A~,25,38
-gali1262,Carib,saphon,Carib - Venezuela dialect,9,36
+bafi1243,Bafia,gm,kpaʔ - ~N/A~,25,18
+gali1262,Carib,saphon,Carib - Venezuela dialect,9,6
 amoo1242,Amo,upsid,AMO - ~N/A~,25,10
 pitt1247,Pitta Pitta,er,Pitta Pitta - ~N/A~,21,5
 enge1239,Engenni,aa,Engenni - ~N/A~,20,10
-sion1247,Siona,saphon,Siona - ~N/A~,18,24
-alya1239,Alyawarra,ph,Alyawarra - ~N/A~,25,10
-iumi1238,Mien,spa,Yao - ~N/A~,35,16
+sion1247,Siona,saphon,Siona - ~N/A~,18,12
+alya1239,Alyawarra,ph,Alyawarra - ~N/A~,25,7
+iumi1238,Mien,spa,Yao - ~N/A~,35,8
 nucl1440,Masalit,gm,Masalit - ~N/A~,31,10
-bats1242,Tsova-Tush,ea,Bats - ~N/A~,33,28
+bats1242,Tsova-Tush,ea,Bats - ~N/A~,33,18
 leco1242,Leko,saphon,Leco - ~N/A~,24,6
 sooo1256,So,gm,Soo - ~N/A~,18,10
-para1311,Guaraní,upsid,GUARANI - ~N/A~,24,36
-gali1262,Carib,spa,Carib - ~N/A~,16,36
-ticu1245,Ticuna,upsid,TICUNA - ~N/A~,18,40
+para1311,Guaraní,upsid,GUARANI - ~N/A~,24,12
+gali1262,Carib,spa,Carib - ~N/A~,16,12
+ticu1245,Ticuna,upsid,TICUNA - ~N/A~,18,11
 buna1275,Bunuba,er,Bunuba - ~N/A~,20,4
 chua1250,Chuave,upsid,CHUAVE - ~N/A~,12,5
 yess1239,Yessan-Mayo,upsid,YESSAN-MAYO - ~N/A~,16,4
 chum1261,Chumburung,aa,Chumburung - ~N/A~,21,9
-apuc1241,Great Andamanese,ra,Andamanese - ~N/A~,25,18
+apuc1241,Great Andamanese,ra,Andamanese - ~N/A~,25,10
 sipa1247,Sipakapense,ph,Sipakapense Maya - ~N/A~,22,10
 irar1238,Irarutu,upsid,IRARUTU - ~N/A~,12,7
 wand1263,Warndarang,er,Warndarrang - ~N/A~,17,3
 amii1238,Emmi,er,Emmi - ~N/A~,27,5
-wara1303,Warao,upsid,WARAO - ~N/A~,11,15
+wara1303,Warao,upsid,WARAO - ~N/A~,11,10
 mufi1238,Mufian,ph,Muhiang - ~N/A~,17,5
 puel1244,Gününa Küne,saphon,Günün Yajich - ~N/A~,29,7
-nucl1305,Kannada,ea,Kannada - Kannada (Standard),34,21
-jebe1250,Jebero,saphon,Shiwilu - ~N/A~,17,8
-nige1253,Fulfulde (Nigerian),gm,fulfulde (NGA) - Kaceccereere,47,20
+nucl1305,Kannada,ea,Kannada - Kannada (Standard),34,10
+jebe1250,Jebero,saphon,Shiwilu - ~N/A~,17,4
+nige1253,Fulfulde (Nigerian),gm,fulfulde (NGA) - Kaceccereere,47,10
 djeo1235,Jabutí,saphon,Jabutí - ~N/A~,14,10
-mose1249,Mosetén,saphon,Tsimané - Tsimané,23,64
+mose1249,Mosetén,saphon,Tsimané - Tsimané,23,18
 kima1246,Kimaghama,ph,Khmu - ~N/A~,20,20
-amdo1237,Amdo,ea,Themchen Tibetan - ~N/A~,43,22
-ngar1284,Ungarinjin,upsid,NGARINJIN - ~N/A~,18,11
-ejag1239,Ejagham,upsid,EJAGHAM - ~N/A~,20,21
-nyun1247,Nyungar,er,Wiilman - ~N/A~,17,25
-hawa1245,Hawaiian,spa,Hawaiian - ~N/A~,9,15
-ngas1240,Angas,aa,Angas - ~N/A~,24,31
-ladi1251,Ladino,uz,Judeo-Spanish - Istanbul Judeo-Spanish,20,19
-adio1239,Adioukrou,gm,Adioukrou - ~N/A~,21,14
+amdo1237,Amdo,ea,Themchen Tibetan - ~N/A~,43,6
+ngar1284,Ungarinjin,upsid,NGARINJIN - ~N/A~,18,6
+ejag1239,Ejagham,upsid,EJAGHAM - ~N/A~,20,7
+nyun1247,Nyungar,er,Wiilman - ~N/A~,17,5
+hawa1245,Hawaiian,spa,Hawaiian - ~N/A~,9,10
+ngas1240,Angas,aa,Angas - ~N/A~,24,9
+ladi1251,Ladino,uz,Judeo-Spanish - Istanbul Judeo-Spanish,20,14
+adio1239,Adioukrou,gm,Adioukrou - ~N/A~,21,7
 tlac1235,Tepehua (Tlachichilco),ph,Tepehua - ~N/A~,24,10
-mund1330,Mundurukú,saphon,Mundurukú - ~N/A~,17,40
+mund1330,Mundurukú,saphon,Mundurukú - ~N/A~,17,20
 lish1246,Neo-Aramaic (Persian Azerbaijan),upsid,NEO-ARAMAIC - ~N/A~,24,16
-lazz1240,Laz,ea,Laz - Laz (Borçka),33,32
+lazz1240,Laz,ea,Laz - Laz (Borçka),33,5
 cent2194,Berber (Middle Atlas),gm,Tamazight Berber - ~N/A~,36,3
-bodo1267,Gutob,ea,Gutob - Gutob (Koraput),17,38
-abip1241,Abipón,upsid,ABIPON - ~N/A~,15,15
+bodo1267,Gutob,ea,Gutob - Gutob (Koraput),17,19
+abip1241,Abipón,upsid,ABIPON - ~N/A~,15,5
 vagl1239,Vagla,aa,Vagala - ~N/A~,24,30
 hueh1236,Tepehua (Huehuetla),ph,Tepehua,26,10
 hara1271,Harari,gm,Harari - ~N/A~,25,9
-kumi1248,Diegueño (Mesa Grande),upsid,DIEGUENO - ~N/A~,25,18
-toba1269,Toba,ph,Toba (Argentina) - ~N/A~,21,23
+kumi1248,Diegueño (Mesa Grande),upsid,DIEGUENO - ~N/A~,25,9
+toba1269,Toba,ph,Toba (Argentina) - ~N/A~,21,7
 west2354,Frisian (Western),ea,Frisian - Frisian (West),19,32
 nucl1240,Mumuye,upsid,MUMUYE - ~N/A~,23,11
-ejag1239,Ejagham,aa,Ejagham de l'ouest - ~N/A~,21,21
+ejag1239,Ejagham,aa,Ejagham de l'ouest - ~N/A~,21,7
 dhiv1236,Dhivehi,ea,Dhivehi - Dhivehi (Malé),27,12
 ngem1255,Mankon,ph,Ngemba - Mankon,29,9
-maun1240,Maung,er,Mawng - ~N/A~,17,15
-cent2142,Aymara (Central),saphon,Aymara - Central dialect,26,9
-amha1245,Amharic,spa,Amharic - ~N/A~,52,21
+maun1240,Maung,er,Mawng - ~N/A~,17,5
+cent2142,Aymara (Central),saphon,Aymara - Central dialect,26,6
+amha1245,Amharic,spa,Amharic - ~N/A~,52,7
 binu1245,Binumarien,ph,Binumarien - ~N/A~,11,5
-stan1306,Malay,spa,Malay - ~N/A~,21,12
-yaku1245,Yakut,ea,Sakha - Sakha (Standard),20,48
-anuf1239,Anufo,aa,Anufɔ - ~N/A~,22,31
-kera1255,Kera,uz,Kera - Standard,24,12
-kano1245,Kanoê,ph,Kanoe - ~N/A~,12,28
-boro1277,Shinassha,ra,BoRo - ~N/A~,22,14
-zand1248,Zande,aa,Zande - ~N/A~,24,21
-fefe1239,Fe'fe',aa,Fe'efe'fe - ~N/A~,23,24
-west2369,Persian,ea,Farsi - ~N/A~,23,24
+stan1306,Malay,spa,Malay - ~N/A~,21,6
+yaku1245,Yakut,ea,Sakha - Sakha (Standard),20,20
+anuf1239,Anufo,aa,Anufɔ - ~N/A~,22,19
+kera1255,Kera,uz,Kera - Standard,24,6
+kano1245,Kanoê,ph,Kanoe - ~N/A~,12,14
+boro1277,Shinassha,ra,BoRo - ~N/A~,22,8
+zand1248,Zande,aa,Zande - ~N/A~,24,5
+fefe1239,Fe'fe',aa,Fe'efe'fe - ~N/A~,23,16
+west2369,Persian,ea,Farsi - ~N/A~,23,6
 cent1972,Kurdish (Central),ea,Kurdish - Kurdish (Sorani),31,8
 gida1247,Gidar,ph,Kada - Guidar,28,8
 agua1253,Aguaruna,saphon,Aguaruna - ~N/A~,12,8
 urar1246,Urarina,saphon,Urarina - ~N/A~,16,5
-chac1251,Chácobo,spa,Chacobo - ~N/A~,17,8
-ejag1239,Ejagham,gm,Ejagham - ~N/A~,19,21
-shan1277,Shan,ea,Shan - Shan (Kunlong),21,40
-slov1268,Slovene,ea,Slovene - Slovene (Standard),22,29
-wari1268,Wari',saphon,Wari' - ~N/A~,15,12
-mose1249,Mosetén,saphon,Mosetén de Covendo - Mosetén de Covendo,23,64
+chac1251,Chácobo,spa,Chacobo - ~N/A~,17,4
+ejag1239,Ejagham,gm,Ejagham - ~N/A~,19,7
+shan1277,Shan,ea,Shan - Shan (Kunlong),21,10
+slov1268,Slovene,ea,Slovene - Slovene (Standard),22,13
+wari1268,Wari',saphon,Wari' - ~N/A~,15,6
+mose1249,Mosetén,saphon,Mosetén de Covendo - Mosetén de Covendo,23,16
 kawa1283,Kawaiisu,upsid,KAWAIISU - ~N/A~,25,6
 mang1394,Mangbetu,aa,Mangbetu - Mangbetu (Meje),36,9
-baka1272,Baka (in Cameroon),gm,Baka - ~N/A~,25,14
-nucl1632,Sentani,spa,Sentani - ~N/A~,10,14
+baka1272,Baka (in Cameroon),gm,Baka - ~N/A~,25,7
+nucl1632,Sentani,spa,Sentani - ~N/A~,10,7
 sikk1242,Sikkimese,ea,Denjongka - ~N/A~,37,28
-swah1253,Swahili,spa,Swahili - ~N/A~,31,10
-iaai1238,Iaai,upsid,IAI - ~N/A~,36,35
-akan1250,Akan,gm,Akan - ~N/A~,28,68
+swah1253,Swahili,spa,Swahili - ~N/A~,31,5
+iaai1238,Iaai,upsid,IAI - ~N/A~,36,16
+akan1250,Akan,gm,Akan - ~N/A~,28,30
 konn1242,Konni,ph,Konni - ~N/A~,31,18
-paez1247,Páez,spa,Paez - ~N/A~,29,34
+paez1247,Páez,spa,Paez - ~N/A~,29,10
 pala1344,Palauan,ph,Palauan - ~N/A~,10,12
 chib1270,Muisca,saphon,Muisca - ~N/A~,16,6
-nucl1310,Burmese,ea,Burmese - Burmese (Rangoon),33,66
+nucl1310,Burmese,ea,Burmese - Burmese (Rangoon),33,21
 minn1241,Min (Southern),upsid,XIAMEN - ~N/A~,19,6
-amha1245,Amharic,uz,Amharic - Gondar,61,21
+amha1245,Amharic,uz,Amharic - Gondar,61,7
 bili1260,Bilin,gm,Blin - ~N/A~,31,7
-finn1318,Finnish,spa,Finnish - ~N/A~,25,33
+finn1318,Finnish,spa,Finnish - ~N/A~,25,17
 belh1239,Belhare,uz,Belhare - ~N/A~,28,8
 luva1239,Luvale,spa,Luvale - ~N/A~,22,10
-mode1248,Greek (Modern),uz,Greek - Cypriot Greek (Nicosia),36,25
+mode1248,Greek (Modern),uz,Greek - Cypriot Greek (Nicosia),36,5
 gupa1247,Gupapuyngu,er,Gupapuyngu - ~N/A~,25,6
-mbab1239,Mbabaram,upsid,MBABARAM - ~N/A~,20,16
+mbab1239,Mbabaram,upsid,MBABARAM - ~N/A~,20,4
 dadi1250,Dadibi,upsid,DADIBI - ~N/A~,13,10
 deni1241,Dení,saphon,Dení - ~N/A~,18,4
-esto1258,Estonian,ea,Estonian - Estonian (Standard),17,18
-chac1249,Cayapa,saphon,Cha'palaa - ~N/A~,23,12
+esto1258,Estonian,ea,Estonian - Estonian (Standard),17,9
+chac1249,Cayapa,saphon,Cha'palaa - ~N/A~,23,4
 ntom1248,Ntomba,gm,Bokala-Nkole - Nkole,23,7
 djee1236,Ndjébbana,er,Ndjebbana - ~N/A~,16,5
-guja1252,Gujarati,ra,Gujarati - ~N/A~,35,52
-luok1236,Luo,aa,Dholuo - ~N/A~,26,27
-nort2745,Yukaghir (Tundra),upsid,YUKAGHIR - ~N/A~,20,37
-kham1282,Kham (Dege),ea,Dongwang Tibetan - ~N/A~,49,180
+guja1252,Gujarati,ra,Gujarati - ~N/A~,35,25
+luok1236,Luo,aa,Dholuo - ~N/A~,26,9
+nort2745,Yukaghir (Tundra),upsid,YUKAGHIR - ~N/A~,20,6
+kham1282,Kham (Dege),ea,Dongwang Tibetan - ~N/A~,49,29
 logo1259,Logoti,gm,Logo - ~N/A~,27,9
-dutc1256,Dutch,ea,Dutch - ~N/A~,18,212
+dutc1256,Dutch,ea,Dutch - ~N/A~,18,25
 nias1242,Nias,gm,Nias - Selatan,19,6
-cent2050,Kanuri,spa,Kanuri - ~N/A~,25,19
+cent2050,Kanuri,spa,Kanuri - ~N/A~,25,6
 imba1240,Quechua (Imbabura),saphon,Imbabura Quichua - ~N/A~,17,3
 yala1262,Yalarnnga,er,Yalarnnga - ~N/A~,20,4
-nava1243,Navajo,upsid,NAVAJO - ~N/A~,31,32
+nava1243,Navajo,upsid,NAVAJO - ~N/A~,31,16
 meen1242,Me'en,gm,Me'en - ~N/A~,26,14
-sinh1246,Sinhala,upsid,SINHALESE - ~N/A~,22,30
-haus1257,Hausa,aa,Hausa - Hausa (Nigeria),25,43
+sinh1246,Sinhala,upsid,SINHALESE - ~N/A~,22,14
+haus1257,Hausa,aa,Hausa - Hausa (Nigeria),25,6
 teke1280,Teke (Southern),upsid,TEKE - ~N/A~,21,7
 kalm1243,Kalmyk,ea,Kalmyk - Kalmyk (Standard),23,16
-chac1249,Cayapa,spa,Cayapa - ~N/A~,24,12
+chac1249,Cayapa,spa,Cayapa - ~N/A~,24,4
 yayg1236,Yaygir,er,Yaygir - ~N/A~,14,6
-shan1277,Shan,ea,Shan - Shan (Hsi Paw),22,40
-tetu1245,Tetun,upsid,TETUN - ~N/A~,14,10
-marg1265,Margi,spa,Margi - ~N/A~,36,10
+shan1277,Shan,ea,Shan - Shan (Hsi Paw),22,10
+tetu1245,Tetun,upsid,TETUN - ~N/A~,14,5
+marg1265,Margi,spa,Margi - ~N/A~,36,6
 veng1238,Babungo,aa,Babungo - Babungo (Grassfields Bantu,56,17
 gayo1244,Gayo,ph,Gayo - ~N/A~,19,8
-malt1254,Maltese,ea,Maltese - Maltese (Standard),24,21
+malt1254,Maltese,ea,Maltese - Maltese (Standard),24,11
 mogh1245,Moghol,upsid,MOGHOL - ~N/A~,24,5
 maca1260,Maca,saphon,Maka - ~N/A~,22,10
 curr1243,Curripaco,saphon,Curripaco - ~N/A~,25,4
-bond1245,Remo,ea,Remo - Remo (Hills variety),21,40
+bond1245,Remo,ea,Remo - Remo (Hills variety),21,21
 idaa1241,Begak-Ida'an,ph,Ida''an' - Begak,17,6
-asha1243,Campa (Axininca),saphon,Asháninka - ~N/A~,14,16
+asha1243,Campa (Axininca),saphon,Asháninka - ~N/A~,14,8
 talo1250,Jomang,upsid,JOMANG - ~N/A~,14,7
-tuvi1240,Tuvan,ph,Tuva; Tuvan - ~N/A~,21,49
+tuvi1240,Tuvan,ph,Tuva; Tuvan - ~N/A~,21,16
 guma1253,Gumatj,er,Gumatj - ~N/A~,25,6
-biri1256,Biri,er,Barna - ~N/A~,15,30
-mand1415,Mandarin,upsid,MANDARIN - ~N/A~,25,61
-dutc1256,Dutch,uz,Dutch - the Belgian Limburg dialect of Hamont (belongs to the West Limburg dialects,22,212
+biri1256,Biri,er,Barna - ~N/A~,15,3
+mand1415,Mandarin,upsid,MANDARIN - ~N/A~,25,7
+dutc1256,Dutch,uz,Dutch - the Belgian Limburg dialect of Hamont (belongs to the West Limburg dialects,22,36
 nucl1339,Temein,upsid,TEMEIN - ~N/A~,18,7
 kyer1238,Kyirong,ea,Kyirong Tibetan - ~N/A~,40,23
-wapi1253,Wapishana,upsid,WAPISHANA - ~N/A~,17,24
+wapi1253,Wapishana,upsid,WAPISHANA - ~N/A~,17,8
 bini1246,Bini,aa,Ẹdo - ~N/A~,25,21
 miri1266,Miriwung,er,Miriwoong - ~N/A~,16,4
-bani1255,Baniwa,saphon,Baniwa - Central,16,28
-guam1248,Guambiano,saphon,Guambiano - ~N/A~,20,11
-icel1247,Icelandic,ea,Icelandic - ~N/A~,30,31
-kuni1267,Kunimaipa,upsid,KUNIMAIPA - ~N/A~,15,10
-biri1256,Biri,er,Miyan - ~N/A~,15,30
+bani1255,Baniwa,saphon,Baniwa - Central,16,8
+guam1248,Guambiano,saphon,Guambiano - ~N/A~,20,5
+icel1247,Icelandic,ea,Icelandic - ~N/A~,30,15
+kuni1267,Kunimaipa,upsid,KUNIMAIPA - ~N/A~,15,5
+biri1256,Biri,er,Miyan - ~N/A~,15,3
 natu1246,Natügu,upsid,NAMBAKAENGO - ~N/A~,30,17
-timn1235,Temne,upsid,TEMNE - ~N/A~,17,32
+timn1235,Temne,upsid,TEMNE - ~N/A~,17,8
 waja1257,Watjarri,er,Watjarri - ~N/A~,20,6
 savo1255,Savosavo,upsid,SAVOSAVO - ~N/A~,17,5
-kaba1278,Kabardian,ea,Kabardian - Kabardian (Baksan),47,37
-apur1254,Apurinã,saphon,Apurinã - ~N/A~,14,46
+kaba1278,Kabardian,ea,Kabardian - Kabardian (Baksan),47,8
+apur1254,Apurinã,saphon,Apurinã - ~N/A~,14,20
 mbay1241,Mbay,gm,Mbay - ~N/A~,22,19
 samo1303,Samo,ph,Samo - ~N/A~,12,6
-ceba1235,Senadi,upsid,SENADI - ~N/A~,24,41
-bani1255,Baniwa,saphon,Baniwa - Rio Negro,18,28
+ceba1235,Senadi,upsid,SENADI - ~N/A~,24,12
+bani1255,Baniwa,saphon,Baniwa - Rio Negro,18,8
 tiga1245,Tigak,upsid,TIGAK - ~N/A~,12,5
 samb1305,Samba Leko,ph,Samba Leko - ~N/A~,22,9
-stan1295,German,upsid,GERMAN - ~N/A~,22,70
-sher1255,Sherpa,ea,Solu Sherpa - Solu Sherpa (Hile),34,29
+stan1295,German,upsid,GERMAN - ~N/A~,22,19
+sher1255,Sherpa,ea,Solu Sherpa - Solu Sherpa (Hile),34,16
 yaoo1241,Yao (in Malawi),gm,yao - ~N/A~,18,7
-stan1306,Malay,uz,Standard Malay - Standard Malay (Brunei),24,12
+stan1306,Malay,uz,Standard Malay - Standard Malay (Brunei),24,6
 east2304,Baluchi,ea,Eastern Hill Balochi - ~N/A~,35,19
-sgaw1245,Karen (Sgaw),upsid,KAREN - ~N/A~,27,18
+sgaw1245,Karen (Sgaw),upsid,KAREN - ~N/A~,27,9
 ajas1235,Aja,gm,aja - ~N/A~,38,10
-tera1251,Tera,upsid,TERA - ~N/A~,42,21
-mamp1244,Mampruli,aa,Mampruli - ~N/A~,22,20
+tera1251,Tera,upsid,TERA - ~N/A~,42,6
+mamp1244,Mampruli,aa,Mampruli - ~N/A~,22,10
 kuma1273,Kumauni,ra,Kumauni - ~N/A~,31,11
 anga1290,Angaataha,upsid,ANGAATIHA - ~N/A~,12,9
 east2337,Shira Yughur,ea,Eastern Yugur - ~N/A~,28,14
-cavi1250,Cavineña,saphon,Cavineña - ~N/A~,20,8
-biak1248,Biak,ph,Biak - ~N/A~,14,15
-stan1293,English,uz,English (American) - Western and Mid-Western US; Southern California,24,150
-ceba1235,Senadi,gm,Senoufo,24,41
-nucl1643,Japanese,upsid,JAPANESE - ~N/A~,15,21
-slov1268,Slovene,ph,Slovene - Standard Slovene,21,29
-darm1243,Darma,ea,Darma - ~N/A~,26,16
-sout2750,Yukaghir (Kolyma),ea,Kolyma Yukaghir - ~N/A~,20,28
-wayu1243,Goajiro,spa,Goajiro - ~N/A~,28,36
+cavi1250,Cavineña,saphon,Cavineña - ~N/A~,20,4
+biak1248,Biak,ph,Biak - ~N/A~,14,10
+stan1293,English,uz,English (American) - Western and Mid-Western US; Southern California,24,15
+ceba1235,Senadi,gm,Senoufo,24,16
+nucl1643,Japanese,upsid,JAPANESE - ~N/A~,15,5
+slov1268,Slovene,ph,Slovene - Standard Slovene,21,16
+darm1243,Darma,ea,Darma - ~N/A~,26,8
+sout2750,Yukaghir (Kolyma),ea,Kolyma Yukaghir - ~N/A~,20,16
+wayu1243,Goajiro,spa,Goajiro - ~N/A~,28,18
 ekar1243,Ekari,upsid,EKARI - ~N/A~,10,5
-kase1253,Kasem,aa,Kasem - ~N/A~,19,40
-baou1238,Baule,aa,Baoulé - Baoulé (Baule; Baulé),21,19
-thai1261,Thai,spa,Thai - ~N/A~,21,48
-lisu1250,Lisu,ph,Lisu - ~N/A~,25,18
-hung1274,Hungarian,upsid,HUNGARIAN - ~N/A~,26,57
-tami1289,Tamil,ea,Tamil - ~N/A~,24,35
+kase1253,Kasem,aa,Kasem - ~N/A~,19,20
+baou1238,Baule,aa,Baoulé - Baoulé (Baule; Baulé),21,12
+thai1261,Thai,spa,Thai - ~N/A~,21,18
+lisu1250,Lisu,ph,Lisu - ~N/A~,25,8
+hung1274,Hungarian,upsid,HUNGARIAN - ~N/A~,26,14
+tami1289,Tamil,ea,Tamil - ~N/A~,24,12
 basa1284,Basaá,aa,Basaa - ~N/A~,29,7
 boik1241,Boiken,ph,Boiken - ~N/A~,17,8
 gaga1251,Gaagudju,er,Gaagudju - ~N/A~,17,10
 kunz1244,Atacameño,saphon,Kunza - ~N/A~,23,10
-kham1282,Kham (Dege),ea,Rgyalthang Tibetan - ~N/A~,44,180
-maun1240,Maung,upsid,MAUNG - ~N/A~,17,15
+kham1282,Kham (Dege),ea,Rgyalthang Tibetan - ~N/A~,44,18
+maun1240,Maung,upsid,MAUNG - ~N/A~,17,5
 tong1325,Tongan,ph,Tongan; Tonga - ~N/A~,12,5
-nezp1238,Nez Perce,upsid,NEZ PERCE - ~N/A~,25,15
-juan1238,Juang,ea,Juang - ~N/A~,19,40
+nezp1238,Nez Perce,upsid,NEZ PERCE - ~N/A~,25,5
+juan1238,Juang,ea,Juang - ~N/A~,19,18
 dera1245,Dla (Proper),upsid,DERA - ~N/A~,11,6
 cupe1243,Cupeño,ph,Cupeno - ~N/A~,27,11
-esto1258,Estonian,uz,Estonian - Standard Estonian (Central Estonia),45,18
+esto1258,Estonian,uz,Estonian - Standard Estonian (Central Estonia),45,9
 pero1241,Pero,gm,Pero - ~N/A~,18,10
-ngaw1240,Ngawun,er,Wunumara - ~N/A~,19,9
-sele1250,Selepet,upsid,SELEPET - ~N/A~,15,12
+ngaw1240,Ngawun,er,Wunumara - ~N/A~,19,3
+sele1250,Selepet,upsid,SELEPET - ~N/A~,15,6
 huam1247,Huambisa,saphon,Huambisa - ~N/A~,15,8
 cent1990,Nancowry,ra,Nicobarese - ~N/A~,16,19
-koyr1242,Koyraboro Senni,upsid,SONGHAI - ~N/A~,15,38
+koyr1242,Koyraboro Senni,upsid,SONGHAI - ~N/A~,15,9
 mart1255,Martuthunira,er,Martuthunira - ~N/A~,20,6
-even1260,Even,upsid,EVEN - ~N/A~,17,46
-awng1244,Awngi,spa,Awiya - ~N/A~,28,20
-biri1256,Biri,er,Garingbal - ~N/A~,15,30
-ewon1239,Ewondo,upsid,EWONDO - ~N/A~,26,15
+even1260,Even,upsid,EVEN - ~N/A~,17,10
+awng1244,Awngi,spa,Awiya - ~N/A~,28,7
+biri1256,Biri,er,Garingbal - ~N/A~,15,3
+ewon1239,Ewondo,upsid,EWONDO - ~N/A~,26,8
 qaua1234,Gelao,upsid,GELAO - ~N/A~,31,12
-nyis1236,Nyishi,spa,Dafla - ~N/A~,16,18
+nyis1236,Nyishi,spa,Dafla - ~N/A~,16,9
 manc1252,Manchu,upsid,MANCHU - ~N/A~,18,7
-saba1265,Sa'ban,spa,Sa'ban - ~N/A~,38,15
-nyun1247,Nyungar,er,Yuwat - ~N/A~,17,25
+saba1265,Sa'ban,spa,Sa'ban - ~N/A~,38,8
+nyun1247,Nyungar,er,Yuwat - ~N/A~,17,5
 mand1436,Mandinka,ph,Mandingo - ~N/A~,19,10
 ndut1239,Ndut,upsid,NDUT - ~N/A~,27,7
-tigr1270,Tigré,upsid,TIGRE - ~N/A~,26,14
-viet1252,Vietnamese,uz,Vietnamese - Hanoi Vietnamese,21,58
-luxe1241,Luxemburgeois,ea,Luxembourgish - ~N/A~,26,44
-ntch1242,Ncàm,gm,N'cam - ~N/A~,21,31
-iton1250,Itonama,spa,Itonama - ~N/A~,19,18
-hind1269,Hindi,ea,Hindi - ~N/A~,34,97
-guah1255,Guahibo,saphon,Guahibo - ~N/A~,17,30
-sumi1235,Sema,ra,Sema - ~N/A~,35,17
-anuf1239,Anufo,gm,anufɔ - ~N/A~,45,31
+tigr1270,Tigré,upsid,TIGRE - ~N/A~,26,7
+viet1252,Vietnamese,uz,Vietnamese - Hanoi Vietnamese,21,16
+luxe1241,Luxemburgeois,ea,Luxembourgish - ~N/A~,26,22
+ntch1242,Ncàm,gm,N'cam - ~N/A~,21,19
+iton1250,Itonama,spa,Itonama - ~N/A~,19,6
+hind1269,Hindi,ea,Hindi - ~N/A~,34,21
+guah1255,Guahibo,saphon,Guahibo - ~N/A~,17,18
+sumi1235,Sema,ra,Sema - ~N/A~,35,11
+anuf1239,Anufo,gm,anufɔ - ~N/A~,45,12
 warr1258,Warrwa,er,Warrwa - ~N/A~,17,3
-kota1263,Kota,ra,Kota - ~N/A~,26,31
+kota1263,Kota,ra,Kota - ~N/A~,26,15
 bona1250,Bao'an,ea,Baoan - Baoan (Ñantoq),25,11
-nyis1236,Nyishi,upsid,DAFLA - ~N/A~,15,18
+nyis1236,Nyishi,upsid,DAFLA - ~N/A~,15,9
 susu1250,Susu,aa,Soso - ~N/A~,21,14
 nige1257,Nigerian Pidgin,ph,Nigerian Pidgin - ~N/A~,23,7
-saba1265,Sa'ban,upsid,SA'BAN - ~N/A~,19,15
+saba1265,Sa'ban,upsid,SA'BAN - ~N/A~,19,7
 egaa1242,Ega,ph,Ega - Gniguedougou & Gnama,27,9
-bord1248,Kuna,upsid,CUNA - ~N/A~,16,10
-seco1241,Secoya,ph,Secoya - ~N/A~,12,18
-kuku1273,Kuku-Yalanji,er,Gugu Wakura - ~N/A~,13,12
+bord1248,Kuna,upsid,CUNA - ~N/A~,16,5
+seco1241,Secoya,ph,Secoya - ~N/A~,12,6
+kuku1273,Kuku-Yalanji,er,Gugu Wakura - ~N/A~,13,3
 huaa1248,=|Hoan,gm,!Xóõ - ~N/A~,130,28
-qawa1238,Qawasqar,saphon,Kawesqar - Kawesqar,18,15
+qawa1238,Qawasqar,saphon,Kawesqar - Kawesqar,18,6
 iged1239,Igede,aa,Igede - ~N/A~,24,10
 suku1261,Sukuma,gm,Sukuma - ~N/A~,38,14
-gara1269,Garrwa,upsid,GARAWA - ~N/A~,19,9
-east2379,Arrernte (Mparntwe),er,Eastern Arrernte - ~N/A~,40,11
-qawa1238,Qawasqar,upsid,QAWASQAR - ~N/A~,16,15
-west2369,Persian,spa,Persian - ~N/A~,24,24
-yukp1241,Yukpa,saphon,Yukpa - Macoíta,15,12
+gara1269,Garrwa,upsid,GARAWA - ~N/A~,19,3
+east2379,Arrernte (Mparntwe),er,Eastern Arrernte - ~N/A~,40,4
+qawa1238,Qawasqar,upsid,QAWASQAR - ~N/A~,16,3
+west2369,Persian,spa,Persian - ~N/A~,24,6
+yukp1241,Yukpa,saphon,Yukpa - Macoíta,15,6
 tere1279,Terêna,saphon,Terêna - ~N/A~,13,10
-ingu1240,Ingush,ph,Ingush - ~N/A~,35,30
+ingu1240,Ingush,ph,Ingush - ~N/A~,35,13
 naka1260,Nakkara,er,Nakara - ~N/A~,20,5
-kwak1269,Kwakw'ala,spa,Kwakiutl - ~N/A~,46,15
+kwak1269,Kwakw'ala,spa,Kwakiutl - ~N/A~,46,9
 maca1259,Macaguán,saphon,Macaguán - ~N/A~,16,6
-kuku1273,Kuku-Yalanji,er,Wagaman - ~N/A~,13,12
+kuku1273,Kuku-Yalanji,er,Wagaman - ~N/A~,13,3
 amel1241,Amele,upsid,AMELE - ~N/A~,15,5
-enap1235,Panare,upsid,PANARE - ~N/A~,12,20
+enap1235,Panare,upsid,PANARE - ~N/A~,12,13
 legb1242,Leggbó,gm,Leggbo - ~N/A~,38,12
-ajab1235,Ajagbe,aa,Adja - Adja (Togo),23,26
-loma1260,Loma,aa,Lɔgɔmagooi - ~N/A~,28,42
-cent2050,Kanuri,upsid,KANURI - ~N/A~,23,19
-buru1296,Burushaski,ea,Burushaski - Burushaski (Nagar),38,58
+ajab1235,Ajagbe,aa,Adja - Adja (Togo),23,14
+loma1260,Loma,aa,Lɔgɔmagooi - ~N/A~,28,14
+cent2050,Kanuri,upsid,KANURI - ~N/A~,23,6
+buru1296,Burushaski,ea,Burushaski - Burushaski (Nagar),38,21
 warr1255,Warrgamay,er,Warrgamay - ~N/A~,13,6
 mori1278,Mauritian Creole,gm,Mauritian Creole - Ordinary',21,9
-mose1249,Mosetén,saphon,Mosetén de Santa Ana - Mosetén de Santa Ana,23,64
-ceba1235,Senadi,gm,Senoufo-Cebaara - Tangari,22,41
-taus1251,Tausug,ea,Tausug - Tausug (Jolo),20,6
+mose1249,Mosetén,saphon,Mosetén de Santa Ana - Mosetén de Santa Ana,23,18
+ceba1235,Senadi,gm,Senoufo-Cebaara - Tangari,22,13
+taus1251,Tausug,ea,Tausug - Tausug (Jolo),20,3
 ward1246,Wardaman,er,Wardaman - ~N/A~,17,5
-igna1246,Ignaciano,upsid,MOXO - ~N/A~,21,12
-ngaw1240,Ngawun,er,Mayi-Thakurti - ~N/A~,19,9
+igna1246,Ignaciano,upsid,MOXO - ~N/A~,21,4
+ngaw1240,Ngawun,er,Mayi-Thakurti - ~N/A~,19,3
 dyaa1242,Djabugay,er,Djabugay - ~N/A~,13,6
-ngar1284,Ungarinjin,er,Ngarinyin - ~N/A~,17,11
+ngar1284,Ungarinjin,er,Ngarinyin - ~N/A~,17,5
 kwai1243,Kwaio,upsid,KWAIO - ~N/A~,16,5
-east2328,Mari (Meadow),ph,Cheremis - ~N/A~,19,61
-nuer1246,Nuer,ph,Nuer - ~N/A~,20,56
+east2328,Mari (Meadow),ph,Cheremis - ~N/A~,19,8
+nuer1246,Nuer,ph,Nuer - ~N/A~,20,28
 hoav1238,Hoava,ph,Hoava - ~N/A~,16,5
-hakk1236,Hakka,uz,Hakka Chinese - Kejia (Hakka Chinese,26,44
-moks1248,Mordvin (Moksha),ea,Moksha - Moksha (Standard),33,13
+hakk1236,Hakka,uz,Hakka Chinese - Kejia (Hakka Chinese,26,16
+moks1248,Mordvin (Moksha),ea,Moksha - Moksha (Standard),33,7
 ivat1242,Ivatan,upsid,IVATAN - ~N/A~,19,4
-gali1258,Galician,ph,Galician - ~N/A~,21,14
+gali1258,Galician,ph,Galician - ~N/A~,21,7
 thul1246,Thulung,ph,Thulung; Thulung Rai - ~N/A~,30,8
-telu1262,Telugu,ra,Telugu - ~N/A~,40,54
+telu1262,Telugu,ra,Telugu - ~N/A~,40,11
 jama1262,Jamaican Creole,ph,Jamaican Creole - ~N/A~,21,12
 roma1326,Romansch (Scharans),ea,Vallader Romansh - ~N/A~,27,19
-assa1263,Assamese,ra,Assamese - ~N/A~,22,39
-kuna1268,Kunama,uz,Kunama - Marda (similar to Barka),23,15
+assa1263,Assamese,ra,Assamese - ~N/A~,22,15
+kuna1268,Kunama,uz,Kunama - Marda (similar to Barka),23,8
 boko1266,Boko,aa,Boussa - Boussa (Boko),19,12
-anyi1245,Anyi,gm,Anyi Sanvi - ~N/A~,19,44
+anyi1245,Anyi,gm,Anyi Sanvi - ~N/A~,19,16
 west2500,Maninka (Western),aa,Mande - ~N/A~,20,7
-kash1277,Kashmiri,spa,Kashimiri - ~N/A~,27,85
-kalk1246,Kalkatungu,er,Kalkatungu - ~N/A~,20,9
-ndon1254,Ndonga,gm,ndonga - ~N/A~,25,20
-jama1261,Banawá,saphon,Jamamadí - Jamamadí,12,16
-mait1250,Maithili,ra,Maithili - ~N/A~,34,33
-pitj1243,Pitjantjatjara,er,Pitjantjatjara - ~N/A~,17,20
+kash1277,Kashmiri,spa,Kashimiri - ~N/A~,27,29
+kalk1246,Kalkatungu,er,Kalkatungu - ~N/A~,20,6
+ndon1254,Ndonga,gm,ndonga - ~N/A~,25,5
+jama1261,Banawá,saphon,Jamamadí - Jamamadí,12,4
+mait1250,Maithili,ra,Maithili - ~N/A~,34,8
+pitj1243,Pitjantjatjara,er,Pitjantjatjara - ~N/A~,17,6
 palo1243,Palor,gm,Ndut-Falor - Falor,26,17
-bash1264,Bashkir,upsid,BASHKIR - ~N/A~,27,22
-slov1269,Slovak,ea,Slovak - Slovak (Standard),30,30
-czec1258,Czech,ea,Czech - Czech (Bohemian),27,39
-tamn1235,Asmat,upsid,ASMAT - ~N/A~,11,11
+bash1264,Bashkir,upsid,BASHKIR - ~N/A~,27,11
+slov1269,Slovak,ea,Slovak - Slovak (Standard),30,15
+czec1258,Czech,ea,Czech - Czech (Bohemian),27,13
+tamn1235,Asmat,upsid,ASMAT - ~N/A~,11,6
 fonn1241,Fongbe,aa,Fɔn - ~N/A~,24,14
-hixk1239,Hixkaryana,upsid,HIXKARYANA - ~N/A~,18,10
-yort1237,Yorta Yorta,er,Yorta Yorta - ~N/A~,14,10
-yura1255,Yuracare,ph,Yuracure - ~N/A~,18,14
-brah1256,Brahui,ea,Brahui - Brahui (Jahlawān),26,43
-nucl1632,Sentani,upsid,SENTANI - ~N/A~,10,14
+hixk1239,Hixkaryana,upsid,HIXKARYANA - ~N/A~,18,5
+yort1237,Yorta Yorta,er,Yorta Yorta - ~N/A~,14,5
+yura1255,Yuracare,ph,Yuracure - ~N/A~,18,7
+brah1256,Brahui,ea,Brahui - Brahui (Jahlawān),26,17
+nucl1632,Sentani,upsid,SENTANI - ~N/A~,10,7
 mari1424,Marrithiyel,er,Marrithiyel - ~N/A~,20,4
 subi1246,Subiya,ph,Subiya - ~N/A~,46,5
-ngan1291,Nganasan,upsid,NGANASAN - ~N/A~,20,19
-mait1250,Maithili,ea,Maithili - Maithili (Madhubani),26,33
+ngan1291,Nganasan,upsid,NGANASAN - ~N/A~,20,9
+mait1250,Maithili,ea,Maithili - Maithili (Madhubani),26,25
 ngan1295,Ngandi,er,Ngandi - ~N/A~,26,9
 lele1264,Lelemi,upsid,LELEMI - ~N/A~,22,12
 bamu1253,Bamun,ph,Shupamem - ~N/A~,28,10
-awng1244,Awngi,gm,Awngi - ~N/A~,30,20
+awng1244,Awngi,gm,Awngi - ~N/A~,30,6
 want1252,Wantoat,upsid,WANTOAT - ~N/A~,14,7
 bang1339,Banggarla,er,Parnkalla - ~N/A~,20,3
 tonk1249,Tonkawa,upsid,TONKAWA - ~N/A~,15,10
 maka1304,Makaa,aa,Mekaa - ~N/A~,30,21
 kaya1330,Kayapó,saphon,Mebengokre - ~N/A~,16,17
-basq1248,Basque,ea,Basque - Basque (Baztan),23,53
+basq1248,Basque,ea,Basque - Basque (Baztan),23,7
 taha1241,Tuareg (Ahaggar),upsid,TAMASHEQ - ~N/A~,25,12
 shin1264,Shina,ra,Shina - ~N/A~,35,13
 wels1247,Welsh,ea,Welsh - Welsh (Llanwrtyd),29,19
 nina1238,Shiriana,saphon,Ninam - ~N/A~,12,6
-lith1251,Lithuanian,spa,Lithuanian - ~N/A~,36,82
-buru1296,Burushaski,spa,Burushaski - ~N/A~,38,58
+lith1251,Lithuanian,spa,Lithuanian - ~N/A~,36,11
+buru1296,Burushaski,spa,Burushaski - ~N/A~,38,12
 sout2856,Efate (South),ph,South Efate - ~N/A~,15,5
-nucl1301,Turkish,spa,Turkish - ~N/A~,24,51
-gaaa1244,Gã,upsid,GA - ~N/A~,29,36
+nucl1301,Turkish,spa,Turkish - ~N/A~,24,16
+gaaa1244,Gã,upsid,GA - ~N/A~,29,12
 baga1272,Baga Sitemu,ph,Baga Sitem - ~N/A~,18,8
-port1283,Portuguese,uz,Portuguese (European) - Lisbon,19,90
-niel1243,Lua,gm,Lwaa - ~N/A~,25,44
-stan1293,English,ea,English - English (RP),24,150
-yuec1235,Cantonese,spa,Cantonese - ~N/A~,22,53
-russ1263,Russian,ea,Russian - Russian (Standard),36,16
+port1283,Portuguese,uz,Portuguese (European) - Lisbon,19,28
+niel1243,Lua,gm,Lwaa - ~N/A~,25,31
+stan1293,English,ea,English - English (RP),24,20
+yuec1235,Cantonese,spa,Cantonese - ~N/A~,22,5
+russ1263,Russian,ea,Russian - Russian (Standard),36,6
 temi1246,Temiar,ea,Temiar - ~N/A~,19,30
-lakk1238,Lakkia,upsid,LAKKIA - ~N/A~,33,44
+lakk1238,Lakkia,upsid,LAKKIA - ~N/A~,33,22
 sout2789,Dagaare,aa,Dagaare - ~N/A~,24,27
-papa1238,Totonac (Papantla),upsid,TOTONAC - ~N/A~,16,12
-nort2745,Yukaghir (Tundra),ea,Tundra Yukaghir - ~N/A~,20,37
+papa1238,Totonac (Papantla),upsid,TOTONAC - ~N/A~,16,6
+nort2745,Yukaghir (Tundra),ea,Tundra Yukaghir - ~N/A~,20,19
 lagw1237,Lagwan,gm,Lagwan - ~N/A~,34,5
-naas1242,Nasioi,upsid,NASIOI - ~N/A~,8,15
+naas1242,Nasioi,upsid,NASIOI - ~N/A~,8,5
 kura1250,Koranko,gm,Kuranko - ~N/A~,26,28
-garo1247,Garo,spa,Garo - ~N/A~,21,10
-toho1245,O'odham,upsid,PAPAGO - ~N/A~,19,15
+garo1247,Garo,spa,Garo - ~N/A~,21,5
+toho1245,O'odham,upsid,PAPAGO - ~N/A~,19,5
 iwam1256,Iwam,upsid,IWAM - ~N/A~,11,6
-ewee1241,Ewe,spa,Ewe - ~N/A~,28,40
-luis1253,Luiseño,spa,Luiseno - ~N/A~,23,16
+ewee1241,Ewe,spa,Ewe - ~N/A~,28,14
+luis1253,Luiseño,spa,Luiseno - ~N/A~,23,11
 anin1240,Anindilyakwa,er,Anindilyakwa - ~N/A~,22,4
-kirg1245,Kirghiz,ea,Kyrgyz - Kyrgyz (Standard),21,40
+kirg1245,Kirghiz,ea,Kyrgyz - Kyrgyz (Standard),21,16
 serr1255,Serrano,ph,Serrano - ~N/A~,33,9
-mamp1244,Mampruli,gm,Mampruli - Walewale,24,20
+mamp1244,Mampruli,gm,Mampruli - Walewale,24,10
 onge1236,Onge,ph,Öñge; Ong; Onge - ~N/A~,16,8
 bilo1248,Biloxi,ph,Biloxi - ~N/A~,12,8
 cadd1256,Caddo,upsid,CADDO - ~N/A~,20,3
 nyan1313,Nyangi,upsid,NYANGI - ~N/A~,18,7
-akaw1239,Akawaio,saphon,Ingarikó - ~N/A~,10,21
-mode1248,Greek (Modern),upsid,GREEK - ~N/A~,21,25
-panj1256,Panjabi,ea,Panjabi - Panjabi (Eastern),27,56
-seba1251,Chaha,gm,Gura - ~N/A~,36,20
-swed1254,Swedish,ea,Swedish - Swedish (Central),18,34
-nort2641,Kurmanji,ea,Northern Kurdish - Northern Kurdish (Kurmanji),30,25
-yany1243,Yanyuwa,upsid,YANYUWA - ~N/A~,29,7
+akaw1239,Akawaio,saphon,Ingarikó - ~N/A~,10,11
+mode1248,Greek (Modern),upsid,GREEK - ~N/A~,21,5
+panj1256,Panjabi,ea,Panjabi - Panjabi (Eastern),27,17
+seba1251,Chaha,gm,Gura - ~N/A~,36,6
+swed1254,Swedish,ea,Swedish - Swedish (Central),18,17
+nort2641,Kurmanji,ea,Northern Kurdish - Northern Kurdish (Kurmanji),30,8
+yany1243,Yanyuwa,upsid,YANYUWA - ~N/A~,29,3
 yeyi1239,Yeyi,ph,Yeyi - ~N/A~,77,13
-mund1320,Mundari,upsid,MUNDARI - ~N/A~,32,54
-biri1256,Biri,er,Yambina - ~N/A~,15,30
-lugb1240,Lugbara,aa,Lugbara - ~N/A~,26,33
-mara1385,Mara,ph,Mara - ~N/A~,19,9
-udmu1245,Udmurt,ea,Udmurt - Udmurt (Bavly),28,34
-east2542,Ojibwa (Eastern),spa,Ojibwa - ~N/A~,16,22
+mund1320,Mundari,upsid,MUNDARI - ~N/A~,32,5
+biri1256,Biri,er,Yambina - ~N/A~,15,3
+lugb1240,Lugbara,aa,Lugbara - ~N/A~,26,10
+mara1385,Mara,ph,Mara - ~N/A~,19,5
+udmu1245,Udmurt,ea,Udmurt - Udmurt (Bavly),28,9
+east2542,Ojibwa (Eastern),spa,Ojibwa - ~N/A~,16,11
 bari1297,Barí,saphon,Barí - ~N/A~,10,12
 scot1245,Gaelic (Scots),ea,Scottish Gaelic - Scottish Gaelic (Lewis),33,49
-yane1238,Amuesha,saphon,Yánesha - ~N/A~,24,18
+yane1238,Amuesha,saphon,Yánesha - ~N/A~,24,9
 mich1245,Nahuatl (Michoacán),ph,Michoacan Nahual - ~N/A~,20,5
-asha1243,Campa (Axininca),upsid,CAMPA - ~N/A~,15,16
+asha1243,Campa (Axininca),upsid,CAMPA - ~N/A~,15,4
 bata1293,Batak (Karo),gm,Karo Batak - ~N/A~,16,8
-port1283,Portuguese,ea,Portuguese - Portuguese (Estremenho),21,90
-adze1240,Adzera,upsid,ADZERA - ~N/A~,18,14
-luok1236,Luo,spa,Luo - ~N/A~,23,27
-sanm1287,Huave (San Mateo del Mar),upsid,HUAVE - ~N/A~,23,12
+port1283,Portuguese,ea,Portuguese - Portuguese (Estremenho),21,20
+adze1240,Adzera,upsid,ADZERA - ~N/A~,18,7
+luok1236,Luo,spa,Luo - ~N/A~,23,9
+sanm1287,Huave (San Mateo del Mar),upsid,HUAVE - ~N/A~,23,6
 yape1248,Yapese,ph,Yapese - ~N/A~,28,16
 tama1331,Tama,upsid,TAMA - ~N/A~,21,9
-khas1269,Khasi,ra,Khasi - ~N/A~,27,30
-nucl1417,Igbo,spa,Igbo - ~N/A~,46,48
-akha1245,Akha,ph,Akha - ~N/A~,28,36
+khas1269,Khasi,ra,Khasi - ~N/A~,27,13
+nucl1417,Igbo,spa,Igbo - ~N/A~,46,16
+akha1245,Akha,ph,Akha - ~N/A~,28,13
 emai1241,Emai,aa,Emai - ~N/A~,27,21
 beng1286,Beng,aa,Bɛ̀ŋ - Bɛ̀ŋ (Ngain),24,19
-soni1259,Soninke,aa,Sooninke - Sooninke (Senegal),34,44
-hopi1249,Hopi,upsid,HOPI - ~N/A~,22,24
-khar1287,Kharia,ea,Kharia - Kharia (Dudh),34,44
+soni1259,Soninke,aa,Sooninke - Sooninke (Senegal),34,14
+hopi1249,Hopi,upsid,HOPI - ~N/A~,22,6
+khar1287,Kharia,ea,Kharia - Kharia (Dudh),34,5
 maon1238,Naga (Mao),ra,Mao-Naga - ~N/A~,20,6
-stan1290,French,uz,French - French (Parisian speaker),21,62
+stan1290,French,uz,French - French (Parisian speaker),21,15
 kusu1250,Kusunda,ph,Kusunda - ~N/A~,32,6
 kokb1239,Kokborok,ra,Tripuri - ~N/A~,25,9
 cane1242,Canela,saphon,Canela - ~N/A~,13,16
-malt1254,Maltese,spa,Maltese - ~N/A~,45,21
-igna1246,Ignaciano,saphon,Ignaciano - ~N/A~,15,12
-stan1289,Catalan,ph,Catalan - Barcelona,23,45
+malt1254,Maltese,spa,Maltese - ~N/A~,45,10
+igna1246,Ignaciano,saphon,Ignaciano - ~N/A~,15,4
+stan1289,Catalan,ph,Catalan - Barcelona,23,16
 lako1244,Vata,aa,Dida - ~N/A~,27,27
 nyan1307,Runyankore,ph,Runyankore - ~N/A~,20,8
 usar1243,Usarufa,ph,Usarufa - ~N/A~,17,5
-cham1312,Chamorro,upsid,CHAMORRO - ~N/A~,20,12
+cham1312,Chamorro,upsid,CHAMORRO - ~N/A~,20,6
 wayu1241,Hayu,ea,Hayu - ~N/A~,26,28
-japr1238,Japreria,upsid,JAPRERIA - ~N/A~,12,18
-tuvi1240,Tuvan,upsid,TUVA - ~N/A~,20,49
-toro1252,Toro So,aa,Dogon - ~N/A~,21,33
+japr1238,Japreria,upsid,JAPRERIA - ~N/A~,12,12
+tuvi1240,Tuvan,upsid,TUVA - ~N/A~,20,9
+toro1252,Toro So,aa,Dogon - ~N/A~,21,21
 kitu1246,Kituba,gm,Kituba - Kwilu,15,5
 usan1239,Usan,upsid,USAN - ~N/A~,14,6
 como1259,Comox,ph,Comox - ~N/A~,37,5
 baur1253,Baure,saphon,Baure - ~N/A~,14,4
-lakk1238,Lakkia,spa,Lakkia - ~N/A~,31,44
+lakk1238,Lakkia,spa,Lakkia - ~N/A~,31,22
 dual1243,Duala,aa,Duala - ~N/A~,21,7
-sind1272,Sindhi,ea,Sindhi - Sindhi (Jacobabad),47,57
-bata1289,Batak (Toba),spa,Batak - ~N/A~,16,19
-taus1251,Tausug,uz,Tausug (Suluk) - Jolo,20,6
+sind1272,Sindhi,ea,Sindhi - Sindhi (Jacobabad),47,17
+bata1289,Batak (Toba),spa,Batak - ~N/A~,16,5
+taus1251,Tausug,uz,Tausug (Suluk) - Jolo,20,3
 acol1236,Acholi,gm,Acholi - ~N/A~,17,9
-pure1242,Purépecha,upsid,TARASCAN - ~N/A~,33,12
+pure1242,Purépecha,upsid,TARASCAN - ~N/A~,33,6
 piap1246,Piapoco,saphon,Piapoco - ~N/A~,15,4
 kama1365,Woisika,upsid,WOISIKA - ~N/A~,16,12
 chip1262,Chipaya,saphon,Chipaya - ~N/A~,41,10
-gbay1281,Mbodomo,ph,Mbodomo; Mbódɔ̀mɔ́ - ~N/A~,28,14
-east2555,Chiriguano,saphon,Chiriguano - Chané dialect,12,24
-dier1241,Diyari,upsid,DIYARI - ~N/A~,22,9
+gbay1281,Mbodomo,ph,Mbodomo; Mbódɔ̀mɔ́ - ~N/A~,28,7
+east2555,Chiriguano,saphon,Chiriguano - Chané dialect,12,12
+dier1241,Diyari,upsid,DIYARI - ~N/A~,22,3
 narp1239,Nar-Phu,ea,Nar-Phu - Nar-Phu (Nar),25,24
-basq1248,Basque,upsid,BASQUE - ~N/A~,23,53
-taji1245,Tajik,ea,Tajik - Tajik (Bukhara),23,12
-doya1240,Doyayo,aa,Doayo - ~N/A~,22,34
-suii1243,Sui,ea,Sui - ~N/A~,46,22
+basq1248,Basque,upsid,BASQUE - ~N/A~,23,5
+taji1245,Tajik,ea,Tajik - Tajik (Bukhara),23,6
+doya1240,Doyayo,aa,Doayo - ~N/A~,22,22
+suii1243,Sui,ea,Sui - ~N/A~,46,15
 holo1240,Holoholo,gm,Holoholo - ~N/A~,17,7
-lele1276,Lele,aa,Lele - ~N/A~,23,20
+lele1276,Lele,aa,Lele - ~N/A~,23,10
 gaga1249,Gagauz,ea,Gagauz - Gagauz (Standard),28,18
 ibib1240,Ibibio,ph,Ibibio - Uruan area and Uyo,17,13
 mana1295,Manam,ph,Manam - ~N/A~,13,5
-kuru1302,Kurukh,upsid,KURUKH - ~N/A~,21,58
-jebe1250,Jebero,upsid,JEBERO - ~N/A~,19,8
-yura1255,Yuracare,saphon,Yurakaré - ~N/A~,18,14
+kuru1302,Kurukh,upsid,KURUKH - ~N/A~,21,11
+jebe1250,Jebero,upsid,JEBERO - ~N/A~,19,4
+yura1255,Yuracare,saphon,Yurakaré - ~N/A~,18,7
 dime1235,Dime,gm,Dime - ~N/A~,53,18
-east2328,Mari (Meadow),ea,Meadow Mari - Meadow Mari (Morki-Sernur),19,61
+east2328,Mari (Meadow),ea,Meadow Mari - Meadow Mari (Morki-Sernur),19,8
 ning1273,Ningil,ph,Ningil - ~N/A~,14,7
-kara1476,Karadjeri,ph,Garadjari - ~N/A~,17,7
-alaw1244,Alawa,spa,Alawa - ~N/A~,23,13
-thur1254,Dharawal,er,Dharumba - ~N/A~,19,12
-gbay1281,Mbodomo,gm,Mbodomo - ~N/A~,28,14
+kara1476,Karadjeri,ph,Garadjari - ~N/A~,17,3
+alaw1244,Alawa,spa,Alawa - ~N/A~,23,5
+thur1254,Dharawal,er,Dharumba - ~N/A~,19,6
+gbay1281,Mbodomo,gm,Mbodomo - ~N/A~,28,7
 mina1268,Minangkabau,gm,Minangkabau - Padang,23,10
 chol1284,Cholón,saphon,Cholón - ~N/A~,15,5
-kaya1329,Kayabí,saphon,Kayabí - ~N/A~,14,22
-ladi1251,Ladino,ea,Judaeo-Spanish - Judaeo-Spanish (Beiruti),20,19
-mand1415,Mandarin,spa,Mandarin Chinese - ~N/A~,27,61
+kaya1329,Kayabí,saphon,Kayabí - ~N/A~,14,12
+ladi1251,Ladino,ea,Judaeo-Spanish - Judaeo-Spanish (Beiruti),20,5
+mand1415,Mandarin,spa,Mandarin Chinese - ~N/A~,27,12
 kren1239,Krenak,saphon,Krenak - ~N/A~,22,13
-komi1268,Komi-Zyrian,spa,Komi - ~N/A~,29,21
-dupa1235,Agta (Dupaningan),ph,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta - ~N/A~,15,11
-finn1318,Finnish,ea,Finnish - Finnish (Standard),15,33
-doya1240,Doyayo,upsid,DOAYO - ~N/A~,22,34
+komi1268,Komi-Zyrian,spa,Komi - ~N/A~,29,7
+dupa1235,Agta (Dupaningan),ph,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta - ~N/A~,15,5
+finn1318,Finnish,ea,Finnish - Finnish (Standard),15,8
+doya1240,Doyayo,upsid,DOAYO - ~N/A~,22,12
 nort2627,Low German,ph,Low German - Ukrainian,23,14
 kaur1267,Kaurna,er,Kaurna - ~N/A~,20,5
 tama1365,Tamashek,aa,Tamasheq - ~N/A~,22,21
 djam1255,Jaminjung,er,Jaminjung - ~N/A~,18,4
-taji1245,Tajik,uz,Bukharan Tajik - Bukharan,23,12
+taji1245,Tajik,uz,Bukharan Tajik - Bukharan,23,6
 krah1246,Krahô,saphon,Krahô - ~N/A~,12,34
 saam1283,Luyia,gm,Lusaamia - ~N/A~,20,10
 puri1258,Purki,ea,Purki - ~N/A~,31,6
-taga1270,Tagalog,gm,Tagalog - ~N/A~,19,25
+taga1270,Tagalog,gm,Tagalog - ~N/A~,19,5
 soch1239,Chinantec (Sochiapan),ph,Sochiapan Chinantec - ~N/A~,18,14
-cent2050,Kanuri,aa,Kanuri - ~N/A~,18,19
-juan1238,Juang,ph,Juang - ~N/A~,19,40
-kala1399,Greenlandic (West),upsid,INUIT - ~N/A~,19,9
+cent2050,Kanuri,aa,Kanuri - ~N/A~,18,7
+juan1238,Juang,ph,Juang - ~N/A~,19,10
+kala1399,Greenlandic (West),upsid,INUIT - ~N/A~,19,3
 yagn1238,Yaghnobi,ea,Yaghnobi - ~N/A~,27,9
-luok1236,Luo,upsid,LUO - ~N/A~,23,27
-baka1277,Bakairí,saphon,Bakairí - Western dialect,16,38
-indo1316,Indonesian,ph,Indonesian - Central Java,22,17
+luok1236,Luo,upsid,LUO - ~N/A~,23,9
+baka1277,Bakairí,saphon,Bakairí - Western dialect,16,12
+indo1316,Indonesian,ph,Indonesian - Central Java,22,9
 yawu1244,Yawuru,er,Yawuru - ~N/A~,22,6
-anyi1245,Anyi,gm,Anyi - ~N/A~,21,44
-kain1272,Kaingang,saphon,Kaingang - ~N/A~,11,19
+anyi1245,Anyi,gm,Anyi - ~N/A~,21,14
+kain1272,Kaingang,saphon,Kaingang - ~N/A~,11,5
 guay1257,Guayabero,saphon,Guayabero - ~N/A~,16,6
 ngar1287,Ngarluma,er,Ngarluma - ~N/A~,20,3
 huic1243,Huichol,ph,Huichol - ~N/A~,15,10
-wayu1243,Goajiro,saphon,Wayúu - ~N/A~,14,36
+wayu1243,Goajiro,saphon,Wayúu - ~N/A~,14,6
 sout2697,Azerbaijani,ea,South Azerbaijani - South Azerbaijani (Tabriz),24,9
 tuki1240,Tuki,gm,Tuki - ~N/A~,25,10
-chiq1250,Mazatec (Chiquihuitlán),upsid,MAZATEC - ~N/A~,25,16
-poli1260,Polish,ph,Polish - ~N/A~,31,14
-nucl1310,Burmese,upsid,BURMESE - ~N/A~,33,66
+chiq1250,Mazatec (Chiquihuitlán),upsid,MAZATEC - ~N/A~,25,8
+poli1260,Polish,ph,Polish - ~N/A~,31,6
+nucl1310,Burmese,upsid,BURMESE - ~N/A~,33,13
 guny1241,Gunya,er,Gunya - ~N/A~,25,6
-cent1989,Khmer,upsid,KHMER - ~N/A~,21,71
-nort2980,Quechua (Tarma),saphon,Yaru Quechua - Yaru Quechua,19,15
-seda1262,Sedang,upsid,SEDANG - ~N/A~,41,28
-nyun1247,Nyungar,er,Wudjari - ~N/A~,17,25
-yano1262,Yanomámi,saphon,Yanomámi - ~N/A~,13,49
+cent1989,Khmer,upsid,KHMER - ~N/A~,21,21
+nort2980,Quechua (Tarma),saphon,Yaru Quechua - Yaru Quechua,19,3
+seda1262,Sedang,upsid,SEDANG - ~N/A~,41,14
+nyun1247,Nyungar,er,Wudjari - ~N/A~,17,5
+yano1262,Yanomámi,saphon,Yanomámi - ~N/A~,13,7
 gbay1288,Kresh,aa,Kresh - ~N/A~,41,10
 waru1264,Warrongo,er,Warungu - ~N/A~,13,4
-khas1269,Khasi,upsid,KHASI - ~N/A~,21,30
-west2441,Arrernte (Western),er,Western Arrernte - ~N/A~,40,7
+khas1269,Khasi,upsid,KHASI - ~N/A~,21,8
+west2441,Arrernte (Western),er,Western Arrernte - ~N/A~,40,4
 piar1243,Piaroa,saphon,Piaroa - ~N/A~,23,7
 guri1247,Gurindji,er,Gurindji - ~N/A~,17,6
-java1254,Javanese,gm,Javanese - Yogya-Solo,24,25
+java1254,Javanese,gm,Javanese - Yogya-Solo,24,9
 pohn1238,Pohnpeian,upsid,POHNPEIAN - ~N/A~,14,6
 pali1279,Palikur,saphon,Palikúr - ~N/A~,14,10
 yaga1260,Yagaria,upsid,YAGARIA - ~N/A~,14,9
-paiw1248,Paiwan,upsid,PAIWAN - ~N/A~,22,8
-bash1264,Bashkir,ea,Bashkir - Bashkir (Standard),28,22
-nucl1347,Wolof,upsid,WOLOF - ~N/A~,26,44
-pila1245,Pilagá,saphon,Pilagá - ~N/A~,18,8
-lako1247,Lakhota,spa,Dakota - ~N/A~,27,17
-hung1274,Hungarian,spa,Hungarian - ~N/A~,50,57
-gali1262,Carib,upsid,CARIB - ~N/A~,16,36
+paiw1248,Paiwan,upsid,PAIWAN - ~N/A~,22,4
+bash1264,Bashkir,ea,Bashkir - Bashkir (Standard),28,11
+nucl1347,Wolof,upsid,WOLOF - ~N/A~,26,14
+pila1245,Pilagá,saphon,Pilagá - ~N/A~,18,4
+lako1247,Lakhota,spa,Dakota - ~N/A~,27,9
+hung1274,Hungarian,spa,Hungarian - ~N/A~,50,15
+gali1262,Carib,upsid,CARIB - ~N/A~,16,6
 bade1248,Bade,gm,Bade - Western,33,9
-apuc1241,Great Andamanese,upsid,ANDAMANESE - ~N/A~,16,18
-nige1253,Fulfulde (Nigerian),gm,Fula (Nigeria) - Nigeria,28,20
+apuc1241,Great Andamanese,upsid,ANDAMANESE - ~N/A~,16,8
+nige1253,Fulfulde (Nigerian),gm,Fula (Nigeria) - Nigeria,28,10
 wamb1259,Wambon,ph,Wambon - ~N/A~,16,10
-thai1261,Thai,uz,Thai - Standard Thai (combinative style),21,48
+thai1261,Thai,uz,Thai - Standard Thai (combinative style),21,21
 guer1243,Amuzgo,upsid,AMUZGO - ~N/A~,25,12
-ngas1240,Angas,spa,Angas - ~N/A~,30,31
-dutc1256,Dutch,uz,Dutch - the Dutch dialect of Weert (West-Limburgian),24,212
+ngas1240,Angas,spa,Angas - ~N/A~,30,11
+dutc1256,Dutch,uz,Dutch - the Dutch dialect of Weert (West-Limburgian),24,30
 nyig1240,Nyigina,er,Nyikina - ~N/A~,17,3
 voti1245,Votic,ea,Votic - Votic (Jõgõperä),35,20
 nucl1695,Bole,ph,Bole - ~N/A~,28,10
@@ -1877,160 +1877,160 @@ naga1394,Naga Pidgin,ph,Nagamese - ~N/A~,26,21
 kuuk1238,Kuuku Ya'u,er,Kuugu Ya'u - ~N/A~,15,6
 bilu1245,Bilua,ph,Bilua - ~N/A~,16,25
 mini1256,Huitoto (Minica),saphon,Huitoto,18,6
-lamu1254,Lamu-Lamu,er,Tableland Lamalama - ~N/A~,26,6
-lith1251,Lithuanian,ea,Lithuanian - Lithuanian (South Samogitian),45,82
-swis1247,German (Appenzell),ea,Zurich German - ~N/A~,26,58
-kham1282,Kham (Dege),ea,Sangdam Tibetan - ~N/A~,49,180
-hebr1245,Hebrew (Modern Ashkenazic),spa,Modern Hebrew - ~N/A~,24,16
+lamu1254,Lamu-Lamu,er,Tableland Lamalama - ~N/A~,26,3
+lith1251,Lithuanian,ea,Lithuanian - Lithuanian (South Samogitian),45,12
+swis1247,German (Appenzell),ea,Zurich German - ~N/A~,26,29
+kham1282,Kham (Dege),ea,Sangdam Tibetan - ~N/A~,49,15
+hebr1245,Hebrew (Modern Ashkenazic),spa,Modern Hebrew - ~N/A~,24,6
 naxi1245,Naxi,upsid,NAXI - ~N/A~,38,11
 xokl1240,Xokleng,saphon,Xokleng - ~N/A~,19,18
-aghe1239,Aghem,upsid,AGHEM - ~N/A~,25,29
+aghe1239,Aghem,upsid,AGHEM - ~N/A~,25,10
 veps1250,Veps,ea,Veps - Veps (Šimozero),34,10
-yidi1250,Yidiny,er,Yidiny - ~N/A~,13,9
+yidi1250,Yidiny,er,Yidiny - ~N/A~,13,6
 koas1236,Koasati,ph,Koasati - ~N/A~,15,6
-bulg1262,Bulgarian,upsid,BULGARIAN - ~N/A~,36,31
+bulg1262,Bulgarian,upsid,BULGARIAN - ~N/A~,36,6
 loth1237,Lotha,ra,Lotha - ~N/A~,35,8
 doma1258,Domari,ea,Domari - Domari (Palestinian),33,12
-yagu1244,Yagua,upsid,YAGUA - ~N/A~,11,24
-aleu1260,Aleut (Eastern),spa,Aleut - ~N/A~,30,9
+yagu1244,Yagua,upsid,YAGUA - ~N/A~,11,12
+aleu1260,Aleut (Eastern),spa,Aleut - ~N/A~,30,6
 kete1252,Kete,gm,kete - ~N/A~,16,5
 nyaw1247,Nyawaygi,er,Nyawaygi - ~N/A~,12,6
-lakk1252,Lak,upsid,LAK - ~N/A~,60,28
-kwom1262,Kwoma,upsid,KWOMA - ~N/A~,24,14
-iumi1238,Mien,upsid,MIEN - ~N/A~,33,16
+lakk1252,Lak,upsid,LAK - ~N/A~,60,9
+kwom1262,Kwoma,upsid,KWOMA - ~N/A~,24,7
+iumi1238,Mien,upsid,MIEN - ~N/A~,33,8
 didi1258,Didinga,gm,Didinga - ~N/A~,36,18
 shaw1249,Shawnee,ph,Shawnee - ~N/A~,13,6
 darl1243,Paakantyi,er,Southern Paakintyi - ~N/A~,20,6
-beem1239,Beembe,upsid,BEEMBE - ~N/A~,16,30
-aika1237,Aikaná,saphon,Aikanã - ~N/A~,15,20
+beem1239,Beembe,upsid,BEEMBE - ~N/A~,16,10
+aika1237,Aikaná,saphon,Aikanã - ~N/A~,15,10
 tewa1260,Tewa (Arizona),spa,Tewa - ~N/A~,34,19
-gali1262,Carib,saphon,Carib - French Guiana dialect,11,36
+gali1262,Carib,saphon,Carib - French Guiana dialect,11,6
 dyul1238,Dyula,aa,Dioula - ~N/A~,23,14
-kari1311,Karitiâna,ph,Karitiana; Karitiâna - ~N/A~,11,34
-khan1273,Khanty,ea,Northern Khanty - Northern Khanty (Polui Obdorsk),16,68
+kari1311,Karitiâna,ph,Karitiana; Karitiâna - ~N/A~,11,14
+khan1273,Khanty,ea,Northern Khanty - Northern Khanty (Polui Obdorsk),16,10
 tzot1259,Tzotzil,ph,Tzotzil,21,5
-katc1249,Kadugli,gm,Kadugli (Katcha) - Katcha,39,65
-mats1244,Matsés,ph,Matses - ~N/A~,15,12
+katc1249,Kadugli,gm,Kadugli (Katcha) - Katcha,39,20
+mats1244,Matsés,ph,Matses - ~N/A~,15,6
 lard1243,Lardil,er,Lardil - ~N/A~,17,8
 west2454,Ful (Liptako),aa,Fulfulde - Fulfulde (Burkina Faso),27,5
-luis1253,Luiseño,upsid,LUISENO - ~N/A~,21,16
-kara1474,Karata,ea,Karata - ~N/A~,46,18
+luis1253,Luiseño,upsid,LUISENO - ~N/A~,21,5
+kara1474,Karata,ea,Karata - ~N/A~,46,10
 tana1290,Tanacross,ph,Tanacross - ~N/A~,35,14
 kwan1273,Kwangali,gm,kwangari - ~N/A~,22,5
 beli1260,Mískito Coast English Creole,ph,Belizean Creole - ~N/A~,22,13
 siar1238,Siar,ph,Siar-Lak - ~N/A~,15,7
-bett1235,Betta Kurumba,ea,Betta Kurumba - ~N/A~,22,30
-besi1244,Mah Meri,ea,Mah Meri - ~N/A~,30,56
-tulu1258,Tulu,ea,Tulu - ~N/A~,21,39
-urdu1245,Urdu,ea,Urdu - ~N/A~,37,40
-yidi1250,Yidiny,upsid,YIDINY - ~N/A~,13,9
-bulg1262,Bulgarian,spa,Bulgarian - ~N/A~,37,31
+bett1235,Betta Kurumba,ea,Betta Kurumba - ~N/A~,22,15
+besi1244,Mah Meri,ea,Mah Meri - ~N/A~,30,28
+tulu1258,Tulu,ea,Tulu - ~N/A~,21,14
+urdu1245,Urdu,ea,Urdu - ~N/A~,37,21
+yidi1250,Yidiny,upsid,YIDINY - ~N/A~,13,3
+bulg1262,Bulgarian,spa,Bulgarian - ~N/A~,37,12
 nisg1240,Nisgha,ph,Nishgha - ~N/A~,32,10
 sich1238,Nuosu,ea,Nuosu - Nuosu (Black Yi),58,16
 dolg1241,Dolgan,ea,Dolgan - ~N/A~,22,20
 paum1247,Paumarí,saphon,Paumarí - ~N/A~,22,6
 waru1265,Warumungu,er,Warumungu - ~N/A~,22,6
-mull1237,Malakmalak,upsid,MALAKMALAK - ~N/A~,14,10
+mull1237,Malakmalak,upsid,MALAKMALAK - ~N/A~,14,5
 ling1263,Lingala,aa,Lingala - ~N/A~,15,7
-stan1289,Catalan,ea,Catalan - Catalan (Southern Valencian),25,45
+stan1289,Catalan,ea,Catalan - Catalan (Southern Valencian),25,9
 ngad1261,Ngad'a,ph,Ngad''a; Ngadha' - ~N/A~,21,6
 iwai1244,Iwaidja,er,Iwaidja - ~N/A~,20,3
 tong1318,Tonga (in Zambia),gm,Shanjo - ~N/A~,33,5
 nort2775,Gbaya (Northwest),aa,Gbaya - Gbaya (Northwest,30,19
 mada1293,Mada (in Cameroon),ph,Mada - Rija,22,13
-movi1243,Movima,upsid,MOVIMA - ~N/A~,18,15
-tiwi1244,Tiwi,er,Tiwi - ~N/A~,18,12
+movi1243,Movima,upsid,MOVIMA - ~N/A~,18,5
+tiwi1244,Tiwi,er,Tiwi - ~N/A~,18,4
 sund1252,Sundanese,spa,Sundanese - ~N/A~,19,7
 avat1244,Avatime,gm,Avatime - ~N/A~,28,18
-egyp1253,Arabic (Egyptian),spa,Egyptian Arabic - ~N/A~,58,17
+egyp1253,Arabic (Egyptian),spa,Egyptian Arabic - ~N/A~,58,9
 miju1243,Miju,ra,Mishmi - ~N/A~,34,16
-chip1261,Chipewyan,spa,Chipewyan - ~N/A~,39,32
-cent1989,Khmer,ea,Central Khmer - ~N/A~,17,71
+chip1261,Chipewyan,spa,Chipewyan - ~N/A~,39,18
+cent1989,Khmer,ea,Central Khmer - ~N/A~,17,29
 otor1240,Otoro,gm,Otoro - ~N/A~,30,14
 uppe1395,Sorbian (Upper),ea,Upper Sorbian - ~N/A~,33,9
-guan1269,Guanano,ph,Wanano - ~N/A~,16,18
-qawa1238,Qawasqar,saphon,Alacalufe - Southern,18,15
-waim1255,Waimaha,spa,Barasano - ~N/A~,11,36
+guan1269,Guanano,ph,Wanano - ~N/A~,16,6
+qawa1238,Qawasqar,saphon,Alacalufe - Southern,18,6
+waim1255,Waimaha,spa,Barasano - ~N/A~,11,12
 orej1242,Orejón,saphon,Máíhɨki - ~N/A~,14,6
 onei1249,Oneida,spa,Oneida - ~N/A~,10,12
 taus1253,Taushiro,saphon,Taushiro - ~N/A~,12,5
-konk1267,Konkani,upsid,KONKANI - ~N/A~,19,28
-pira1253,Pirahã,saphon,Pirahã - ~N/A~,8,6
-hupd1244,Hup,saphon,Hup - ~N/A~,19,24
-wich1260,Wichita,upsid,WICHITA - ~N/A~,21,16
+konk1267,Konkani,upsid,KONKANI - ~N/A~,19,18
+pira1253,Pirahã,saphon,Pirahã - ~N/A~,8,3
+hupd1244,Hup,saphon,Hup - ~N/A~,19,15
+wich1260,Wichita,upsid,WICHITA - ~N/A~,21,8
 kpan1246,Kpan,upsid,KPAN - ~N/A~,24,10
 here1253,Herero,gm,herero - ~N/A~,19,5
 mbaa1245,Mba,upsid,MBA-NE - ~N/A~,24,7
-guan1269,Guanano,saphon,Wanano - ~N/A~,16,18
+guan1269,Guanano,saphon,Wanano - ~N/A~,16,12
 crow1244,Crow,ph,Crow - ~N/A~,10,10
-chip1261,Chipewyan,upsid,CHIPEWYAN - ~N/A~,38,32
-pira1253,Pirahã,upsid,PIRAHA - ~N/A~,8,6
-tatu1247,Tatuyo,ph,Tatuyo - ~N/A~,11,12
-east2555,Chiriguano,saphon,Chiriguano - Izoceño dialect,12,24
-epen1239,Epena Pedee,saphon,Epena - ~N/A~,17,35
-trum1247,Trumai,upsid,TRUMAI - ~N/A~,18,12
+chip1261,Chipewyan,upsid,CHIPEWYAN - ~N/A~,38,14
+pira1253,Pirahã,upsid,PIRAHA - ~N/A~,8,3
+tatu1247,Tatuyo,ph,Tatuyo - ~N/A~,11,6
+east2555,Chiriguano,saphon,Chiriguano - Izoceño dialect,12,12
+epen1239,Epena Pedee,saphon,Epena - ~N/A~,17,21
+trum1247,Trumai,upsid,TRUMAI - ~N/A~,18,6
 yuru1263,Yuruti,saphon,Yurutí - ~N/A~,11,6
-dann1241,Dan,aa,Dan - ~N/A~,20,83
-iris1253,Irish (Donegal),ea,Irish - Irish (Gaoth Dobhair),35,95
+dann1241,Dan,aa,Dan - ~N/A~,20,23
+iris1253,Irish (Donegal),ea,Irish - Irish (Gaoth Dobhair),35,14
 wola1242,Wolaytta,gm,Welamo - ~N/A~,38,10
-balt1258,Balti,ra,Balti - ~N/A~,35,23
-tatu1247,Tatuyo,saphon,Tatuyo - ~N/A~,11,12
+balt1258,Balti,ra,Balti - ~N/A~,35,18
+tatu1247,Tatuyo,saphon,Tatuyo - ~N/A~,11,6
 emer1243,Émérillon,saphon,Emerillon - ~N/A~,16,14
-hupd1244,Hup,ph,Hup - ~N/A~,20,24
+hupd1244,Hup,ph,Hup - ~N/A~,20,9
 quil1240,Quileute,upsid,QUILEUTE - ~N/A~,33,4
 tuyu1244,Tuyuca,saphon,Tuyuca - ~N/A~,11,12
-ando1256,Andoke,upsid,ANDOKE - ~N/A~,11,39
+ando1256,Andoke,upsid,ANDOKE - ~N/A~,11,15
 sout2994,Nambikuára (Southern),upsid,SOUTHERN NAMBIQUARA - ~N/A~,25,18
-siri1273,Sirionó,upsid,SIRIONO - ~N/A~,16,34
-ando1256,Andoke,saphon,Andoke - ~N/A~,11,39
+siri1273,Sirionó,upsid,SIRIONO - ~N/A~,16,12
+ando1256,Andoke,saphon,Andoke - ~N/A~,11,24
 kris1246,I'saka,ph,Isaka - ~N/A~,9,5
-apin1244,Apinayé,upsid,APINAYE - ~N/A~,13,69
+apin1244,Apinayé,upsid,APINAYE - ~N/A~,13,17
 kara1500,Karajá,saphon,Karajá - ~N/A~,9,15
-kain1272,Kaingang,upsid,KAINGANG - ~N/A~,13,19
-sanm1295,Mixtec (Chalcatongo),upsid,MIXTEC - ~N/A~,15,20
-yuch1247,Yuchi,spa,Yuchi - ~N/A~,38,45
+kain1272,Kaingang,upsid,KAINGANG - ~N/A~,13,14
+sanm1295,Mixtec (Chalcatongo),upsid,MIXTEC - ~N/A~,15,10
+yuch1247,Yuchi,spa,Yuchi - ~N/A~,38,26
 nate1242,Nateni,gm,Nateni - ~N/A~,13,24
 tani1257,Retuarã,saphon,Tanimuca-Retuarã - ~N/A~,11,10
 nuka1242,Nukak,saphon,Nukak - ~N/A~,12,12
-cube1242,Cubeo,saphon,Kubeo - ~N/A~,11,18
+cube1242,Cubeo,saphon,Kubeo - ~N/A~,11,6
 pira1254,Piratapuyo,saphon,Piratapuyo - ~N/A~,12,12
-epen1239,Epena Pedee,upsid,EPENA PEDEE - ~N/A~,17,35
+epen1239,Epena Pedee,upsid,EPENA PEDEE - ~N/A~,17,14
 roto1249,Rotokas,upsid,ROTOKAS - ~N/A~,6,5
 weno1238,Wobe,aa,Wobé - ~N/A~,15,27
-waim1255,Waimaha,upsid,BARASANO - ~N/A~,11,36
+waim1255,Waimaha,upsid,BARASANO - ~N/A~,11,12
 bila1255,Bila,gm,bila - ~N/A~,19,9
-yuch1247,Yuchi,upsid,YUCHI - ~N/A~,38,45
+yuch1247,Yuchi,upsid,YUCHI - ~N/A~,38,8
 kinn1249,Kinnauri,ph,Kinnauri; Kanauri - Himachal Pradesh; Kalpa,31,15
 wann1242,Wan,aa,Wan - ~N/A~,21,12
-lamb1269,Lamani,ra,Banjara - ~N/A~,24,28
-sout2965,Salish (Southern Puget Sound),upsid,LUSHOOTSEED - ~N/A~,33,11
+lamb1269,Lamani,ra,Banjara - ~N/A~,24,10
+sout2965,Salish (Southern Puget Sound),upsid,LUSHOOTSEED - ~N/A~,33,4
 tuca1252,Tucano,saphon,Tucano - ~N/A~,15,12
-mofu1248,Mofu-Gudur,gm,Mofu,35,12
-wich1260,Wichita,spa,Wichita - ~N/A~,21,16
-cube1242,Cubeo,upsid,CUBEO - ~N/A~,11,18
-tapi1253,Tapieté,saphon,Tapieté - ~N/A~,15,24
-lyel1241,Lyele,ph,Lele (Lyélé) - Variety spoken in Debreng,21,26
-waim1255,Waimaha,saphon,Waimaha - ~N/A~,10,36
-apin1244,Apinayé,spa,Apinaye - ~N/A~,14,69
+mofu1248,Mofu-Gudur,gm,Mofu,35,5
+wich1260,Wichita,spa,Wichita - ~N/A~,21,8
+cube1242,Cubeo,upsid,CUBEO - ~N/A~,11,12
+tapi1253,Tapieté,saphon,Tapieté - ~N/A~,15,12
+lyel1241,Lyele,ph,Lele (Lyélé) - Variety spoken in Debreng,21,10
+waim1255,Waimaha,saphon,Waimaha - ~N/A~,10,12
+apin1244,Apinayé,spa,Apinaye - ~N/A~,14,35
 wari1266,Waris,upsid,WARIS - ~N/A~,13,9
 tlin1245,Tlingit,upsid,TLINGIT - ~N/A~,43,5
 waur1244,Waurá,saphon,Waurá - ~N/A~,16,10
 cara1272,Carapana,saphon,Karapanã - ~N/A~,11,12
 bara1380,Barasano,saphon,Barasana-Eduria - ~N/A~,11,6
-yuch1247,Yuchi,ph,Euchee; Yuchi - ~N/A~,38,45
-hakk1236,Hakka,upsid,HAKKA - ~N/A~,16,44
+yuch1247,Yuchi,ph,Euchee; Yuchi - ~N/A~,38,11
+hakk1236,Hakka,upsid,HAKKA - ~N/A~,16,6
 macu1260,Macuna,saphon,Macuna - ~N/A~,10,12
-maxa1247,Maxakalí,upsid,MAXAKALI - ~N/A~,10,20
-tapi1253,Tapieté,ph,Tapiete - ~N/A~,15,24
+maxa1247,Maxakalí,upsid,MAXAKALI - ~N/A~,10,10
+tapi1253,Tapieté,ph,Tapiete - ~N/A~,15,12
 siri1274,Siriano,saphon,Siriano - ~N/A~,11,12
 desa1247,Desano,saphon,Desano - ~N/A~,12,6
-para1311,Guaraní,saphon,Paraguayan Guaraní - ~N/A~,18,36
-iris1253,Irish (Donegal),spa,Irish Gaelic - ~N/A~,44,95
-iris1253,Irish (Donegal),uz,Irish - ~N/A~,35,95
-iris1253,Irish (Donegal),upsid,IRISH - ~N/A~,45,95
-akan1250,Akan,spa,Akan - ~N/A~,22,68
+para1311,Guaraní,saphon,Paraguayan Guaraní - ~N/A~,18,12
+iris1253,Irish (Donegal),spa,Irish Gaelic - ~N/A~,44,24
+iris1253,Irish (Donegal),uz,Irish - ~N/A~,35,15
+iris1253,Irish (Donegal),upsid,IRISH - ~N/A~,45,24
+akan1250,Akan,spa,Akan - ~N/A~,22,15
 xava1240,Xavánte,saphon,Xavánte - ~N/A~,11,13
 zoog1238,Zapotec (Zoogocho),ph,San Bartolomé Zoogocho Zapotec - zxon,28,32
-hakk1236,Hakka,spa,Hakka - ~N/A~,21,44
+hakk1236,Hakka,spa,Hakka - ~N/A~,21,6
 klao1243,Klao,upsid,KLAO - ~N/A~,11,16
-iris1253,Irish (Donegal),ea,Irish - Irish (Corca Dhuibhne),34,95
+iris1253,Irish (Donegal),ea,Irish - Irish (Corca Dhuibhne),34,18
