@@ -20,10 +20,28 @@ def plot_phoneme_inventory_size():
 # plot_phoneme_inventory_size()
 
 # %%
-def plot_vowel_consonant():
+def count_couple():
     data = pd.read_csv("../data/neo4j/consonant_vowel_by_dialect.csv")
+    dic_cons = dict()
+    for idx, row in data.iterrows():
+        if row["Consonant"] not in dic_cons:
+            dic_cons[row["Consonant"]] = dict()
+            dic_cons[row["Consonant"]][row["Vowel"]] = 1
+        else:
+            if row["Vowel"] not in dic_cons[row["Consonant"]]:
+                dic_cons[row["Consonant"]][row["Vowel"]] = 1
+            else:
+                dic_cons[row["Consonant"]][row["Vowel"]] += 1
+    for i, row in data.iterrows():
+        data.at[i, 'Group'] = dic_cons[row["Consonant"]][row["Vowel"]]
+    return data
+
+
+
+def plot_vowel_consonant():
+    data = count_couple()
     sns.set(rc={"figure.figsize": (15, 25)})
-    sns.scatterplot(data=data, x=data["Consonant"], y=data["Vowel"])
+    sns.scatterplot(data=data, x=data["Consonant"], y=data["Vowel"], hue=data["Group"])
     plt.show()
 
 
