@@ -33,5 +33,13 @@ MATCH (L)-[r:PHON]->(P)
 WHERE P.type = "consonant"
 WITH r.Dataset as ds, r.Dialect as dial, L, Count(P) as consonant
 MATCH (L)-[r:PHON]->(P)
-WHERE P.type = "vowel"
+WHERE P.type = "vowel" AND r.Dataset = ds AND r.Dialect = dial
 RETURN L.glottocode, L.name as name, ds as dataset, dial as dialect, consonant, COUNT(P) as vowel
+
+### TOP 20 LANGUAGE BY NUMBER OF PHONEME WITH MORE THAN 100 WALS FEATURES
+
+MATCH (L)-[ph:PHON|FEAT]->()
+WHERE COUNT(ph) >= 100 
+RETURN L.glottocode, L.name, COUNT(ph)
+ORDER BY DESC COUNT(ph)
+LIMIT 20
