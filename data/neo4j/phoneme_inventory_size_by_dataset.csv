@@ -1,0 +1,1882 @@
+﻿L.glottocode,name,ds,AVG(c)
+abip1241,Abipón,upsid,20.0
+abip1241,Abipón,saphon,23.0
+abkh1244,Abkhaz,ea,66.0
+alab1237,Alabama,spa,21.0
+alab1237,Alabama,upsid,17.0
+ache1246,Aché,upsid,21.0
+ache1246,Aché,saphon,34.0
+achu1247,Achumawi,upsid,23.0
+west2632,Acoma,upsid,51.0
+ando1256,Andoke,saphon,35.0
+ando1256,Andoke,upsid,26.0
+adze1240,Adzera,upsid,25.0
+adze1240,Adzera,spa,25.0
+aleu1260,Aleut (Eastern),spa,36.0
+aleu1260,Aleut (Eastern),upsid,27.0
+egyp1253,Arabic (Egyptian),spa,67.0
+egyp1253,Arabic (Egyptian),upsid,35.0
+aghe1239,Aghem,upsid,35.0
+aghe1239,Aghem,gm,49.0
+ahte1237,Ahtna,upsid,35.0
+aika1237,Aikaná,upsid,32.0
+aika1237,Aikaná,saphon,25.0
+ainu1240,Ainu,spa,17.0
+ainu1240,Ainu,upsid,16.0
+apro1235,Aizi,upsid,33.0
+akan1250,Akan,gm,60.0
+akan1250,Akan,upsid,35.0
+akan1250,Akan,aa,31.0
+akan1250,Akan,spa,40.0
+akaw1239,Akawaio,saphon,21.0
+akaw1239,Akawaio,upsid,23.0
+alam1246,Alamblak,upsid,25.0
+gheg1238,Albanian,ea,43.0
+alla1248,Alladian,gm,36.0
+alla1248,Alladian,upsid,36.0
+alaw1244,Alawa,spa,28.0
+alaw1244,Alawa,er,26.0
+alaw1244,Alawa,upsid,26.0
+amah1246,Amahuaca,spa,22.0
+amah1246,Amahuaca,saphon,23.0
+amah1246,Amahuaca,upsid,22.0
+amel1241,Amele,upsid,20.0
+amha1245,Amharic,spa,59.0
+amha1245,Amharic,upsid,37.0
+amha1245,Amharic,uz,68.0
+amoo1242,Amo,upsid,35.0
+east2379,Arrernte (Mparntwe),uz,31.0
+east2379,Arrernte (Mparntwe),er,44.0
+east2379,Arrernte (Mparntwe),upsid,30.0
+yane1238,Amuesha,spa,29.0
+yane1238,Amuesha,saphon,33.0
+yane1238,Amuesha,upsid,26.0
+guer1243,Amuzgo,upsid,37.0
+arao1248,Araona,saphon,23.0
+ngas1240,Angas,spa,44.0
+ngas1240,Angas,aa,36.0
+ngas1240,Angas,upsid,43.0
+anga1290,Angaataha,upsid,21.0
+aona1235,Ao,ra,35.0
+aona1235,Ao,upsid,20.0
+apin1244,Apinayé,spa,49.0
+apin1244,Apinayé,saphon,34.0
+apin1244,Apinayé,upsid,30.0
+apur1254,Apurinã,ph,40.0
+apur1254,Apurinã,saphon,34.0
+arab1268,Arabela,saphon,29.0
+arab1268,Arabela,upsid,18.0
+arch1244,Archi,upsid,91.0
+nucl1235,Armenian (Eastern),spa,37.0
+nucl1235,Armenian (Eastern),upsid,36.0
+tamn1235,Asmat,upsid,17.0
+tamn1235,Asmat,spa,19.0
+atay1247,Atayal,spa,27.0
+atay1247,Atayal,ea,24.0
+atay1247,Atayal,upsid,26.0
+avar1256,Avar,ea,64.0
+avar1256,Avar,upsid,49.0
+awng1244,Awngi,spa,39.0
+awng1244,Awngi,upsid,35.0
+awng1244,Awngi,gm,39.0
+awac1239,Awa Pit,saphon,26.0
+awac1239,Awa Pit,ph,21.0
+cent2142,Aymara (Central),saphon,31.5
+sout2697,Azerbaijani,ea,33.0
+bagi1246,Bagirmi,gm,48.0
+cent2004,Bai,upsid,29.0
+indo1317,Bajau (Sama),upsid,32.0
+bamb1269,Bambara,gm,58.0
+bamb1269,Bambara,aa,43.0
+bamb1269,Bambara,upsid,35.0
+sout2840,Bobo Madaré (Northern),ph,38.0
+bell1243,Bella Coola,upsid,31.0
+beem1239,Beembe,spa,41.0
+beem1239,Beembe,upsid,26.0
+beja1238,Beja,upsid,26.0
+beng1280,Bengali,ea,47.0
+beng1280,Bengali,spa,53.0
+beng1280,Bengali,ra,48.0
+beng1280,Bengali,upsid,43.0
+beng1280,Bengali,uz,72.0
+bert1248,Berta,upsid,29.0
+dalo1238,Bété,upsid,37.0
+bero1242,Birom,aa,31.0
+bero1242,Birom,upsid,29.0
+biss1248,Bisa,aa,41.0
+biss1248,Bisa,upsid,24.0
+baka1277,Bakairí,upsid,29.0
+baka1277,Bakairí,saphon,29.0
+bata1293,Batak (Karo),gm,24.0
+cent2194,Berber (Middle Atlas),gm,39.0
+qaqe1238,Qaget,upsid,22.0
+waim1255,Waimaha,saphon,22.0
+waim1255,Waimaha,spa,25.0
+waim1255,Waimaha,upsid,23.0
+bodo1269,Bodo,upsid,21.0
+lave1249,Brao,upsid,31.0
+baat1238,Bariba,aa,31.0
+baat1238,Bariba,upsid,30.0
+bard1255,Bardi,uz,25.0
+bard1255,Bardi,er,24.0
+bard1255,Bardi,upsid,24.0
+bret1244,Breton,ea,66.0
+bret1244,Breton,upsid,45.0
+bret1244,Breton,spa,42.0
+brah1256,Brahui,upsid,33.0
+brah1256,Brahui,ea,43.0
+brib1243,Bribri,upsid,27.0
+nucl1310,Burmese,spa,50.0
+nucl1310,Burmese,uz,54.0
+nucl1310,Burmese,ea,54.0
+nucl1310,Burmese,upsid,46.0
+boro1282,Bororo,saphon,22.0
+boro1282,Bororo,upsid,20.0
+west2397,Bru (Western),upsid,42.0
+bash1264,Bashkir,ea,39.0
+bash1264,Bashkir,upsid,38.0
+basq1248,Basque,ea,31.0
+basq1248,Basque,upsid,28.0
+basq1248,Basque,uz,35.0
+basq1248,Basque,spa,28.0
+bata1289,Batak (Toba),ph,27.0
+bata1289,Batak (Toba),upsid,21.0
+bata1289,Batak (Toba),spa,21.0
+bura1267,Burarra,er,26.0
+bura1267,Burarra,upsid,21.0
+bulg1262,Bulgarian,upsid,42.0
+bulg1262,Bulgarian,ea,43.0
+bulg1262,Bulgarian,uz,30.0
+bulg1262,Bulgarian,spa,49.0
+buru1296,Burushaski,spa,53.0
+buru1296,Burushaski,ea,51.666666666666664
+buru1296,Burushaski,upsid,43.0
+cacu1241,Cacua,saphon,26.0
+cacu1241,Cacua,upsid,22.0
+cadd1256,Caddo,upsid,23.0
+cams1241,Camsá,saphon,27.0
+cams1241,Camsá,upsid,28.0
+gali1262,Carib,saphon,15.666666666666666
+gali1262,Carib,spa,28.0
+gali1262,Carib,upsid,22.0
+asha1243,Campa (Axininca),spa,21.0
+asha1243,Campa (Axininca),upsid,19.0
+asha1243,Campa (Axininca),saphon,22.0
+chac1249,Cayapa,saphon,27.0
+chac1249,Cayapa,spa,28.0
+chac1249,Cayapa,upsid,28.0
+chic1270,Chickasaw,ph,25.0
+cham1312,Chamorro,spa,36.0
+cham1312,Chamorro,upsid,26.0
+cher1273,Cherokee,upsid,17.0
+chuk1273,Chukchi,spa,22.0
+chuk1273,Chukchi,ea,20.0
+chuk1273,Chukchi,upsid,22.0
+uppe1439,Chehalis (Upper),upsid,34.0
+chip1261,Chipewyan,upsid,52.0
+chip1261,Chipewyan,spa,61.0
+quio1240,Chinantec (Quiotepec),upsid,41.0
+niva1238,Nivacle,saphon,28.0
+niva1238,Nivacle,upsid,28.0
+chuv1255,Chuvash,upsid,30.0
+chuv1255,Chuvash,spa,39.0
+leal1235,Chinantec (Lealao),ph,35.0
+coma1245,Comanche,ph,18.0
+cane1242,Canela,saphon,29.0
+yuec1235,Cantonese,uz,48.0
+yuec1235,Cantonese,ea,41.0
+yuec1235,Cantonese,spa,32.0
+yuec1235,Cantonese,upsid,25.0
+cofa1242,Cofán,upsid,35.0
+cofa1242,Cofán,saphon,37.0
+west2644,Chatino (Sierra Occidental),upsid,25.0
+tedi1235,Chin (Tiddim),upsid,26.0
+stan1289,Catalan,ph,39.0
+stan1289,Catalan,ea,34.666666666666664
+cube1242,Cubeo,upsid,23.0
+cube1242,Cubeo,saphon,17.0
+chua1250,Chuave,upsid,17.0
+cayu1262,Cayuvava,upsid,33.0
+cayu1262,Cayuvava,saphon,33.0
+dadi1250,Dadibi,upsid,23.0
+daha1245,Dahalo,upsid,59.0
+dann1241,Dan,gm,92.0
+dann1241,Dan,aa,48.0
+dann1241,Dan,upsid,39.0
+darf1239,Daju (Dar Fur),upsid,30.0
+dera1245,Dla (Proper),upsid,17.0
+dagb1246,Dagbani,aa,31.0
+dagb1246,Dagbani,upsid,29.0
+dagb1246,Dagbani,spa,37.0
+daur1238,Dagur,ea,57.0
+daur1238,Dagur,upsid,29.0
+kumi1248,Diegueño (Mesa Grande),upsid,34.0
+kumi1248,Diegueño (Mesa Grande),spa,34.0
+nort2815,Dinka,upsid,32.0
+jola1263,Diola-Fogny,aa,29.0
+jola1263,Diola-Fogny,upsid,29.0
+dier1241,Diyari,er,24.5
+dier1241,Diyari,upsid,25.0
+dizi1235,Dizi,upsid,30.0
+dhuw1249,Djapu,upsid,23.0
+lowe1415,Dani (Lower Grand Valley),upsid,24.0
+dang1274,Dangaléat (Western),upsid,28.0
+doya1240,Doyayo,upsid,34.0
+doya1240,Doyayo,aa,48.0
+toro1252,Toro So,upsid,28.0
+toro1252,Toro So,aa,42.0
+vani1248,Dumo,upsid,28.0
+dyir1250,Dyirbal,er,16.0
+dyir1250,Dyirbal,upsid,16.0
+efik1245,Efik,upsid,20.0
+ejag1239,Ejagham,upsid,27.0
+ejag1239,Ejagham,gm,29.0
+ejag1239,Ejagham,aa,32.0
+ekar1243,Ekari,upsid,15.0
+stan1293,English,ea,42.0
+stan1293,English,uz,41.0
+stan1293,English,spa,40.0
+epen1239,Epena Pedee,upsid,31.0
+epen1239,Epena Pedee,saphon,38.0
+even1259,Evenki,uz,29.0
+even1259,Evenki,ea,25.0
+even1260,Even,upsid,27.0
+even1260,Even,ea,36.0
+even1260,Even,spa,36.0
+ewee1241,Ewe,spa,45.0
+ewee1241,Ewe,upsid,40.0
+ewee1241,Ewe,aa,42.0
+ewon1239,Ewondo,upsid,34.0
+ewon1239,Ewondo,aa,25.0
+eyak1241,Eyak,upsid,45.0
+fasu1242,Fasu,upsid,21.0
+fefe1239,Fe'fe',upsid,25.0
+fefe1239,Fe'fe',aa,44.0
+fiji1243,Fijian,upsid,30.0
+finn1318,Finnish,upsid,25.0
+finn1318,Finnish,ea,23.0
+finn1318,Finnish,spa,42.0
+stan1290,French,uz,36.0
+stan1290,French,spa,40.0
+stan1290,French,upsid,37.0
+stan1290,French,ea,34.0
+fuln1247,Fulniô,upsid,30.0
+fuln1247,Fulniô,saphon,33.0
+furr1244,Fur,upsid,30.0
+mind1253,Fuzhou,upsid,21.0
+mind1253,Fuzhou,ea,35.0
+gaaa1244,Gã,aa,38.0
+gaaa1244,Gã,spa,47.0
+gaaa1244,Gã,upsid,41.0
+apuc1241,Great Andamanese,ra,35.0
+apuc1241,Great Andamanese,upsid,24.0
+garo1247,Garo,spa,26.0
+garo1247,Garo,ra,21.0
+gbay1287,Gbeya Bossangoa,spa,45.0
+gbay1287,Gbeya Bossangoa,aa,45.0
+gbay1287,Gbeya Bossangoa,upsid,43.0
+gads1258,Gadsup,upsid,15.0
+gads1258,Gadsup,spa,19.0
+nucl1302,Georgian,uz,33.0
+nucl1302,Georgian,upsid,34.0
+nucl1302,Georgian,ea,33.0
+nucl1302,Georgian,spa,35.0
+stan1295,German,spa,39.0
+stan1295,German,upsid,41.0
+stan1295,German,ea,40.0
+stan1295,German,uz,40.0
+guah1255,Guahibo,upsid,29.0
+guah1255,Guahibo,saphon,35.0
+qaua1234,Gelao,upsid,43.0
+guam1248,Guambiano,saphon,25.0
+guam1248,Guambiano,upsid,24.0
+wayu1243,Goajiro,spa,46.0
+wayu1243,Goajiro,upsid,26.0
+wayu1243,Goajiro,saphon,20.0
+goon1238,Gooniyandi,er,23.0
+mode1248,Greek (Modern),uz,32.0
+mode1248,Greek (Modern),spa,26.0
+mode1248,Greek (Modern),ea,29.0
+mode1248,Greek (Modern),upsid,26.0
+gara1269,Garrwa,er,17.0
+gara1269,Garrwa,upsid,22.0
+kala1399,Greenlandic (West),spa,38.0
+kala1399,Greenlandic (West),upsid,22.0
+para1311,Guaraní,spa,36.0
+para1311,Guaraní,upsid,36.0
+para1311,Guaraní,saphon,30.0
+gbag1258,Gwari,upsid,26.0
+hadz1240,Hadza,upsid,62.0
+hakk1236,Hakka,spa,31.0
+hakk1236,Hakka,upsid,22.0
+hakk1236,Hakka,uz,47.0
+hakk1236,Hakka,ea,39.0
+haus1257,Hausa,aa,37.0
+haus1257,Hausa,spa,45.0
+haus1257,Hausa,upsid,38.0
+haus1257,Hausa,uz,46.0
+hawa1245,Hawaiian,spa,19.0
+hawa1245,Hawaiian,upsid,13.0
+hebr1245,Hebrew (Modern Ashkenazic),ea,25.0
+hebr1245,Hebrew (Modern Ashkenazic),spa,30.0
+hebr1245,Hebrew (Modern Ashkenazic),uz,27.0
+hind1269,Hindi,spa,94.0
+hind1269,Hindi,upsid,61.0
+hind1269,Hindi,ea,55.0
+hind1269,Hindi,ra,58.0
+hind1269,Hindi,uz,74.0
+hixk1239,Hixkaryana,saphon,23.0
+hixk1239,Hixkaryana,upsid,23.0
+hame1242,Hamer,upsid,35.0
+minn1241,Min (Southern),upsid,25.0
+hopi1249,Hopi,spa,49.0
+hopi1249,Hopi,upsid,28.0
+huas1242,Huastec,ph,36.0
+huas1242,Huastec,upsid,26.0
+muru1274,Huitoto (Murui),saphon,20.0
+hung1274,Hungarian,uz,64.0
+hung1274,Hungarian,ea,39.0
+hung1274,Hungarian,upsid,40.0
+hung1274,Hungarian,spa,65.0
+hupa1239,Hupa,spa,42.0
+hupa1239,Hupa,upsid,35.0
+sanm1287,Huave (San Mateo del Mar),ph,24.0
+sanm1287,Huave (San Mateo del Mar),upsid,29.0
+hunz1247,Hunzib,uz,60.0
+iaai1238,Iaai,spa,52.0
+iaai1238,Iaai,upsid,52.0
+iban1264,Iban,upsid,25.0
+nucl1417,Igbo,upsid,59.0
+nucl1417,Igbo,spa,65.0
+nucl1417,Igbo,aa,36.0
+nucl1417,Igbo,uz,35.0
+igna1246,Ignaciano,spa,25.0
+igna1246,Ignaciano,saphon,19.0
+igna1246,Ignaciano,upsid,25.0
+gaam1241,Ingessana,gm,49.0
+gaam1241,Ingessana,upsid,33.0
+izon1238,Ijo (Kolokuma),upsid,37.0
+ikkk1242,Ik,upsid,44.0
+arhu1242,Ika,saphon,21.0
+arhu1242,Ika,ph,32.0
+imon1245,Imonda,ph,23.0
+indo1316,Indonesian,gm,31.0
+indo1316,Indonesian,ph,31.0
+ingu1240,Ingush,ea,69.0
+ingu1240,Ingush,ph,48.0
+iris1253,Irish (Donegal),spa,68.0
+iris1253,Irish (Donegal),upsid,69.0
+iris1253,Irish (Donegal),ea,50.5
+iris1253,Irish (Donegal),uz,50.0
+iraq1241,Iraqw,upsid,45.0
+iraq1241,Iraqw,spa,48.0
+irar1238,Irarutu,upsid,19.0
+iran1263,Iranxe,upsid,39.0
+iran1263,Iranxe,saphon,43.0
+isok1239,Isoko,upsid,37.0
+itel1242,Itelmen,upsid,32.0
+itel1242,Itelmen,ea,32.0
+iton1250,Itonama,upsid,25.0
+iton1250,Itonama,saphon,25.0
+iton1250,Itonama,spa,25.0
+ivat1242,Ivatan,upsid,23.0
+iwam1256,Iwam,upsid,17.0
+popt1235,Jakaltek,upsid,32.0
+jaqa1244,Jaqaru,saphon,42.0
+jaqa1244,Jaqaru,spa,42.0
+jaqa1244,Jaqaru,upsid,39.0
+java1254,Javanese,spa,30.0
+java1254,Javanese,upsid,29.0
+java1254,Javanese,gm,33.0
+jebe1250,Jebero,upsid,23.0
+jebe1250,Jebero,saphon,21.0
+shua1257,Jivaro,spa,24.0
+shua1257,Jivaro,saphon,21.0
+shua1257,Jivaro,upsid,23.0
+kach1280,Jingpho,upsid,30.0
+talo1250,Jomang,upsid,21.0
+nucl1643,Japanese,spa,40.0
+nucl1643,Japanese,uz,21.0
+nucl1643,Japanese,upsid,20.0
+japr1238,Japreria,upsid,24.0
+japr1238,Japreria,saphon,20.0
+juho1239,Ju|'hoan,upsid,141.0
+kaba1278,Kabardian,upsid,56.0
+kaba1278,Kabardian,spa,56.0
+kaba1278,Kabardian,ea,56.333333333333336
+katc1249,Kadugli,upsid,27.0
+katc1249,Kadugli,gm,62.0
+kash1277,Kashmiri,ra,56.0
+kash1277,Kashmiri,spa,56.0
+kash1277,Kashmiri,upsid,55.0
+kaya1319,Kayardild,er,23.5
+koyr1240,Koyra Chiini,gm,43.0
+koyr1240,Koyra Chiini,aa,36.0
+kafa1242,Kefa,upsid,27.0
+kekc1242,K'ekchí,upsid,26.0
+kera1255,Kera,upsid,30.0
+kera1255,Kera,uz,30.0
+kett1243,Ket,spa,32.0
+kett1243,Ket,upsid,25.0
+kett1243,Ket,ea,25.0
+wame1240,Konyagi,upsid,46.0
+kalk1246,Kalkatungu,er,26.0
+kalk1246,Kalkatungu,upsid,23.0
+kirg1245,Kirghiz,spa,36.0
+kirg1245,Kirghiz,upsid,30.0
+kirg1245,Kirghiz,ea,37.0
+halh1238,Khalkha,upsid,33.0
+halh1238,Khalkha,spa,35.0
+cent1989,Khmer,upsid,42.0
+cent1989,Khmer,ea,46.0
+cent1989,Khmer,spa,42.0
+nama1264,Nama,upsid,41.0
+khar1287,Kharia,ra,45.0
+khar1287,Kharia,ea,39.0
+khar1287,Kharia,upsid,36.0
+khar1287,Kharia,spa,41.0
+khar1287,Kharia,ph,47.0
+khas1269,Khasi,ra,40.0
+khas1269,Khasi,upsid,29.0
+khas1269,Khasi,spa,28.0
+kiow1266,Kiowa,upsid,42.0
+sout2949,Kiwai (Southern),upsid,19.0
+konk1267,Konkani,ra,45.0
+konk1267,Konkani,upsid,37.0
+lusi1240,Lusi,upsid,21.0
+klao1243,Klao,upsid,27.0
+klam1254,Klamath,upsid,37.0
+kala1377,Kala Lagaw Ya,er,24.0
+kala1377,Kala Lagaw Ya,upsid,24.0
+kuni1267,Kunimaipa,spa,20.0
+kuni1267,Kunimaipa,upsid,20.0
+khmu1256,Khmu',upsid,41.0
+nucl1305,Kannada,ea,44.0
+nucl1305,Kannada,ra,47.0
+kain1272,Kaingang,upsid,27.0
+kain1272,Kaingang,saphon,16.0
+dera1248,Kanakuru,upsid,35.0
+kuna1268,Kunama,uz,34.0
+kuna1268,Kunama,upsid,26.0
+cent2050,Kanuri,aa,25.0
+cent2050,Kanuri,spa,35.0
+cent2050,Kanuri,upsid,29.0
+koas1236,Koasati,ph,25.0
+kohu1244,Kohumono,upsid,38.0
+gras1249,Koiari,upsid,16.0
+komo1258,Komo,upsid,31.0
+komo1258,Komo,gm,28.0
+kore1280,Korean,ea,38.0
+kore1280,Korean,upsid,32.0
+kore1280,Korean,spa,40.0
+kore1280,Korean,uz,48.0
+kota1263,Kota,ra,41.0
+kota1263,Kota,upsid,28.0
+kota1263,Kota,spa,34.0
+koya1251,Koya,ra,31.0
+koya1251,Koya,upsid,24.0
+kpan1246,Kpan,upsid,34.0
+libe1247,Kpelle,upsid,34.0
+libe1247,Kpelle,aa,45.0
+libe1247,Kpelle,spa,49.0
+cent1972,Kurdish (Central),ea,39.0
+karo1304,Karok,spa,41.0
+karo1304,Karok,upsid,27.0
+kron1241,Krongo,gm,62.0
+kory1246,Koryak,upsid,21.0
+koyr1242,Koyraboro Senni,upsid,24.0
+koyr1242,Koyraboro Senni,spa,48.0
+koyr1242,Koyraboro Senni,gm,37.0
+sgaw1245,Karen (Sgaw),spa,39.0
+sgaw1245,Karen (Sgaw),upsid,36.0
+afad1236,Kotoko,upsid,36.0
+khan1273,Khanty,ph,31.0
+khan1273,Khanty,ea,29.0
+khan1273,Khanty,spa,32.0
+khan1273,Khanty,upsid,32.0
+bord1248,Kuna,saphon,24.0
+bord1248,Kuna,upsid,21.0
+kuru1302,Kurukh,spa,68.0
+kuru1302,Kurukh,ra,56.0
+kuru1302,Kurukh,upsid,32.0
+kwai1243,Kwaio,upsid,21.0
+kwak1269,Kwakw'ala,upsid,48.0
+kwak1269,Kwakw'ala,spa,55.0
+kwom1262,Kwoma,upsid,31.0
+kwom1262,Kwoma,spa,31.0
+kawa1283,Kawaiisu,upsid,31.0
+kuku1273,Kuku-Yalanji,upsid,16.0
+kuku1273,Kuku-Yalanji,er,16.0
+komi1268,Komi-Zyrian,spa,36.0
+komi1268,Komi-Zyrian,upsid,33.0
+komi1268,Komi-Zyrian,ea,37.0
+lada1244,Ladakhi,ph,38.0
+lada1244,Ladakhi,ra,45.0
+lada1244,Ladakhi,ea,38.0
+lahu1253,Lahu,ea,46.0
+lahu1253,Lahu,spa,40.0
+lahu1253,Lahu,upsid,35.0
+lakk1252,Lak,ea,68.0
+lakk1252,Lak,upsid,69.0
+lakk1252,Lak,spa,69.0
+peve1243,Lamé,upsid,38.0
+lang1324,Lango,gm,40.0
+lavu1241,Lavukaleve,ph,20.0
+lena1238,Lenakel,upsid,21.0
+lepc1244,Lepcha,ra,36.0
+lezg1247,Lezgian,ea,71.5
+lith1251,Lithuanian,ea,54.0
+lith1251,Lithuanian,spa,47.0
+lith1251,Lithuanian,upsid,52.0
+lakk1238,Lakkia,spa,59.0
+lakk1238,Lakkia,upsid,55.0
+lako1247,Lakhota,upsid,36.0
+lako1247,Lakhota,spa,36.0
+lele1264,Lelemi,upsid,34.0
+luuu1242,Lü,upsid,31.0
+luuu1242,Lü,ea,39.0
+niel1243,Lua,gm,59.0
+niel1243,Lua,upsid,36.0
+lugb1240,Lugbara,spa,42.0
+lugb1240,Lugbara,aa,39.0
+lugb1240,Lugbara,upsid,36.0
+luis1253,Luiseño,spa,34.0
+luis1253,Luiseño,upsid,26.0
+luok1236,Luo,spa,35.0
+luok1236,Luo,upsid,32.0
+luok1236,Luo,aa,38.0
+luva1239,Luvale,spa,36.0
+masa1300,Maasai,spa,43.0
+masa1300,Maasai,upsid,28.0
+maba1277,Maba,upsid,29.0
+plat1254,Malagasy,upsid,25.0
+plat1254,Malagasy,spa,36.0
+maor1246,Maori,spa,20.0
+mapu1245,Mapudungun,spa,26.0
+mapu1245,Mapudungun,saphon,28.0
+mapu1245,Mapudungun,upsid,26.0
+maun1240,Maung,er,22.0
+maun1240,Maung,spa,24.0
+maun1240,Maung,upsid,22.0
+maxa1247,Maxakalí,saphon,20.0
+maxa1247,Maxakalí,upsid,20.0
+maib1239,Maybrat,ph,16.0
+mbaa1245,Mba,upsid,31.0
+mbab1239,Mbabaram,er,27.0
+mbab1239,Mbabaram,upsid,24.0
+mbum1254,Mbum,upsid,38.0
+mani1292,Meithei,ra,38.0
+mani1292,Meithei,ph,33.0
+iumi1238,Mien,upsid,41.0
+iumi1238,Mien,spa,49.0
+mara1386,Maranungku,spa,24.0
+came1252,Mambila,aa,40.0
+came1252,Mambila,upsid,25.0
+came1252,Mambila,gm,35.0
+mull1237,Malakmalak,upsid,19.0
+mull1237,Malakmalak,er,19.0
+east2328,Mari (Meadow),ea,29.75
+east2328,Mari (Meadow),upsid,33.0
+east2328,Mari (Meadow),spa,34.0
+east2328,Mari (Meadow),ph,27.0
+manc1252,Manchu,upsid,25.0
+mand1415,Mandarin,ea,46.0
+mand1415,Mandarin,spa,43.0
+mand1415,Mandarin,upsid,32.0
+mand1415,Mandarin,ph,49.0
+nort2952,Maidu (Northeast),spa,24.0
+nort2952,Maidu (Northeast),upsid,23.0
+mogh1245,Moghol,upsid,29.0
+movi1243,Movima,upsid,23.0
+movi1243,Movima,saphon,29.0
+murr1258,Murrinh-Patha,upsid,25.0
+marg1265,Margi,spa,44.0
+marg1265,Margi,upsid,34.0
+murl1244,Murle,aa,34.0
+mara1404,Maranao,upsid,17.0
+moro1285,Moro,upsid,29.0
+mart1255,Martuthunira,er,26.0
+sout2985,Miwok (Southern Sierra),upsid,21.0
+toto1305,Mixe (Totontepec),upsid,23.0
+muin1242,Muinane,saphon,28.0
+muin1242,Muinane,upsid,28.0
+nucl1240,Mumuye,upsid,34.0
+mund1320,Mundari,ea,28.0
+mund1320,Mundari,ra,46.5
+mund1320,Mundari,spa,37.0
+mund1320,Mundari,upsid,37.0
+sanm1295,Mixtec (Chalcatongo),spa,32.0
+sanm1295,Mixtec (Chalcatongo),upsid,25.0
+mang1381,Mangarrayi,er,22.0
+chiq1250,Mazatec (Chiquihuitlán),spa,38.0
+chiq1250,Mazatec (Chiquihuitlán),upsid,33.0
+nana1257,Nanai,upsid,24.0
+lish1246,Neo-Aramaic (Persian Azerbaijan),upsid,40.0
+nara1262,Nara (in Ethiopia),upsid,22.0
+nara1262,Nara (in Ethiopia),uz,59.0
+naas1242,Nasioi,spa,18.0
+naas1242,Nasioi,upsid,13.0
+nava1243,Navajo,upsid,47.0
+nava1243,Navajo,spa,54.0
+naxi1245,Naxi,upsid,49.0
+natu1246,Natügu,upsid,47.0
+ndut1239,Ndut,upsid,34.0
+newa1246,Newari (Kathmandu),upsid,32.0
+nezp1238,Nez Perce,upsid,30.0
+nezp1238,Nez Perce,spa,36.0
+ngan1291,Nganasan,upsid,29.0
+ngan1291,Nganasan,ea,30.0
+ngiz1242,Ngizim,upsid,40.0
+nort2957,Nahuatl (North Puebla),upsid,20.0
+nucl1633,Nimboran,upsid,18.0
+nyis1236,Nyishi,spa,27.0
+nyis1236,Nyishi,upsid,24.0
+gily1242,Nivkh,spa,44.0
+gily1242,Nivkh,ea,34.0
+gily1242,Nivkh,upsid,35.0
+nyah1250,Nyah Kur (Tha Pong),upsid,50.0
+sout2994,Nambikuára (Southern),upsid,43.0
+cent1990,Nancowry,ra,35.0
+nobi1240,Nobiin,upsid,21.0
+nobi1240,Nobiin,spa,45.0
+noon1243,Noni,upsid,33.0
+norw1259,Norwegian,spa,48.0
+norw1259,Norwegian,upsid,46.0
+ngit1239,Ngiti,gm,56.0
+nene1249,Nenets,spa,34.0
+nene1249,Nenets,upsid,35.0
+nene1249,Nenets,ea,34.333333333333336
+nung1290,Nunggubuyu,spa,24.0
+nung1290,Nunggubuyu,upsid,23.0
+nung1290,Nunggubuyu,er,25.0
+nung1283,Nung (in Vietnam),upsid,32.0
+nyan1313,Nyangi,upsid,25.0
+amas1236,Nyimang,upsid,25.0
+ocai1244,Ocaina,spa,38.0
+ocai1244,Ocaina,upsid,34.0
+ocai1244,Ocaina,saphon,35.0
+ogbi1239,Ogbia,upsid,34.0
+east2542,Ojibwa (Eastern),upsid,27.0
+east2542,Ojibwa (Eastern),spa,27.0
+onei1249,Oneida,spa,22.0
+toho1245,O'odham,spa,29.0
+toho1245,O'odham,upsid,24.0
+east2652,Oromo (Harar),gm,60.0
+ormu1247,Ormuri,upsid,31.0
+mezq1235,Otomí (Mezquital),spa,58.0
+paco1243,Pacoh,upsid,33.0
+paez1247,Páez,spa,39.0
+paez1247,Páez,upsid,37.0
+paez1247,Páez,saphon,49.0
+paiw1248,Paiwan,upsid,26.0
+paiw1248,Paiwan,ea,25.0
+paum1247,Paumarí,saphon,28.0
+pech1241,Pech,upsid,28.0
+pwon1235,Phlong,ph,52.0
+pwon1235,Phlong,upsid,37.0
+pitj1243,Pitjantjatjara,er,23.0
+pitj1243,Pitjantjatjara,uz,25.0
+enap1235,Panare,saphon,20.0
+enap1235,Panare,upsid,25.0
+pohn1238,Pohnpeian,upsid,20.0
+poli1260,Polish,ea,35.0
+poli1260,Polish,ph,37.0
+pira1253,Pirahã,saphon,11.0
+pira1253,Pirahã,upsid,11.0
+west2369,Persian,upsid,30.0
+west2369,Persian,spa,30.0
+west2369,Persian,ea,29.0
+west2369,Persian,uz,29.0
+cent1973,Pashto,upsid,38.0
+cent1973,Pashto,spa,38.0
+cent1973,Pashto,ea,30.5
+sout2982,Pomo (Southeastern),spa,38.0
+sout2982,Pomo (Southeastern),upsid,32.0
+para1301,Parauk,upsid,77.0
+pure1242,Purépecha,upsid,39.0
+pure1242,Purépecha,spa,32.0
+qawa1238,Qawasqar,saphon,24.0
+qawa1238,Qawasqar,upsid,19.0
+sout2991,Quechua (Cochabamba),upsid,36.0
+sout2991,Quechua (Cochabamba),spa,37.0
+quil1240,Quileute,upsid,37.0
+rama1270,Rama,ph,28.0
+resi1247,Resígaro,saphon,37.0
+resi1247,Resígaro,upsid,35.0
+roma1327,Romanian,spa,31.0
+roma1327,Romanian,ea,51.0
+roma1327,Romanian,upsid,32.0
+waim1251,Roro,upsid,14.0
+roma1326,Romansch (Scharans),ea,46.0
+roto1249,Rotokas,upsid,11.0
+ruka1240,Rukai (Tanan),upsid,27.0
+russ1263,Russian,ea,42.0
+russ1263,Russian,spa,38.0
+russ1263,Russian,upsid,38.0
+rutu1240,Rutul,upsid,64.0
+saba1265,Sa'ban,spa,46.0
+saba1265,Sa'ban,upsid,26.0
+sang1328,Sango,upsid,37.0
+sang1328,Sango,aa,43.0
+sali1298,Sáliba (in Colombia),saphon,30.0
+sali1298,Sáliba (in Colombia),upsid,32.0
+sout2674,Saami (Central-South),upsid,45.0
+sind1272,Sindhi,ea,60.0
+sind1272,Sindhi,ph,54.0
+sind1272,Sindhi,ra,61.0
+sand1273,Sandawe,gm,64.0
+sand1273,Sandawe,upsid,54.0
+kups1238,Sebei,upsid,26.0
+seda1262,Sedang,upsid,55.0
+seda1262,Sedang,spa,53.0
+onaa1245,Selknam,saphon,29.0
+shan1277,Shan,ea,32.5
+nina1238,Shiriana,saphon,18.0
+shas1239,Shasta,upsid,21.0
+shus1248,Shuswap,upsid,44.0
+sion1247,Siona,upsid,30.0
+sion1247,Siona,saphon,30.0
+selk1253,Selkup,ea,41.0
+selk1253,Selkup,upsid,34.0
+sele1250,Selepet,spa,21.0
+sele1250,Selepet,upsid,21.0
+seme1247,Semelai,ph,51.0
+sene1264,Seneca,upsid,19.0
+sene1264,Seneca,spa,27.0
+ceba1235,Senadi,gm,40.5
+ceba1235,Senadi,upsid,36.0
+sinh1246,Sinhala,spa,53.0
+sinh1246,Sinhala,upsid,36.0
+sanu1240,Sanuma,saphon,27.5
+sanu1240,Sanuma,ph,24.0
+nucl1632,Sentani,upsid,17.0
+nucl1632,Sentani,spa,17.0
+soma1255,Somali,spa,52.0
+soma1255,Somali,upsid,32.0
+soqo1240,Soqotri,upsid,34.0
+sora1254,Sora,ea,26.0
+sora1254,Sora,ra,31.0
+sora1254,Sora,ph,30.0
+stan1288,Spanish,uz,38.0
+stan1288,Spanish,ea,35.0
+stan1288,Spanish,upsid,25.0
+stan1288,Spanish,spa,25.0
+squa1248,Squamish,spa,37.0
+koho1244,Sre,upsid,37.0
+siri1273,Sirionó,spa,28.0
+siri1273,Sirionó,saphon,30.0
+siri1273,Sirionó,upsid,28.0
+suen1241,Suena,upsid,18.0
+suii1243,Sui,ea,61.0
+suii1243,Sui,upsid,54.0
+savo1255,Savosavo,upsid,22.0
+swah1253,Swahili,aa,37.0
+swah1253,Swahili,spa,36.0
+east2440,Taba,ph,30.5
+east2440,Taba,gm,23.0
+taca1256,Tacana,upsid,22.0
+taca1256,Tacana,saphon,22.0
+taga1270,Tagalog,ea,26.0
+taga1270,Tagalog,gm,24.0
+taga1270,Tagalog,upsid,23.0
+taga1270,Tagalog,spa,28.0
+east2347,Tamang (Eastern),ea,50.0
+east2347,Tamang (Eastern),upsid,29.0
+tehu1242,Tehuelche,saphon,31.0
+tehu1242,Tehuelche,upsid,35.0
+telu1262,Telugu,spa,68.0
+telu1262,Telugu,ea,44.0
+telu1262,Telugu,ra,51.0
+telu1262,Telugu,upsid,43.0
+tera1251,Tera,uz,53.0
+tera1251,Tera,upsid,48.0
+tiga1245,Tigak,upsid,17.0
+tigr1270,Tigré,spa,54.0
+tigr1270,Tigré,upsid,33.0
+thai1261,Thai,uz,47.0
+thai1261,Thai,upsid,30.0
+thai1261,Thai,spa,45.0
+tibe1272,Tibetan (Standard Spoken),ea,47.25
+tibe1272,Tibetan (Standard Spoken),ph,34.0
+ticu1245,Ticuna,spa,38.0
+ticu1245,Ticuna,saphon,33.0
+ticu1245,Ticuna,upsid,29.0
+tiwi1244,Tiwi,ph,18.0
+tiwi1244,Tiwi,upsid,26.0
+tiwi1244,Tiwi,er,22.0
+teke1280,Teke (Southern),upsid,28.0
+tlin1245,Tlingit,upsid,48.0
+acat1239,Tlapanec,upsid,30.0
+tama1331,Tama,upsid,30.0
+nucl1339,Temein,upsid,25.0
+tamp1252,Tampulma,upsid,33.0
+timn1235,Temne,upsid,25.0
+timn1235,Temne,aa,30.0
+timn1235,Temne,uz,36.0
+toar1246,Toaripi,upsid,14.0
+taro1263,Tarok,aa,37.0
+taro1263,Tarok,upsid,32.0
+toll1241,Tol,upsid,28.0
+tonk1249,Tonkawa,upsid,25.0
+papa1238,Totonac (Papantla),upsid,22.0
+papa1238,Totonac (Papantla),spa,26.0
+trum1247,Trumai,saphon,29.0
+trum1247,Trumai,upsid,24.0
+tiru1241,Tiruray,upsid,22.0
+taus1251,Tausug,uz,23.0
+taus1251,Tausug,ea,23.0
+nucl1649,Tsimshian (Coast),upsid,41.0
+tsou1248,Tsou,upsid,21.0
+tetu1245,Tetun,gm,18.0
+tetu1245,Tetun,upsid,19.0
+bats1242,Tsova-Tush,ea,51.0
+bats1242,Tsova-Tush,upsid,45.0
+taha1241,Tuareg (Ahaggar),upsid,37.0
+tulu1258,Tulu,upsid,37.0
+tulu1258,Tulu,ea,35.0
+tulu1258,Tulu,ra,35.0
+tuni1252,Tunica,spa,25.0
+tuni1252,Tunica,upsid,24.0
+nucl1301,Turkish,upsid,33.0
+nucl1301,Turkish,uz,36.0
+nucl1301,Turkish,spa,40.0
+nucl1301,Turkish,ea,38.0
+tuvi1240,Tuvan,ph,37.0
+tuvi1240,Tuvan,upsid,29.0
+tuvi1240,Tuvan,ea,52.0
+tzel1254,Tzeltal (Aguacatenango),spa,30.0
+tzel1254,Tzeltal (Aguacatenango),upsid,28.0
+umbu1257,UMbundu,gm,30.0
+ngar1284,Ungarinjin,upsid,24.0
+ngar1284,Ungarinjin,er,22.0
+urub1250,Urubú-Kaapor,saphon,26.0
+usan1239,Usan,upsid,20.0
+nort2690,Uzbek (Northern),upsid,30.0
+viet1252,Vietnamese,upsid,36.0
+viet1252,Vietnamese,spa,39.0
+viet1252,Vietnamese,uz,45.0
+viet1252,Vietnamese,ea,37.0
+wamb1258,Wambaya,er,23.0
+wapp1239,Wappo,upsid,35.0
+wari1268,Wari',saphon,21.0
+wari1268,Wari',ph,20.0
+wich1264,Wichí,saphon,28.0
+wich1260,Wichita,spa,29.0
+wich1260,Wichita,upsid,29.0
+wint1259,Wintu,upsid,35.0
+wiyo1248,Wiyot,upsid,29.0
+nucl1347,Wolof,spa,40.0
+nucl1347,Wolof,upsid,40.0
+nucl1347,Wolof,aa,54.0
+west2600,West Makian,upsid,23.0
+wikm1247,Wik Munkan,er,26.0
+wikm1247,Wik Munkan,upsid,18.0
+wikm1247,Wik Munkan,spa,23.0
+want1252,Wantoat,upsid,21.0
+kama1365,Woisika,upsid,28.0
+wapi1253,Wapishana,upsid,25.0
+wapi1253,Wapishana,saphon,22.0
+wapi1253,Wapishana,spa,29.0
+wara1303,Warao,saphon,16.0
+wara1303,Warao,upsid,21.0
+ward1246,Wardaman,er,22.0
+wari1266,Waris,upsid,22.0
+wara1290,Waray (in Australia),upsid,21.0
+wara1290,Waray (in Australia),er,21.0
+wuch1236,Wu,spa,41.0
+wuch1236,Wu,upsid,34.0
+yagu1244,Yagua,saphon,23.0
+yagu1244,Yagua,upsid,23.0
+yana1271,Yana,upsid,30.0
+yape1248,Yapese,ph,44.0
+yaqu1251,Yaqui,upsid,22.0
+yare1248,Yareba,upsid,18.0
+nucl1454,Yawa,upsid,19.0
+bouy1240,Yay,spa,38.0
+bouy1240,Yay,upsid,34.0
+yucu1253,Yucuna,upsid,21.0
+yucu1253,Yucuna,saphon,21.0
+yuca1254,Yucatec,upsid,30.0
+yess1239,Yessan-Mayo,upsid,20.0
+yeyi1239,Yeyi,ph,90.0
+yaga1260,Yagaria,upsid,23.0
+yidi1250,Yidiny,er,19.0
+yidi1250,Yidiny,upsid,16.0
+sout2750,Yukaghir (Kolyma),ea,36.0
+sout2750,Yukaghir (Kolyma),ph,33.0
+yaku1245,Yakut,ea,40.0
+yaku1245,Yakut,spa,49.0
+yaku1245,Yakut,upsid,34.0
+yany1243,Yanyuwa,upsid,32.0
+yany1243,Yanyuwa,er,24.0
+yoru1245,Yoruba,upsid,29.0
+yoru1245,Yoruba,aa,31.5
+nort2745,Yukaghir (Tundra),upsid,26.0
+nort2745,Yukaghir (Tundra),spa,32.0
+nort2745,Yukaghir (Tundra),ea,39.0
+yuch1247,Yuchi,spa,64.0
+yuch1247,Yuchi,upsid,46.0
+yuch1247,Yuchi,ph,49.0
+yulu1243,Yulu,upsid,42.0
+yuro1248,Yurok,ph,35.0
+cent2128,Yupik (Siberian),upsid,36.0
+zand1248,Zande,upsid,35.0
+zand1248,Zande,aa,32.0
+copa1236,Zoque (Copainalá),spa,32.0
+copa1236,Zoque (Copainalá),upsid,22.0
+zulu1248,Zulu,spa,43.0
+zulu1248,Zulu,upsid,37.0
+zuni1245,Zuni,spa,54.0
+zuni1245,Zuni,upsid,25.0
+wang1291,Ngiyambaa,upsid,18.0
+wang1291,Ngiyambaa,er,21.0
+tach1250,Tashlhiyt,uz,74.0
+tach1250,Tashlhiyt,upsid,31.0
+tach1250,Tashlhiyt,gm,37.0
+tach1250,Tashlhiyt,spa,49.0
+waor1240,Waorani,upsid,21.0
+waor1240,Waorani,saphon,32.0
+adyg1241,Adyghe (Abzakh),ea,59.0
+agua1253,Aguaruna,saphon,20.0
+alut1245,Alutor,ea,27.0
+aman1265,Amanab,ph,19.0
+moro1292,Arabic (Moroccan),spa,78.0
+araw1276,Arawak,saphon,21.0
+bona1250,Bao'an,ea,36.0
+siks1238,Blackfoot,ph,25.0
+east2304,Baluchi,ea,54.0
+bora1263,Bora,saphon,41.0
+bara1380,Barasano,saphon,17.0
+cash1251,Cashibo,saphon,21.0
+cavi1250,Cavineña,saphon,24.0
+cavi1250,Cavineña,ph,24.0
+choc1276,Choctaw,ph,21.0
+chec1245,Chechen,ea,66.25
+chec1245,Chechen,ph,44.0
+seba1251,Chaha,gm,43.0
+chim1301,Chimariko,ph,42.0
+chra1242,Chrau,ph,33.0
+utes1238,Chemehuevi,ph,37.0
+taba1266,Chontal Maya,spa,37.0
+cari1279,Carijona,saphon,21.0
+soch1239,Chinantec (Sochiapan),ph,39.0
+cuib1242,Cuiba,saphon,25.0
+dolg1241,Dolgan,ea,42.0
+nort2972,Emberá (Northern),saphon,32.0
+esee1248,Ese Ejja,saphon,21.5
+yekh1238,Etsako,ph,36.0
+gaga1249,Gagauz,ea,46.0
+gavi1246,Gavião,saphon,29.0
+ghod1238,Godoberi,ea,66.0
+guat1253,Guató,saphon,25.0
+guja1252,Gujarati,ra,60.0
+guja1252,Gujarati,ea,58.0
+mini1256,Huitoto (Minica),saphon,24.0
+hupd1244,Hup,ph,29.0
+hupd1244,Hup,saphon,34.0
+djeo1235,Jabutí,saphon,24.0
+sheh1240,Jibbali,ea,38.0
+jurm1239,Jur Mödö,aa,49.0
+juru1256,Juruna,saphon,28.0
+kara1500,Karajá,saphon,24.0
+khak1248,Khakas,ea,39.0
+kalm1243,Kalmyk,ea,39.0
+kara1467,Karakalpak,ea,38.0
+krah1246,Krahô,saphon,46.0
+kara1464,Karaim,ea,37.0
+kara1474,Karata,ea,54.5
+puoc1238,Ksingmul,ea,38.0
+kuot1243,Kuot,ph,19.0
+kumy1244,Kumyk,ea,31.0
+kwaz1243,Kwaza,saphon,35.0
+kwaz1243,Kwaza,ph,45.0
+loni1238,Loniu,ph,23.0
+nucl1460,Madurese,gm,35.0
+mehr1241,Mehri,ea,45.0
+malt1254,Maltese,ea,35.0
+malt1254,Maltese,spa,55.0
+mans1258,Mansi,ea,31.0
+mose1249,Mosetén,saphon,40.333333333333336
+mose1249,Mosetén,ph,38.0
+chal1275,Neo-Aramaic (Amadiya),ea,45.0
+nami1256,Namia,ph,15.0
+nank1250,Nankina,ph,20.0
+onge1236,Onge,ph,24.0
+orok1269,Orokaiva,ph,17.0
+pate1247,Patep,ph,44.0
+nort2954,Paiute (Northern),ph,24.0
+patt1248,Pattani,ra,44.0
+chim1302,Quechua (Ecuadorean),ph,36.0
+imba1240,Quechua (Imbabura),saphon,20.0
+saek1240,Saek,ea,44.0
+shaw1249,Shawnee,ph,19.0
+sala1264,Salar,ea,43.0
+kist1241,Soddo,gm,41.0
+dong1285,Santa,ea,34.0
+tewa1260,Tewa (Arizona),spa,57.0
+thad1238,Thadou,ra,34.0
+turk1304,Turkmen,ea,37.0
+temi1246,Temiar,ea,49.0
+stod1241,Tod,ea,41.0
+kara1462,Tofa,ea,67.0
+dido1241,Tsez,ea,42.0
+tata1255,Tatar,ea,43.0
+udih1248,Udihe,ea,40.0
+uigh1240,Uyghur,ea,43.0
+vaii1241,Vai,ph,43.0
+wash1253,Washo,ph,32.0
+xava1240,Xavánte,saphon,24.0
+yuki1243,Yuki,ph,30.0
+yukp1241,Yukpa,saphon,19.5
+yano1262,Yanomámi,saphon,29.0
+yura1255,Yuracare,ph,25.0
+yura1255,Yuracare,saphon,25.0
+avat1244,Avatime,gm,50.0
+bana1305,Bana,gm,44.0
+bafi1243,Bafia,gm,49.5
+baou1238,Baule,ph,23.0
+baou1238,Baule,aa,37.0
+buli1254,Buli (in Ghana),gm,46.0
+sout2789,Dagaare,aa,54.0
+ebir1243,Ebira,aa,31.0
+egaa1242,Ega,ph,39.0
+pula1263,Fula (Senegal),aa,38.0
+nort2775,Gbaya (Northwest),aa,53.0
+gour1243,Gurma,aa,33.0
+wayu1241,Hayu,ea,54.0
+qima1242,Kemant,ph,39.0
+loko1255,Loko,aa,25.0
+mbay1241,Mbay,gm,44.0
+mand1436,Mandinka,ph,34.0
+gbay1281,Mbodomo,gm,38.0
+gbay1281,Mbodomo,ph,37.0
+mada1282,Mada (in Nigeria),gm,41.0
+moss1236,Mooré,aa,43.0
+ngaa1240,Ngaanyatjarra,er,23.0
+okuu1243,Oku,ph,29.0
+emai1241,Emai,aa,48.0
+park1239,Podoko,aa,35.0
+tika1246,Tikar,aa,46.0
+yemb1246,Yemba,aa,35.0
+yemb1246,Yemba,gm,27.0
+achi1257,Acehnese,ph,55.0
+acha1250,Achagua,saphon,29.0
+liby1240,Arabic (Eastern Libyan),ph,50.0
+leni1238,Anguthimri,er,29.0
+akla1241,Aklanon,ph,20.0
+alya1239,Alyawarra,ph,32.0
+alya1239,Alyawarra,er,43.0
+auuu1241,Au,ph,17.0
+awad1243,Awadhi,ra,45.0
+west2441,Arrernte (Western),ph,29.0
+west2441,Arrernte (Western),er,44.0
+awtu1239,Awtuw,ph,18.0
+bare1276,Baré,saphon,23.0
+bali1278,Balinese,gm,24.0
+gunw1252,Bininj Gun-Wok,ph,24.0
+badi1246,Badimaya,er,23.0
+bhoj1244,Bhojpuri,ea,51.0
+biak1248,Biak,gm,19.0
+biak1248,Biak,ph,24.0
+cent2087,Bikol,gm,28.0
+jama1261,Banawá,saphon,17.5
+jama1261,Banawá,ph,15.0
+bang1339,Banggarla,er,23.0
+basq1250,Basque (Souletin),ea,43.0
+bugi1244,Bugis,gm,25.0
+capa1241,Capanahua,saphon,24.0
+cebu1242,Cebuano,gm,21.0
+cebu1242,Cebuano,ea,19.0
+chep1245,Chepang,ph,24.0
+cupe1243,Cupeño,ph,38.0
+czec1258,Czech,ea,40.0
+czec1258,Czech,ph,38.0
+desa1247,Desano,saphon,18.0
+dhur1239,Dhurga,er,25.0
+thur1254,Dharawal,er,25.0
+djin1251,Djingili,er,20.0
+jaru1254,Djaru,er,23.0
+dani1285,Danish,uz,69.0
+dani1285,Danish,ea,26.0
+dutc1256,Dutch,uz,52.166666666666664
+dutc1256,Dutch,ph,39.0
+dutc1256,Dutch,ea,43.0
+embe1262,Embera Chami,saphon,28.0
+esto1258,Estonian,uz,54.0
+esto1258,Estonian,ea,26.0
+faro1244,Faroese,ea,36.0
+scot1245,Gaelic (Scots),ea,82.0
+gayo1244,Gayo,ph,27.0
+dhan1270,Gaalpu,er,26.0
+koka1244,Gugada,er,23.0
+gugu1255,Guugu Yimidhirr,er,23.0
+icel1247,Icelandic,ea,45.0
+icel1247,Icelandic,spa,39.0
+inga1252,Inga,saphon,22.0
+ital1282,Italian,ph,30.0
+ital1282,Italian,ea,30.0
+ital1282,Italian,uz,70.0
+juma1249,Júma,saphon,24.0
+kamb1299,Kambera,gm,29.0
+kela1255,Kela (Apoze),ph,30.0
+kaiw1246,Kaiwá,saphon,26.0
+kunj1245,Kunjen,spa,28.0
+komi1269,Komi-Permyak,ea,37.0
+kare1335,Karelian,ea,30.0
+kuuk1238,Kuuku Ya'u,er,21.0
+lara1258,Laragia,er,24.0
+leti1246,Leti,gm,22.0
+livv1244,Liv,ea,31.0
+lamu1254,Lamu-Lamu,er,29.0
+macu1259,Macushi,saphon,22.0
+west2392,Mari (Hill),ea,33.5
+mait1250,Maithili,ea,51.0
+mait1250,Maithili,ra,42.0
+mace1250,Macedonian,ph,32.0
+mace1250,Macedonian,ea,32.0
+west2443,Madimadi,er,21.0
+mina1268,Minangkabau,gm,33.0
+maka1311,Makassar,gm,23.0
+stan1306,Malay,uz,30.0
+stan1306,Malay,spa,27.0
+moks1248,Mordvin (Moksha),ea,40.5
+muna1247,Muna,ph,33.0
+mana1295,Manam,ph,18.0
+marg1253,Margany,er,31.0
+muru1266,Muruwari,er,25.0
+mala1464,Malayalam,ea,53.0
+mala1464,Malayalam,ra,43.0
+nyam1277,Nyambo,gm,33.0
+ngad1261,Ngad'a,ph,27.0
+ngal1293,Ngalakan,er,27.0
+ngal1293,Ngalakan,ph,26.0
+narr1259,Ngarinyeri,er,25.0
+nias1242,Nias,gm,25.0
+ning1273,Ningil,ph,21.0
+nyun1247,Nyungar,er,22.0
+ngal1292,Ngalkbun,er,29.0
+nyaw1247,Nyawaygi,er,18.0
+occi1239,Occitan,ea,58.0
+pint1250,Pintupi,er,23.0
+yine1238,Piro,ph,26.0
+yine1238,Piro,saphon,26.0
+darl1243,Paakantyi,er,26.0
+port1283,Portuguese,spa,38.0
+port1283,Portuguese,uz,47.0
+port1283,Portuguese,ea,41.0
+pitt1247,Pitta Pitta,er,26.0
+ayac1239,Quechua (Ayacucho),saphon,17.0
+kich1262,Quiché,ph,32.0
+quec1382,Quechan,ph,38.0
+rita1239,Ritharngu,er,31.0
+seri1257,Seri,ph,25.0
+slov1268,Slovene,ph,37.0
+slov1268,Slovene,ea,35.0
+nort2671,Saami (Northern),uz,74.0
+spok1245,Spokane,ph,43.0
+sout2965,Salish (Southern Puget Sound),upsid,37.0
+sout2965,Salish (Southern Puget Sound),spa,43.0
+camp1261,Sardinian,ea,58.0
+sela1259,Selaru,ph,19.0
+sund1252,Sundanese,spa,26.0
+slov1269,Slovak,uz,44.0
+slov1269,Slovak,ea,45.0
+swed1254,Swedish,ea,35.0
+swed1254,Swedish,ph,35.0
+taji1245,Tajik,ea,29.0
+taji1245,Tajik,uz,29.0
+thay1248,Thaypan,er,31.0
+tong1325,Tongan,ph,17.0
+pana1305,Tümpisa Shoshone,ph,36.0
+tzot1259,Tzotzil,ph,26.0
+atam1239,Uradhi,er,24.0
+unam1242,Unami,spa,39.0
+voti1245,Votic,ea,55.0
+wamb1259,Wambon,ph,26.0
+wels1247,Welsh,ea,48.0
+walm1241,Walmatjari,er,23.0
+warr1255,Warrgamay,er,19.0
+warl1254,Warlpiri,er,24.0
+yill1241,Yil,ph,23.0
+yind1247,Yindjibarndi,er,25.5
+gami1243,Yuwaalaraay,er,21.0
+belh1239,Belhare,uz,36.0
+kari1255,Kipea,saphon,21.0
+haka1240,Lai,upsid,52.0
+carn1240,Nicobarese (Car),upsid,25.0
+nisg1240,Nisgha,ph,42.0
+ambu1247,Ambulas,ph,24.0
+chay1248,Chayahuita,saphon,18.0
+puel1244,Gününa Küne,saphon,36.0
+gumu1244,Gumuz,gm,44.0
+kima1246,Kimaghama,ph,44.0
+mari1424,Marrithiyel,er,24.0
+naka1260,Nakkara,er,25.0
+nyig1240,Nyigina,er,20.0
+tele1256,Telefol,spa,27.0
+wand1263,Warndarang,er,20.0
+xokl1240,Xokleng,saphon,37.0
+kuii1252,Kui (in India),ra,39.0
+yank1247,Yankuntjatjara,er,23.0
+aari1239,Aari,gm,36.0
+arab1267,Arabana,er,24.0
+acol1236,Acholi,gm,29.0
+achu1248,Achuar,saphon,27.0
+adan1251,Adang,ph,40.0
+adio1239,Adioukrou,aa,31.0
+adio1239,Adioukrou,gm,32.0
+adny1235,Adynyamathanha,er,27.0
+akha1245,Akha,ea,57.0
+akha1245,Akha,ph,44.0
+stan1318,Arabic (Modern Standard),uz,37.0
+anei1239,Anejom,ph,26.0
+anin1240,Anindilyakwa,er,26.0
+anuf1239,Anufo,gm,59.0
+anuf1239,Anufo,aa,43.0
+anua1242,Anywa,ph,47.0
+mufi1238,Mufian,ph,22.0
+apal1257,Apalaí,saphon,24.0
+apat1240,Apatani,ra,40.0
+assa1263,Assamese,ea,36.0
+assa1263,Assamese,ra,37.0
+assa1263,Assamese,uz,33.0
+wadj1254,Bachamal,er,22.0
+baur1253,Baure,saphon,18.0
+budu1250,Budu,gm,43.0
+bong1285,Bongo,ph,29.0
+furu1242,Bagiro,ph,41.0
+biri1256,Biri,er,18.0
+bilu1245,Bilua,ph,41.0
+baka1274,Baka (in South Sudan),gm,46.0
+bett1235,Betta Kurumba,ph,37.0
+bett1235,Betta Kurumba,ea,37.0
+bili1260,Bilin,gm,38.0
+balt1258,Balti,ra,53.0
+balt1258,Balti,ea,40.0
+bilo1248,Biloxi,ph,20.0
+bimo1239,Bimoba,aa,44.0
+ngar1235,Bilinarra,er,23.0
+bula1255,Bularnu,er,32.0
+west2560,Bajau (West Coast),ph,23.0
+barb1263,Chumash (Barbareño),ph,84.0
+chac1251,Chácobo,spa,21.0
+chac1251,Chácobo,saphon,20.0
+maqu1238,Carib (De'kwana),saphon,26.0
+chol1284,Cholón,saphon,20.0
+coca1259,Cocama,saphon,16.0
+chip1262,Chipaya,saphon,51.0
+cara1272,Carapana,saphon,23.0
+dhar1247,Dhargari,er,31.0
+didi1258,Didinga,gm,58.0
+dime1235,Dime,gm,73.0
+dyaa1242,Djabugay,er,19.0
+djam1256,Djambarrpuyngu,er,31.0
+djin1253,Djinang,er,25.0
+doma1258,Domari,ea,45.0
+darm1243,Darma,ea,34.0
+darm1243,Darma,ra,42.0
+enge1239,Engenni,aa,33.0
+emer1243,Émérillon,saphon,30.0
+sout2856,Efate (South),ph,20.0
+adam1253,Fulfulde (Adamawa),aa,34.0
+adam1253,Fulfulde (Adamawa),ph,36.0
+adam1253,Fulfulde (Adamawa),gm,43.0
+gaga1251,Gaagudju,er,27.0
+gure1255,Gureng Gureng,er,23.0
+benc1235,Gimira,gm,48.0
+goli1247,Golin,ph,23.0
+kwin1241,Gunin,er,28.0
+gude1246,Gude,gm,36.0
+gude1246,Gude,aa,36.0
+guru1261,Gurung,ea,49.0
+hooo1248,Ho,ra,43.0
+hooo1248,Ho,ea,35.0
+hoav1238,Hoava,ph,21.0
+huic1243,Huichol,ph,25.0
+yand1253,Innamincka,er,30.0
+iqui1243,Iquito,saphon,19.0
+kris1246,I'saka,ph,18.0
+jams1239,Jamsay,gm,47.0
+kamb1297,Kamba,gm,31.0
+kiku1240,Kikuyu,aa,32.0
+cerm1238,Kirma,aa,46.0
+koko1269,Kokota,ph,27.0
+kork1243,Korku,ra,37.0
+kork1243,Korku,ea,41.0
+kama1373,Kamaiurá,saphon,26.0
+kara1483,Karimojong,gm,66.0
+kama1351,Kamass,ea,37.0
+kama1367,Kamasau,ph,29.0
+konn1242,Konni,ph,49.0
+kinn1249,Kinnauri,ph,46.0
+kokb1239,Kokborok,ra,34.0
+gbay1288,Kresh,aa,56.0
+kara1476,Karadjeri,ph,20.0
+kara1476,Karadjeri,er,21.0
+kuvi1243,Kuvi,ph,37.0
+kuvi1243,Kuvi,ea,37.0
+kuvi1243,Kuvi,ra,47.0
+kwan1273,Kwangali,gm,27.0
+lagw1237,Lagwan,gm,41.0
+laoo1244,Lao,ph,40.0
+laoo1244,Lao,ea,36.0
+lund1266,Lunda,ph,32.0
+gand1255,Luganda,aa,33.0
+lend1245,Lendu,aa,55.0
+leco1242,Leko,saphon,30.0
+lele1276,Lele,aa,36.0
+lele1276,Lele,gm,36.0
+lama1288,Lamang,gm,41.0
+lamb1269,Lamani,ra,41.0
+loth1237,Lotha,ra,46.0
+madi1260,Ma'di,ph,54.0
+mann1248,Mano,gm,39.0
+mang1394,Mangbetu,aa,47.0
+moch1259,Mochica,saphon,32.0
+moco1246,Mocoví,ph,31.0
+moco1246,Mocoví,saphon,29.0
+mend1266,Mende,aa,34.0
+meen1242,Me'en,gm,40.0
+saki1248,Mekens,ph,35.0
+saki1248,Mekens,saphon,26.0
+mung1266,Mungaka,ph,33.0
+mara1378,Marathi,ra,55.0
+karb1241,Mikir,ra,42.0
+lush1249,Mizo,ra,43.0
+wand1278,Malgwa,gm,52.0
+erzy1239,Mordvin (Erzya),ea,35.0
+moru1253,Moru,gm,38.0
+mara1385,Mara,er,23.0
+mara1385,Mara,ph,24.0
+chib1270,Muisca,saphon,22.0
+nucl1440,Masalit,gm,45.0
+matu1259,Matuumbi,gm,23.0
+mati1255,Matis,saphon,21.0
+mwag1236,Mupun,aa,37.0
+murs1242,Mursi,upsid,26.0
+djee1236,Ndjébbana,er,21.0
+ndon1254,Ndonga,gm,34.5
+ngad1258,Ngadjumaja,er,26.0
+ngam1268,Ngambay,aa,34.0
+ngan1295,Ngandi,er,35.0
+tang1336,Naga (Tangkhul),ra,40.0
+ngaw1240,Ngawun,er,21.666666666666668
+nhan1238,Nhanda,er,33.0
+mich1245,Nahuatl (Michoacán),ph,25.0
+narp1239,Nar-Phu,ea,49.0
+nuer1246,Nuer,gm,48.0
+nuer1246,Nuer,ph,48.0
+nupe1254,Nupe,aa,38.0
+nyam1276,Nyamwezi,ph,53.0
+nyul1247,Nyulnyul,er,20.0
+obol1243,Obolo,ph,37.0
+otor1240,Otoro,gm,44.0
+pala1344,Palauan,ph,22.0
+panj1256,Panjabi,ra,54.0
+panj1256,Panjabi,ea,44.0
+panj1256,Panjabi,spa,73.0
+pero1241,Pero,gm,30.0
+pila1245,Pilagá,saphon,22.0
+pila1245,Pilagá,ph,22.0
+piar1243,Piaroa,saphon,30.0
+poko1263,Pokot,gm,39.0
+pali1279,Palikur,saphon,24.0
+puri1258,Purki,ea,37.0
+huam1248,Quechua (Huallaga),ph,31.0
+sipa1247,Sipakapense,ph,32.0
+rawa1265,Rawang,ea,34.0
+bond1245,Remo,ph,27.0
+bond1245,Remo,ra,40.0
+bond1245,Remo,ea,42.0
+nyan1307,Runyankore,ph,28.0
+sumi1235,Sema,ra,49.0
+sumi1235,Sema,uz,41.0
+shil1265,Shilluk,gm,54.0
+shon1251,Shona,ph,42.0
+sida1246,Sidaama,ph,35.0
+sikk1242,Sikkimese,ea,65.0
+shin1264,Shina,ra,48.0
+sooo1256,So,gm,28.0
+sant1410,Santali,ea,57.0
+sant1410,Santali,ra,46.0
+tari1256,Tariana,saphon,38.0
+hueh1236,Tepehua (Huehuetla),ph,36.0
+tlac1235,Tepehua (Tlachichilco),ph,34.0
+tsha1245,Tshangla,ph,37.0
+tsha1245,Tshangla,ea,39.0
+thay1249,Kuuk Thaayorre,er,26.0
+trio1238,Tiriyo,saphon,24.0
+tami1289,Tamil,ra,43.0
+tami1289,Tamil,ph,33.0
+tami1289,Tamil,ea,36.0
+tana1290,Tanacross,ph,54.0
+tune1261,Tunen,gm,26.0
+west2466,Tenyer,aa,45.0
+toba1269,Toba,saphon,27.0
+toba1269,Toba,ph,28.0
+tong1318,Tonga (in Zambia),gm,41.0
+tapi1253,Tapieté,ph,27.0
+tapi1253,Tapieté,saphon,27.0
+suri1267,Tirmaga,ph,31.0
+tama1365,Tamashek,aa,43.0
+tuca1252,Tucano,saphon,27.0
+tzut1248,Tzutujil,ph,35.0
+udmu1245,Udmurt,ea,35.5
+ukra1253,Ukrainian,ph,30.0
+ukra1253,Ukrainian,ea,41.0
+wuzl1236,Uldeme,gm,42.0
+urdu1245,Urdu,ea,58.0
+urdu1245,Urdu,ra,54.0
+urar1246,Urarina,saphon,21.0
+usar1243,Usarufa,ph,22.0
+wage1238,Wagiman,er,27.0
+wakh1245,Wakhi,ea,50.0
+waja1257,Watjarri,er,26.0
+woun1238,Waunana,saphon,33.0
+wola1242,Wolaytta,gm,48.0
+warr1257,Warrnambool,er,26.0
+guar1293,Warekena,saphon,25.0
+warr1258,Warrwa,er,20.0
+xhos1239,Xhosa,gm,84.0
+ying1247,Yingkarta,er,26.0
+gang1267,Yukulta,er,24.0
+zagh1240,Beria,gm,33.0
+isth1244,Zapotec (Isthmus),uz,32.0
+zapa1253,Zaparo,saphon,22.0
+zoog1238,Zapotec (Zoogocho),ph,65.0
+nucl1695,Bole,ph,38.0
+bani1255,Baniwa,saphon,25.0
+bani1255,Baniwa,ph,37.0
+bulu1251,Bulu,aa,36.0
+como1259,Comox,ph,42.0
+coeu1236,Coeur d'Alene,ph,48.0
+dhim1246,Dhimal,ea,53.0
+guma1253,Gumatj,er,31.0
+kumb1268,Gumbaynggir,er,19.0
+hili1240,Hiligaynon,gm,25.0
+halk1245,Halkomelem (Upriver),ph,47.0
+hara1271,Harari,gm,34.0
+ilok1237,Ilocano,ea,25.0
+ilok1237,Ilocano,gm,23.0
+ilok1237,Ilocano,ph,21.0
+pamp1243,Kapampangan,ea,22.0
+pamp1243,Kapampangan,gm,22.0
+lard1243,Lardil,er,25.0
+west2500,Maninka (Western),aa,27.0
+nort2845,Marquesan,ph,22.0
+nang1259,Ngankikurungkurr,er,23.0
+nang1259,Ngankikurungkurr,ph,28.0
+pang1290,Pangasinan,gm,21.0
+remb1249,Rembarnga,er,28.0
+rund1242,Rundi,ph,29.0
+sout2807,Sesotho,ph,46.0
+tigr1271,Tigrinya,gm,39.0
+arbo1245,Arbore,gm,59.0
+veng1238,Babungo,aa,82.0
+defa1248,Defaka,gm,42.0
+pula1262,Fula (Guinean),aa,38.0
+godi1239,Godié,aa,42.0
+ling1263,Lingala,aa,22.0
+afar1241,Qafar,gm,27.0
+rend1243,Rendille,aa,33.0
+tani1257,Retuarã,saphon,21.0
+dupa1235,Agta (Dupaningan),ea,21.0
+dupa1235,Agta (Dupaningan),ph,20.0
+ajab1235,Ajagbe,aa,41.0
+avik1243,Avikam,gm,34.0
+avok1242,Avokaya,aa,55.0
+anyi1245,Anyi,gm,38.333333333333336
+baka1272,Baka (in Cameroon),gm,35.0
+baka1272,Baka (in Cameroon),aa,38.0
+basa1284,Basaá,aa,41.0
+bina1277,Binandere,ph,35.0
+mokp1239,Bakueri,gm,31.0
+buna1275,Bunuba,er,24.0
+bini1246,Bini,aa,48.0
+bank1256,Bankon,gm,37.0
+siwi1239,Berber (Siwa),gm,38.0
+busa1253,Busa,gm,31.0
+chan1310,Chantyal,ea,48.0
+chiq1248,Chiquitano,saphon,26.0
+crow1244,Crow,ph,23.0
+daww1239,Dâw,saphon,39.0
+fonn1241,Fongbe,aa,42.0
+gamo1243,Gamo,gm,36.0
+hdii1240,Hdi,gm,41.0
+hang1263,Hanga Hundi,ph,23.0
+haya1250,Haya,ph,29.0
+luwo1239,Luwo,gm,32.0
+tase1235,Jugli,ra,29.0
+kadi1248,Kadiwéu,ph,31.0
+kadi1248,Kadiwéu,saphon,31.0
+kagu1239,Kagulu,gm,31.0
+kyer1238,Kyirong,ea,63.0
+kham1282,Kham (Dege),ea,77.12499999999999
+kuma1273,Kumauni,ra,42.0
+nuuc1236,Kyuquot,upsid,42.0
+nuuc1236,Kyuquot,ph,47.0
+nuuc1236,Kyuquot,spa,47.0
+kaya1329,Kayabí,saphon,26.0
+kaya1329,Kayabí,ph,24.0
+orok1266,Londo,ph,29.0
+lega1249,Lega,gm,38.0
+lese1243,Lese,gm,42.0
+lule1238,Lule,saphon,21.0
+mada1293,Mada (in Cameroon),ph,40.0
+mund1325,Mundang,gm,67.0
+maga1260,Magahi,ea,50.0
+miju1243,Miju,ra,54.0
+mamb1294,Mambai,ph,54.0
+mofu1248,Mofu-Gudur,aa,44.0
+mofu1248,Mofu-Gudur,gm,40.0
+mund1330,Mundurukú,saphon,37.0
+mund1330,Mundurukú,ph,39.0
+motl1237,Mwotlap,ph,22.0
+mayo1261,Mayogo,gm,46.0
+maza1291,Mazanderani,ph,29.0
+ntch1242,Ncàm,gm,36.5
+ntch1242,Ncàm,aa,30.0
+ngba1285,Ngbaka (Minagende),aa,34.0
+maon1238,Naga (Mao),ra,30.0
+seco1241,Secoya,saphon,26.0
+seco1241,Secoya,ph,18.0
+shab1252,Shabo,ph,43.0
+east2337,Shira Yughur,ea,42.0
+samb1305,Samba Leko,ph,34.0
+siam1242,Seme,gm,41.0
+subi1246,Subiya,ph,51.0
+thak1245,Thakali,ea,29.0
+thul1246,Thulung,ph,38.0
+torw1241,Torwali,ph,51.0
+colo1256,Tsafiki,ph,25.0
+colo1256,Tsafiki,saphon,26.0
+wira1265,Wirangu,er,23.0
+yami1256,Yaminahua,saphon,19.5
+zarm1239,Zarma,aa,40.0
+brok1247,Brokskat,ph,41.0
+brok1247,Brokskat,ra,56.0
+tiey1235,Bozo (Tigemaxo),gm,36.0
+dege1246,Degema,gm,36.0
+dhiv1236,Dhivehi,ea,39.0
+gura1252,Gurr-goni,er,27.0
+djam1255,Jaminjung,er,22.0
+kond1295,Konda,ra,43.0
+koda1255,Kodava,ra,52.0
+lazz1240,Laz,ea,36.8
+lazz1240,Laz,ph,32.0
+nucl1327,Limilngan,er,25.0
+mats1244,Matsés,ph,21.0
+mats1244,Matsés,saphon,21.0
+olut1240,Olutec,ph,32.0
+siar1238,Siar,ph,22.0
+kild1236,Saami (Kildin),ea,128.0
+malo1243,Tamabo,ph,21.0
+yawu1244,Yawuru,er,28.0
+diml1238,Zazaki,ph,44.0
+chim1300,Zoque (Chimalapa),ph,26.0
+pany1241,Panyjima,er,25.0
+nauk1242,Yupik (Naukan),ea,22.0
+afri1274,Afrikaans,gm,39.0
+berb1259,Berbice Dutch Creole,ph,26.0
+band1352,Bandi,aa,48.0
+guri1247,Gurindji,er,23.0
+jama1262,Jamaican Creole,ph,33.0
+kulu1253,Kulung,ph,43.0
+loma1260,Loma,gm,51.0
+loma1260,Loma,aa,42.0
+beli1260,Mískito Coast English Creole,ph,35.0
+mori1278,Mauritian Creole,gm,30.0
+mala1481,Manadonese,gm,25.0
+legb1242,Leggbó,gm,53.0
+logo1259,Logoti,gm,39.0
+nucl1696,Tangale,gm,60.0
+nija1241,Balyku,er,25.5
+bayu1240,Bayungu,er,26.0
+dhal1245,Dhalandji,er,26.0
+guga1239,Gugadj,er,23.0
+guny1241,Gunya,er,31.0
+gupa1247,Gupapuyngu,er,31.0
+kayt1238,Kaytej,er,43.0
+mudb1240,Mudburra,er,23.0
+ngar1287,Ngarluma,er,23.0
+nyam1271,Nyamal,er,23.0
+nyan1301,Nyangumarda,er,21.0
+nyan1301,Nyangumarda,spa,27.0
+umpi1239,Umpila,er,22.0
+kari1304,Kariera,er,23.0
+wanm1242,Wanman,er,23.0
+wang1290,Wangkangurru,er,24.0
+waru1264,Warrongo,er,17.0
+waka1274,Wagawaga,er,23.0
+waru1265,Warumungu,er,28.0
+woiw1237,Woiwurrung,er,23.0
+yala1262,Yalarnnga,er,24.0
+yayg1236,Yaygir,er,20.0
+bade1248,Bade,gm,46.0
+kaby1243,Kabyle,ph,30.0
+huba1236,Kilba,gm,31.0
+juan1238,Juang,ph,29.0
+juan1238,Juang,ra,36.0
+juan1238,Juang,ea,37.0
+mund1327,Mundani,aa,41.0
+nort2980,Quechua (Tarma),saphon,24.0
+cand1248,Candoshi,saphon,27.0
+kuoo1238,Koh (Lakka),gm,56.0
+kari1311,Karitiâna,saphon,31.0
+kari1311,Karitiâna,ph,25.0
+nade1244,Nadëb,saphon,34.0
+sanj1284,Zapotec (San Lucas Quiaviní),ph,47.0
+ango1258,Angolar,gm,36.0
+nort2641,Kurmanji,upsid,47.0
+nort2641,Kurmanji,ea,38.0
+ibib1240,Ibibio,ph,32.0
+ntom1248,Ntomba,gm,30.0
+taro1264,Seediq,ph,43.0
+kiny1244,Kinyarwanda,ph,49.0
+soni1259,Soninke,gm,50.0
+soni1259,Soninke,aa,45.5
+west2354,Frisian (Western),ea,51.0
+vlax1238,Romani (Kalderash),ea,34.0
+vlax1238,Romani (Kalderash),uz,39.0
+toda1252,Toda,ra,53.0
+boik1241,Boiken,ph,25.0
+amii1238,Emmi,er,32.0
+kore1283,Koreguaje,saphon,30.0
+kano1245,Kanoê,ph,26.0
+kano1245,Kanoê,saphon,26.0
+kaya1330,Kayapó,saphon,33.0
+lisu1250,Lisu,ph,39.0
+lisu1250,Lisu,ea,42.0
+luch1239,Lucazi,ph,42.0
+mach1267,Machiguenga,saphon,27.0
+miri1266,Miriwung,er,20.0
+shar1245,Sharanahua,saphon,22.5
+nucl1634,Skou,ph,23.0
+tuyu1244,Tuyuca,saphon,23.0
+uruu1244,Uru,saphon,33.0
+wikn1245,Wik Ngathana,er,28.0
+wath1238,Wathawurrung,er,23.0
+yama1264,Yahgan,saphon,20.0
+awiy1238,Auyana,spa,20.0
+xiri1243,Xiriana,saphon,24.0
+xiri1243,Xiriana,upsid,25.0
+binu1245,Binumarien,ph,16.0
+cogu1240,Cogui,saphon,36.0
+east2555,Chiriguano,saphon,24.0
+mala1522,Damana,saphon,27.0
+nige1253,Fulfulde (Nigerian),gm,47.5
+huar1255,Guarijío,ph,26.0
+mbal1255,Mbalanhu,gm,31.0
+peng1244,Pengo,ra,32.0
+lowe1385,Sorbian (Lower),ea,42.0
+boro1277,Shinassha,ra,32.0
+boro1277,Shinassha,ph,25.0
+susu1250,Susu,aa,35.0
+waya1270,Wayampi,saphon,25.5
+dual1243,Duala,aa,33.0
+nort2626,Frisian (North),ph,42.0
+uppe1455,Guinea Bissau Crioulo,gm,28.0
+gali1258,Galician,ph,28.0
+gali1258,Galician,ea,30.0
+here1253,Herero,gm,26.0
+nort2627,Low German,ph,37.0
+ladi1251,Ladino,uz,34.0
+ladi1251,Ladino,ea,25.0
+bora1271,Oromo (Boraana),gm,36.0
+prin1242,Príncipense,gm,31.0
+uppe1395,Sorbian (Upper),ea,42.0
+veps1250,Veps,ea,44.0
+andi1255,Andi,ea,68.0
+idaa1241,Begak-Ida'an,ph,23.0
+boko1266,Boko,aa,34.0
+swis1247,German (Appenzell),ea,55.0
+swis1247,German (Appenzell),uz,56.0
+pait1244,Paite,ra,30.0
+cusc1236,Quechua (Cuzco),saphon,31.0
+waiw1244,Wai Wai,saphon,20.0
+east2295,Yiddish (Bessarabian),ea,37.0
+east2295,Yiddish (Bessarabian),ph,47.0
+yagn1238,Yaghnobi,ea,36.0
+yems1235,Yemsa,gm,40.0
+amar1274,Amarakaeri,saphon,33.0
+sout2918,Sama (Southern),gm,23.0
+lowa1242,Baragaunle,ea,42.5
+east2563,Cham (Eastern),spa,35.0
+east2563,Cham (Eastern),gm,30.0
+east2563,Cham (Eastern),upsid,32.0
+culi1244,Culina,saphon,21.0
+deni1241,Dení,saphon,22.0
+keoo1238,Keo,ph,30.0
+besi1244,Mah Meri,uz,58.0
+besi1244,Mah Meri,ea,58.0
+mola1238,Molala,ph,30.0
+orej1242,Orejón,saphon,20.0
+pare1272,Paresi,saphon,19.0
+tere1279,Terêna,saphon,23.0
+waur1244,Waurá,saphon,26.0
+kunz1244,Atacameño,saphon,33.0
+ayor1240,Ayoreo,saphon,30.0
+bila1255,Bila,gm,33.0
+guaj1255,Guajajara,ph,21.0
+guaj1255,Guajajara,saphon,22.0
+iwai1244,Iwaidja,er,23.0
+mamb1296,Mambwe,gm,36.0
+rikb1245,Rikbaktsa,saphon,28.0
+xere1240,Xerénte,saphon,27.0
+lako1244,Vata,aa,57.0
+waya1269,Wayana,saphon,16.0
+waya1269,Wayana,ph,16.0
+kung1261,!Xun (Ekoka),gm,120.0
+mich1243,Michif,ph,41.0
+palo1243,Palor,gm,43.0
+duru1236,Parji (Dravidian),ra,31.0
+serr1255,Serrano,ph,42.0
+temm1241,Tem,aa,36.0
+ajas1235,Aja,gm,48.0
+dibo1245,Babole,gm,31.0
+bemb1257,Bemba,ph,25.0
+kusu1250,Kusunda,ph,38.0
+madn1237,Matngele,er,22.0
+mari1419,Maringarr,er,32.0
+samo1303,Samo,ph,18.0
+sher1255,Sherpa,ea,48.5
+tuki1240,Tuki,gm,39.0
+yaoo1241,Yao (in Malawi),gm,29.0
+yans1239,Yansi,gm,42.0
+aran1237,Arandai,ph,18.0
+buku1249,Bukusu,ph,30.0
+cash1254,Cashinahua,saphon,23.0
+guja1253,Gojri,ph,50.0
+guja1253,Gojri,ra,57.0
+idom1241,Idoma,gm,75.0
+kete1252,Kete,gm,25.0
+keny1279,Kenyang,ph,41.0
+mong1338,Mongo,gm,56.0
+ndog1248,Ndogo,gm,38.0
+naga1394,Naga Pidgin,ph,47.0
+nate1242,Nateni,gm,40.0
+nubi1253,Nubi,ph,35.0
+svan1243,Svan,ea,47.0
+vagl1239,Vagla,aa,54.0
+bafu1246,Bafut,aa,49.0
+nort2784,Nuni (Northern),aa,54.0
+dyul1238,Dyula,aa,39.0
+kase1253,Kasem,aa,42.5
+pott1240,Gadaba (Kondekor),ra,34.0
+pott1240,Gadaba (Kondekor),ea,39.0
+amdo1237,Amdo,ea,55.333333333333336
+mesc1238,Apache (Chiricahua),ph,51.0
+jeme1245,Jemez,ph,61.0
+ming1252,Mingrelian,ea,36.0
+ming1252,Mingrelian,ph,35.0
+pemo1248,Pemon,saphon,19.0
+nort2966,Pomo (Northern),ph,39.0
+sayu1241,Sayula Popoluca,ph,25.0
+abau1245,Abau,ph,14.0
+toca1235,Asuriní,saphon,16.0
+baga1272,Baga Sitemu,ph,26.0
+moch1256,Chaga,gm,25.0
+chau1259,Chaudangsi,ra,42.0
+holo1240,Holoholo,gm,26.0
+huaa1248,=|Hoan,gm,161.0
+iged1239,Igede,aa,38.0
+kabi1261,Kabiyé,aa,47.0
+kabi1261,Kabiyé,ph,47.0
+kuik1246,Kuikúro,saphon,26.0
+kren1239,Krenak,saphon,35.0
+lang1320,Langi,ph,52.0
+mako1251,Makonde,ph,28.0
+ngem1255,Mankon,ph,40.0
+maka1304,Makaa,aa,55.0
+pang1287,Pangwa,gm,35.0
+pana1307,Panará,saphon,26.0
+rong1268,Ronga,gm,69.0
+suku1261,Sukuma,gm,57.0
+tivv1240,Tiv,gm,40.0
+tupu1244,Tupuri,gm,56.0
+taus1253,Taushiro,saphon,17.0
+warl1256,Warluwara,er,33.0
+wann1242,Wan,aa,36.0
+waam1244,Waama,aa,41.0
+acha1249,Achang,ea,59.0
+myen1241,Mpongwe,gm,36.0
+mana1288,Manange,ea,41.0
+mana1288,Manange,ph,45.0
+tata1257,Tatana',ph,21.0
+sich1238,Nuosu,ea,74.0
+tern1247,Ternate,ph,25.0
+piap1246,Piapoco,saphon,19.0
+bodo1267,Gutob,ea,36.0
+bodo1267,Gutob,ra,40.0
+saam1283,Luyia,gm,34.0
+lyel1241,Lyele,ph,34.0
+lyel1241,Lyele,aa,44.0
+noma1263,Nomatsiguenga,saphon,25.0
+surs1246,Sursurunga,ph,21.0
+pume1238,Yaruro,saphon,38.0
+guan1269,Guanano,saphon,28.0
+guan1269,Guanano,ph,24.0
+burj1242,Burji,gm,36.0
+nucl1683,Daba,aa,47.0
+nucl1683,Daba,gm,46.0
+kura1250,Koranko,gm,54.0
+gida1247,Gidar,ph,38.0
+koor1239,Koorete,gm,61.0
+jica1244,Apache (Jicarilla),ph,56.0
+nige1257,Nigerian Pidgin,ph,32.0
+beng1286,Beng,aa,49.0
+embe1260,Catio,saphon,31.0
+cola1237,Colac,er,22.0
+chim1309,Chimila,saphon,36.0
+jola1262,Diola-Kasa,gm,51.0
+curr1243,Curripaco,saphon,29.0
+guay1257,Guayabero,saphon,22.0
+huam1247,Huambisa,saphon,23.0
+nort2943,Iñupiaq,ph,27.0
+kaur1267,Kaurna,er,25.0
+kitu1246,Kituba,gm,22.0
+maca1260,Maca,saphon,32.0
+maca1259,Macaguán,saphon,22.0
+macu1260,Macuna,saphon,22.0
+mapo1246,Mapoyo,saphon,19.0
+bari1297,Barí,saphon,22.0
+lake1258,Miwok (Lake),ph,39.0
+nuka1242,Nukak,saphon,24.0
+omag1248,Omagua,saphon,18.0
+pira1254,Piratapuyo,saphon,24.0
+puin1248,Puinave,saphon,19.0
+caja1238,Quechua (Cajamarca),saphon,22.0
+siri1274,Siriano,saphon,23.0
+tatu1247,Tatuyo,ph,17.0
+tatu1247,Tatuyo,saphon,17.0
+yuru1263,Yuruti,saphon,17.0
+yort1237,Yorta Yorta,er,19.5
+maas1239,Fulfulde (Maasina),aa,37.0
+abid1235,Abidji,gm,38.0
+abid1235,Abidji,aa,39.0
+bhil1251,Bhili,ra,62.0
+chum1261,Chumburung,aa,30.0
+nugu1242,Gunu,aa,26.0
+nugu1242,Gunu,gm,35.0
+halb1244,Halbi,ra,42.0
+konk1269,Konkomba,aa,42.0
+konk1269,Konkomba,gm,38.0
+mund1326,Mündü,aa,41.0
+mamp1244,Mampruli,gm,36.0
+mamp1244,Mampruli,aa,32.0
+nafa1258,Nafaanra,aa,44.0
+weno1238,Wobe,aa,48.0
+astu1245,Asturian,ea,26.5
+bada1257,Badaga,ra,38.0
+west2454,Ful (Liptako),aa,32.0
+luxe1241,Luxemburgeois,ea,48.0
+luxe1241,Luxemburgeois,uz,46.0
+paka1251,Pakanha,er,31.0
+bamu1253,Bamun,ph,38.0
+guro1248,Guro,gm,57.0
+ligu1248,Italian (Genoa),ea,45.0
+kitj1240,Kitja,er,24.0
+komc1235,Kom,aa,75.0
+lamn1239,Lamnso',aa,45.0
+east2426,Maninka,aa,36.0
+yamb1251,Yamba,aa,38.0

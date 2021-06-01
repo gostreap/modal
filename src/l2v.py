@@ -96,4 +96,20 @@ def plot_dendrogram(langs, method="average", threshold=0.5):
     plt.show()
 
 
-plot_dendrogram(euro)
+# plot_dendrogram(euro)
+
+
+def write_dist_matrix(langs, threshold=20):
+    wals = load_wals()
+    M = dist_matrix(langs)
+    dist_file = open("dist_matrix.txt", "w")
+    for m in M:
+        dist_file.write(" ".join(map(str, m)) + "\n")
+    dist_file.close()
+
+    label_file = open("labels.txt", "w")
+    for lang in langs.keys():
+        label_file.write("{}\n".format(wals[lang]["language"]))
+    label_file.close()
+
+write_dist_matrix(euro)

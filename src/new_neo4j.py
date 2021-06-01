@@ -63,10 +63,10 @@ def create_edges_lang_features(wals, feature_list):
 
 def create_edges_lang_phonemes(phoible, wals):
     file = open("../data/neo4j_graph_new/edges_lang_phonemes.csv", "w")
-    file.write("glottocode,Phoneme,dataset\n")
+    file.write("Glottocode,Phoneme,Dataset,Dialect\n")
     for index, row in phoible.iterrows():
         if row["Glottocode"] in wals:
-            file.write('"{}","{}","{}"\n'.format(row["Glottocode"], row["Phoneme"], row["Source"]).replace('"',''))    
+            file.write('"{}","{}","{}","{}"\n'.format(row["Glottocode"], row["Phoneme"], row["Source"], row["LanguageName"] + " - " + row["SpecificDialect"]).replace('"',''))    
     file.close()
 
 

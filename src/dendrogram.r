@@ -7,7 +7,7 @@ mat <- matrix(mat, ncol = sqrt(length(mat)), byrow = TRUE)
 rownames(mat) <- lab
 hc <- hclust(as.dist(mat), method="average")
 
-n <- 60
+n <- 7
 qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
 colors = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
 
@@ -16,5 +16,5 @@ colors = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pa
 clus4 = cutree(hc, n)
 pdf("plot/dendrogram_circular/test.pdf")
 plot(as.phylo(hc), type = "fan", tip.color = colors[clus4],
-     label.offset = 0.01, cex=0.2)
+     label.offset = 0.01, cex=0.6)
 dev.off()

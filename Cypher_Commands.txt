@@ -1,3 +1,5 @@
+### CREATE NEO4J DATABASE
+
 LOAD CSV WITH HEADERS FROM 'file:///nodes_features.csv' AS line
 CREATE (F:Feature {id: line.id, name: line.name})
 
@@ -15,15 +17,14 @@ SET edgewals=row, edgewals.Value = toInteger(row.Value)
 
 LOAD CSV WITH HEADERS FROM "file:///edges_lang_phonemes.csv" AS row
 MATCH (L:Language), (P:Phoneme)
-WHERE L.glottocode = row.glottocode AND P.name = row.Phoneme
+WHERE L.glottocode = row.Glottocode AND P.name = row.Phoneme
 CREATE (L)-[edgephoible:PHON]->(P)
-SET edgephoible=row, edgephoible.Dataset = row.dataset
+SET edgephoible=row
 
-MATCH ()-[r:FEAT]->(F:Feature)
-RETURN F, SIZE(r)
+### PHONEME INVENTORY SIZE BY DATASET
 
-MATCH ()-[r:PHON]->(P:Phoneme)
-RETURN P, SIZE(r)
-
-MATCH (L:Language) RETURN SIZE((L)-[:PHON{dataset:"ea"}]->())
-
+MATCH (L:Language) 
+WITH L
+MATCH (L)-[r:PHON]->() 
+WITH r.Dataset as ds, r.Dialect as dial, L, COUNT(r) as c
+RETURN L.glottocode, L.name as name, ds, AVG(c)
