@@ -28,3 +28,4 @@ def plot_vowel_consonant():
 
 
 plot_vowel_consonant()
+# %%
