@@ -1,4 +1,4 @@
-# %%
+#" %%",
 import json
 import math
 import numpy as np
@@ -100,7 +100,6 @@ def load_most_spoken():
         a, b = line.split()
         most_spoken[a] = int(b)
     return most_spoken
-
 
 # %%
 NOT_FEATURES = ["language", "genus", "family", "latitude", "longitude"]
@@ -279,5 +278,3 @@ def plot_geo_lang_dist(langs):
     plt.plot(X, Y, "x")
     plt.show()
 
-
-# %%

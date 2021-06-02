@@ -38,8 +38,11 @@ RETURN L.glottocode, L.name as name, ds as dataset, dial as dialect, consonant, 
 
 ### TOP 20 LANGUAGE BY NUMBER OF PHONEME WITH MORE THAN 100 WALS FEATURES
 
-MATCH (L)-[ph:PHON|FEAT]->()
-WHERE COUNT(ph) >= 100 
-RETURN L.glottocode, L.name, COUNT(ph)
-ORDER BY DESC COUNT(ph)
+MATCH (L)-[fe:FEAT]->()
+WITH L, COUNT(fe) as nb_features
+MATCH (L)-[ph:PHON]->()
+WHERE nb_features >= 100
+WITH ph.Dataset as ds, ph.Dialect as dial, L, COUNT(ph) as nb_phonemes
+RETURN L.glottocode, L.name, AVG(nb_phonemes)
+ORDER BY AVG(nb_phonemes) DESC
 LIMIT 20
