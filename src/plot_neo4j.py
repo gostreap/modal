@@ -40,7 +40,7 @@ def count_couple():
 
 def plot_vowel_consonant():
     data = count_couple()
-    sns.set(rc={"figure.figsize": (15, 25)})
+    sns.set(rc={"figure.figsize": (24, 10)})
     sns.scatterplot(data=data, x=data["Consonant"], y=data["Vowel"], hue=data["Group"])
     plt.show()
 
