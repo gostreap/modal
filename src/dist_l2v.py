@@ -8,7 +8,7 @@ import scipy
 # df.to_csv("../data/dist_l2v_syntactic.csv")
 
 # Load distance matrix
-df = np.read_csv("../data/dist_l2v_syntactic.csv")
+df = np.read_csv("../data/common/dist_l2v_syntactic.csv")
 dist = df.to_numpy()
 dist = dist[:,1:]
 

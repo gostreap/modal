@@ -6,7 +6,7 @@ import seaborn as sns
 
 # %%
 def plot_phoneme_inventory_size():
-    data = pd.read_csv("../data/neo4j/phoneme_inventory_size_by_dataset.csv")
+    data = pd.read_csv("../data/neo4j_results/phoneme_inventory_size_by_dataset.csv")
     set_dataset = set(data["ds"])
     grouped = data.groupby(data.ds)
     for s in set_dataset:
@@ -21,7 +21,7 @@ def plot_phoneme_inventory_size():
 
 # %%
 def count_couple():
-    data = pd.read_csv("../data/neo4j/consonant_vowel_by_dialect.csv")
+    data = pd.read_csv("../data/neo4j_results/consonant_vowel_by_dialect.csv")
     dic_cons = dict()
     for idx, row in data.iterrows():
         if row["Consonant"] not in dic_cons:

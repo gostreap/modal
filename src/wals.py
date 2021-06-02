@@ -1,4 +1,4 @@
-#" %%",
+# %%
 import json
 import math
 import numpy as np
@@ -13,7 +13,7 @@ from scipy.spatial.distance import squareform
 
 feature_list = [
     feature.strip().upper()
-    for feature in open("../data/feature_list.txt", "r").readlines()
+    for feature in open("../data/common/feature_list.txt", "r").readlines()
 ]
 
 # %%
@@ -83,20 +83,20 @@ def save_to_json(data, path):
 
 
 def load_languages_features():
-    return json.load(open("../data/languages_features.json"))
+    return json.load(open("../data/common/languages_features.json"))
 
 
 def load_languages_geo():
-    return json.load(open("../data/languages_geo.json"))
+    return json.load(open("../data/common/languages_geo.json"))
 
 
 def load_wals():
-    return json.load(open("../data/wals.json"))
+    return json.load(open("../data/common/wals.json"))
 
 
 def load_most_spoken():
     most_spoken = dict()
-    for line in open("../data/most_spoken_wals", "r").readlines():
+    for line in open("../data/common/most_spoken_wals", "r").readlines():
         a, b = line.split()
         most_spoken[a] = int(b)
     return most_spoken
@@ -211,7 +211,7 @@ def clusterize(langs, method="average", threshold=0.5):
 def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55, number_of_locutor = dict()):
     cluster = clusterize(langs, threshold=cluster_threshold)
     # cluster = [wals[lang]["family"] for lang in langs]
-    nodes = open("../data/Graph_lang_wals_nodes.csv", "w")
+    nodes = open("../data/gephi/Graph_lang_wals_nodes.csv", "w")
     nodes.write("Id,Label, lat, lng, cluster, size\n")
     for i, lang in enumerate(langs):
         nodes.write(
@@ -227,7 +227,7 @@ def lang_dist_to_csv(langs, threshold=0.5, cluster_threshold=0.55, number_of_loc
     nodes.close()
 
     M = dist_matrix(langs)
-    edges = open("../data/Graph_lang_wals_edges.csv", "w")
+    edges = open("../data/gephi/Graph_lang_wals_edges.csv", "w")
     edges.write("Source,Target,Id,Length,Type,Weight\n")
     for i in range(len(langs)):
         for j in range(i + 1, len(langs)):

@@ -6,12 +6,12 @@ from lingtypology.datasets import Phoible
 # %%
 def write_data():
     data = Phoible(aggregated=False).get_df()
-    data.to_csv("../data/phoeble.csv", index=False)
+    data.to_csv("../data/common/phoible.csv", index=False)
 
 
 # %%
 def load_data():
-    return pd.read_csv("../data/phoeble.csv", low_memory=False)
+    return pd.read_csv("../data/common/phoible.csv", low_memory=False)
 
 
 # %%

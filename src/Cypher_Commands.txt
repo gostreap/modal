@@ -1,0 +1,48 @@
+### CREATE NEO4J DATABASE
+
+LOAD CSV WITH HEADERS FROM 'file:///nodes_features.csv' AS line
+CREATE (F:Feature {id: line.id, name: line.name})
+
+LOAD CSV WITH HEADERS FROM 'file:///nodes_lang.csv' AS line
+CREATE (L:Language {name: line.Name, glottocode: line.glottocode, genus :line.Genus, family : line.Family, latitude :toFloat(line.Latitude), longitude :toFloat(line.Longitude)})
+
+LOAD CSV WITH HEADERS FROM 'file:///phonemes_nodes.csv' AS line
+CREATE (P:Phoneme {description: line.description, equivalent: line.equivalence_class, id :line.id, name : line.name, type : line.segment_class})
+
+LOAD CSV WITH HEADERS FROM "file:///edges_lang_features.csv" AS row
+MATCH (L:Language), (F:Feature)
+WHERE L.glottocode = row.Source AND F.id = row.Target
+CREATE (L)-[edgewals:FEAT]->(F)
+SET edgewals=row, edgewals.Value = toInteger(row.Value)
+
+LOAD CSV WITH HEADERS FROM "file:///edges_lang_phonemes.csv" AS row
+MATCH (L:Language), (P:Phoneme)
+WHERE L.glottocode = row.Glottocode AND P.name = row.Phoneme
+CREATE (L)-[edgephoible:PHON]->(P)
+SET edgephoible=row
+
+### PHONEME INVENTORY SIZE BY DATASET
+
+MATCH (L)-[r:PHON]->() 
+WITH r.Dataset as ds, r.Dialect as dial, L, COUNT(r) as c
+RETURN L.glottocode, L.name as name, ds, AVG(c)
+
+### VOWEL / CONSONNANT BY LANGUAGE
+
+MATCH (L)-[r:PHON]->(P) 
+WHERE P.type = "consonant"
+WITH r.Dataset as ds, r.Dialect as dial, L, Count(P) as consonant
+MATCH (L)-[r:PHON]->(P)
+WHERE P.type = "vowel" AND r.Dataset = ds AND r.Dialect = dial
+RETURN L.glottocode, L.name as name, ds as dataset, dial as dialect, consonant, COUNT(P) as vowel
+
+### TOP 20 LANGUAGE BY NUMBER OF PHONEME WITH MORE THAN 100 WALS FEATURES
+
+MATCH (L)-[fe:FEAT]->()
+WITH L, COUNT(fe) as nb_features
+MATCH (L)-[ph:PHON]->()
+WHERE nb_features >= 100
+WITH ph.Dataset as ds, ph.Dialect as dial, L, COUNT(ph) as nb_phonemes
+RETURN L.glottocode, L.name, AVG(nb_phonemes)
+ORDER BY AVG(nb_phonemes) DESC
+LIMIT 20

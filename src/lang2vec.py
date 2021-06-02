@@ -16,7 +16,7 @@ def get_iso_to_id():
 
 
 def get_dist():
-    return pd.read_csv("../data/dist_l2v_syntactic.csv").to_numpy()[:,1:]
+    return pd.read_csv("../data/common/dist_l2v_syntactic.csv").to_numpy()[:,1:]
 
 
 dist = get_dist()
@@ -24,7 +24,7 @@ iso_to_id = get_iso_to_id()
 
 
 def load_wals():
-    return json.load(open("../data/wals.json"))
+    return json.load(open("../data/common/wals.json"))
 
 
 euro = {
